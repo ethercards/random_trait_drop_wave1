@@ -1,0 +1,849 @@
+[
+    {
+        "traits": [
+            "Reforge",
+            "10% Discount"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "5% Discount",
+            "Reroll"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Art Drop"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Forge Protector",
+            "Rando Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "5% Discount",
+            "Free Ticket"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Rando Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Rando Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "10% Discount",
+            "Reroll"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "Art Drop"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Free Ticket",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Rando Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "5% Discount"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "10% Discount"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "5% Discount",
+            "Reroll"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Extra Limited Trait Slot"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Rando Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Art Drop"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Free Ticket"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "50% Discount",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "discount",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "5% Discount"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "10% Discount"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Free Ticket"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "5% Discount"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "25% Discount",
+            "Rando Dropper"
+        ],
+        "trait_types": [
+            "discount",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Rando Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Reroll"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Reroll"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reroll",
+            "Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    }
+]
