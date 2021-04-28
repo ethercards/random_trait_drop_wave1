@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
+    "series": "Alpha"
+}

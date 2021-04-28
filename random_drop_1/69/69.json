@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Unicorn",
+        "Reforge",
+        "Art Drop",
+        "Free Ticket"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
+    "series": "OG"
+}

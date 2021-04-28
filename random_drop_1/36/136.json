@@ -1,0 +1,11 @@
+{
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "10% Discount"
+    ],
+    "trait_types": [
+        "discount"
+    ],
+    "series": "Alpha"
+}

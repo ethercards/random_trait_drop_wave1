@@ -1,0 +1,11 @@
+{
+    "traits": [
+        "OG Upgrade",
+        "25% Discount"
+    ],
+    "trait_types": [
+        "upgrade",
+        "discount"
+    ],
+    "series": "Founder"
+}

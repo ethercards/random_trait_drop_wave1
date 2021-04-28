@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Unicorn",
+        "Forge Protector",
+        "5% Discount",
+        "Free Ticket"
+    ],
+    "trait_types": [
+        "discount"
+    ],
+    "series": "Alpha"
+}

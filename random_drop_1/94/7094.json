@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Free Ticket"
+    ],
+    "trait_types": [
+        "upgrade",
+        "discount"
+    ],
+    "series": "Founder"
+}

@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "25% Discount"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
+    "series": "Alpha"
+}

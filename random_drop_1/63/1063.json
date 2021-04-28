@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Unicorn",
+        "Forge Protector",
+        "5% Discount",
+        "Rando Dropper"
+    ],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
+    "series": "Founder"
+}

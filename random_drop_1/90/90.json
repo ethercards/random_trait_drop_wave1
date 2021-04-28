@@ -1,0 +1,14 @@
+{
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
+    "series": "OG"
+}

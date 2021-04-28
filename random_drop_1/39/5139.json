@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Alpha Upgrade",
+        "50% Discount",
+        "Free Ticket"
+    ],
+    "trait_types": [
+        "upgrade",
+        "discount"
+    ],
+    "series": "Founder"
+}

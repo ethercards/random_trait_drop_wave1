@@ -122,6 +122,9 @@ def generate_random_traits():
         if x["series"] == "Founder":
             founder_traits.append(x)
 
+    with open("./random_traits.json", "w") as write_file:
+        json.dump(trait_array, write_file, indent=4)
+    
     with open("./random_traits_og.json", "w") as write_file:
         json.dump(og_traits, write_file, indent=4)
     

@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll",
+        "Rando Dropper"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
+    "series": "Founder"
+}

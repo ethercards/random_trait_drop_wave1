@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Alpha Upgrade",
+        "10% Discount",
+        "Disco Dropper"
+    ],
+    "trait_types": [
+        "upgrade",
+        "discount",
+        "dropper"
+    ],
+    "series": "Founder"
+}

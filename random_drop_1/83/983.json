@@ -1,0 +1,13 @@
+{
+    "traits": [
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "5% Discount"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
+    "series": "Alpha"
+}

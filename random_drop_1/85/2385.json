@@ -1,0 +1,10 @@
+{
+    "traits": [
+        "Redeemable",
+        "5% Discount"
+    ],
+    "trait_types": [
+        "discount"
+    ],
+    "series": "Founder"
+}

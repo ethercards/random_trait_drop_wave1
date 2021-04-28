@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Unicorn",
+        "10% Discount",
+        "Rando Dropper"
+    ],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
+    "series": "Alpha"
+}

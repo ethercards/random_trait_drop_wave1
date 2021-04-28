@@ -1,0 +1,15 @@
+{
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "10% Discount",
+        "Disco Dropper"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
+    "series": "OG"
+}

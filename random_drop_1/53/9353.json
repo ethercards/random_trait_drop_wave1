@@ -1,0 +1,15 @@
+{
+    "traits": [
+        "Reforge",
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Rando Dropper"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
+    "series": "Founder"
+}

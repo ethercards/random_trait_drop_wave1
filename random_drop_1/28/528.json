@@ -1,0 +1,11 @@
+{
+    "traits": [
+        "Art Drop",
+        "Forge Protector",
+        "50% Discount"
+    ],
+    "trait_types": [
+        "discount"
+    ],
+    "series": "Alpha"
+}

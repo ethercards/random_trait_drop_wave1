@@ -1,0 +1,12 @@
+{
+    "traits": [
+        "Reforge",
+        "Alpha Upgrade",
+        "Lucky Reroll"
+    ],
+    "trait_types": [
+        "reforge",
+        "upgrade"
+    ],
+    "series": "Founder"
+}
