@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

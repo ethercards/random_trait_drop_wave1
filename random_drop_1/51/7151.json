@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "5% Discount",
+        "Lucky Reroll",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "drop"
     ],
     "series": "Founder"
 }

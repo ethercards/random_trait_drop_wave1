@@ -1,8 +1,14 @@
 {
     "traits": [
+        "5% Discount",
         "Free Ticket",
-        "Lucky Reroll"
+        "True Name",
+        "New Commons",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "drop"
+    ],
     "series": "Founder"
 }

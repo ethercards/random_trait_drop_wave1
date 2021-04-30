@@ -2,13 +2,11 @@
     "traits": [
         "Reforge",
         "Art Drop",
-        "Forge Protector",
-        "10% Discount",
-        "Lucky Reroll"
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

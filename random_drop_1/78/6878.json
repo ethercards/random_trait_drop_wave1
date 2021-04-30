@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Free Ticket"
+        "Unicorn",
+        "Reforge + ",
+        "Glittery"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

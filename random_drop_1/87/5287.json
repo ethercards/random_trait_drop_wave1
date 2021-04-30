@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Reforge",
+        "Alpha Upgrade",
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "upgrade"
+    ],
     "series": "Founder"
 }

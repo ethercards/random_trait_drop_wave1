@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

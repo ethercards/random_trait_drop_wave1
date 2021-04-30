@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Rando Dropper"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -2,11 +2,10 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Rando Dropper"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

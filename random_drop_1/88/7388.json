@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
+        "Reforge",
         "Forge Protector",
-        "10% Discount",
-        "Disco Dropper"
+        "5% Discount",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
+        "reforge",
         "discount",
         "dropper"
     ],

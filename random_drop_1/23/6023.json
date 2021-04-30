@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Unicorn"
+        "Reforge",
+        "Forge Protector",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "redeem"
+    ],
     "series": "Founder"
 }

@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Reroll"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "5% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Alpha"
 }

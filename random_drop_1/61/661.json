@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Free Ticket"
+        "Forge Protector",
+        "Free Ticket",
+        "Golden Goose",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Alpha"
 }

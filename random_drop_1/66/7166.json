@@ -1,8 +1,14 @@
 {
     "traits": [
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
         "Forge Protector",
+        "10% Discount",
         "Free Ticket"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade",
+        "discount"
+    ],
     "series": "Founder"
 }

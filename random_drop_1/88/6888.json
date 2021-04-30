@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Reforge"
+        "Redeem",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

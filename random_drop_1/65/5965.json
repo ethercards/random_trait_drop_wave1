@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Art Drop",
+        "Lucky Reroll"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

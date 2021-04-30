@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Free Ticket",
+        "Reforge",
+        "Art Drop",
         "Disco Dropper"
     ],
     "trait_types": [
-        "discount",
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

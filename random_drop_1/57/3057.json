@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Art Drop"
+        "Unicorn",
+        "Reforge",
+        "10% Discount",
+        "Unstable",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "experimental"
+    ],
     "series": "Founder"
 }

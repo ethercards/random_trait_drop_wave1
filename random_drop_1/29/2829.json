@@ -1,7 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "10% Discount"
+        "10% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

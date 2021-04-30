@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Unicorn",
         "Forge Protector",
-        "10% Discount"
+        "Free Ticket",
+        "Swap"
     ],
     "trait_types": [
-        "discount"
+        "swap"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Forge Protector",
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "upgrade"
+        "dropper"
     ],
     "series": "Founder"
 }

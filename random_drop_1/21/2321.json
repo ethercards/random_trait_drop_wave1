@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Free Ticket"
+        "Reforge",
+        "Disco Dropper",
+        "Fluid"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "True Name",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "drop"
     ],
     "series": "OG"
 }

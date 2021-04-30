@@ -1,11 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "Alpha Upgrade"
+        "Free Ticket"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade"
+        "reforge"
     ],
     "series": "Founder"
 }

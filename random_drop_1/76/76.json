@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Reroll",
-        "Reroll"
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "OG"
 }

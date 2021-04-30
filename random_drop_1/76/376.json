@@ -1,9 +1,15 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge",
+        "25% Discount",
+        "Selective Layer Reroll",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

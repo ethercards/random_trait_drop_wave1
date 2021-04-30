@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Reforge + "
+        "Reforge",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge"

@@ -1,6 +1,7 @@
 {
     "traits": [
-        "5% Discount"
+        "50% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

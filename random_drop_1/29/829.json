@@ -1,9 +1,11 @@
 {
     "traits": [
-        "10% Discount"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Alpha"
 }

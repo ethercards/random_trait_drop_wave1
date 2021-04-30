@@ -1,6 +1,7 @@
 {
     "traits": [
         "Reforge",
+        "Art Drop",
         "Disco Dropper"
     ],
     "trait_types": [

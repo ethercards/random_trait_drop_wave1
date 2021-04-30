@@ -1,9 +1,11 @@
 {
     "traits": [
-        "25% Discount"
+        "Art Drop",
+        "Selective Layer Reroll",
+        "Redeem"
     ],
     "trait_types": [
-        "discount"
+        "redeem"
     ],
     "series": "Founder"
 }

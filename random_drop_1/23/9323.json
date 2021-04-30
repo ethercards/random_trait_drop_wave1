@@ -1,10 +1,13 @@
 {
     "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
         "5% Discount",
-        "Free Ticket",
-        "Lucky Reroll"
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "discount"
     ],
     "series": "Founder"

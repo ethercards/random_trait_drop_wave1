@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector"
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

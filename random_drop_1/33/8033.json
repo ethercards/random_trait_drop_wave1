@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Forge Protector",
+        "Lucky Reroll",
+        "Unstable"
+    ],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,14 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Lucky Reroll",
+        "Unstable",
+        "Merch"
+    ],
+    "trait_types": [
+        "experimental",
+        "redeem"
+    ],
     "series": "Founder"
 }

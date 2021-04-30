@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Lucky Reroll"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "25% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Founder"
 }

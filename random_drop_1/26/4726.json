@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Redeemable",
-        "Extra Limited Trait Slot"
+        "Unicorn",
+        "Reforge"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

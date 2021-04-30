@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge + ",
+        "Selective Layer Reroll",
+        "Gravity",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

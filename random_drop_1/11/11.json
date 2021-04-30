@@ -1,13 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Free Ticket",
-        "Rando Dropper"
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "discount",
         "dropper"
     ],
     "series": "OG"

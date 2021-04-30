@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Disco Dropper"
+        "10% Discount",
+        "Disco Dropper",
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

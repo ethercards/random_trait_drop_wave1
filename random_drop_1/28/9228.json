@@ -1,9 +1,9 @@
 {
     "traits": [
-        "10% Discount"
+        "Art Drop",
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

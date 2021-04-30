@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Free Ticket",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

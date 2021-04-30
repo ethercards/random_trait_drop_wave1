@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

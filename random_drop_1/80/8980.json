@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Art Drop"
+        "Reforge + ",
+        "Redeem",
+        "Warp Rabbit"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "redeem",
+        "experimental"
+    ],
     "series": "Founder"
 }

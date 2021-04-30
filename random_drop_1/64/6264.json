@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Redeem",
+        "New Commons"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

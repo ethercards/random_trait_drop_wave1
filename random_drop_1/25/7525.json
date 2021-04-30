@@ -1,9 +1,12 @@
 {
     "traits": [
-        "10% Discount"
+        "Extra Limited Trait Slot",
+        "25% Discount",
+        "Swap"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "swap"
     ],
     "series": "Founder"
 }

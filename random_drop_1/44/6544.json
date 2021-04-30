@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Rando Dropper"
+        "Forge Protector",
+        "Free Ticket",
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

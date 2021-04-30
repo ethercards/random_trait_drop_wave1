@@ -1,5 +1,10 @@
 {
-    "traits": [],
+    "traits": [
+        "Unicorn",
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

@@ -1,12 +1,16 @@
 {
     "traits": [
-        "Reforge + ",
+        "Unicorn",
+        "Forge Protector",
+        "10% Discount",
         "Free Ticket",
-        "Rando Dropper"
+        "Rando Dropper",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

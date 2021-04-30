@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

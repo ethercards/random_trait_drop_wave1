@@ -1,5 +1,7 @@
 {
     "traits": [
+        "Art Drop",
+        "Free Ticket",
         "Disco Dropper"
     ],
     "trait_types": [

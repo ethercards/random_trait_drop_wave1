@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

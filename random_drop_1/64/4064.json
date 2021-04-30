@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Free Ticket"
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

@@ -1,9 +1,16 @@
 {
     "traits": [
-        "10% Discount"
+        "Reforge",
+        "Forge Protector",
+        "25% Discount",
+        "Free Ticket",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

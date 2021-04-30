@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Reforge"
+        "5% Discount",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Alpha"
 }

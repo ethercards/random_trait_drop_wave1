@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Reforge"
+        "Free Ticket",
+        "Lucky Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

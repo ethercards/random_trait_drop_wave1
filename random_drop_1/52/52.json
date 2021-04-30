@@ -1,8 +1,16 @@
 {
     "traits": [
-        "Reroll",
-        "Reroll"
+        "Unicorn",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "OG"
 }

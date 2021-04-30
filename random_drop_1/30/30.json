@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Reroll",
-        "Reroll"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "OG"
 }

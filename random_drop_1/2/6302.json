@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Art Drop",
-        "Alpha Upgrade",
-        "5% Discount"
+        "Unicorn",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "upgrade",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

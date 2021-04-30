@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Disco Dropper"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

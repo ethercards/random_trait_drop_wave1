@@ -1,10 +1,15 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper"
+        "Unicorn",
+        "Art Drop",
+        "Forge Protector",
+        "10% Discount",
+        "Redeem",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "redeem"
     ],
     "series": "Alpha"
 }

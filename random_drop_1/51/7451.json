@@ -1,6 +1,7 @@
 {
     "traits": [
         "Reforge",
+        "Lucky Reroll",
         "Disco Dropper"
     ],
     "trait_types": [

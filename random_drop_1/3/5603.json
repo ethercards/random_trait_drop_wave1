@@ -1,9 +1,13 @@
 {
     "traits": [
-        "25% Discount"
+        "Unicorn",
+        "Forge Protector",
+        "Disco Dropper",
+        "Swap"
     ],
     "trait_types": [
-        "discount"
+        "dropper",
+        "swap"
     ],
     "series": "Founder"
 }

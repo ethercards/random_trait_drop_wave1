@@ -1,5 +1,9 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "OG Upgrade"
+    ],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

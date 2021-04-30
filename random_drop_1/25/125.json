@@ -2,11 +2,15 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "5% Discount"
+        "Free Ticket",
+        "Rando Dropper",
+        "Synthesis Ritual",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

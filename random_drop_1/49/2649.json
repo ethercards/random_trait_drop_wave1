@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Extra Limited Trait Slot",
+        "Glittery"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

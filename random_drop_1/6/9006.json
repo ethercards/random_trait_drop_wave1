@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Forge Protector"
+        "Forge Protector",
+        "25% Discount",
+        "Lucky Reroll",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "redeem"
+    ],
     "series": "Founder"
 }

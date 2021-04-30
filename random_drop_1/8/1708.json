@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop"
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

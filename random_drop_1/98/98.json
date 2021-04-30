@@ -1,12 +1,10 @@
 {
     "traits": [
         "Forge Protector",
-        "10% Discount",
-        "Rando Dropper"
+        "5% Discount"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "OG"
 }

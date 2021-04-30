@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Selective Layer Reroll",
+        "True Name",
+        "Synthesis Ritual"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

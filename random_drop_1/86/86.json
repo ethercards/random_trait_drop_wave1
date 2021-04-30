@@ -2,11 +2,12 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Disco Dropper"
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "OG"
 }

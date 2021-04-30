@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Forge Protector"
+        "Reforge",
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "redeem"
+    ],
     "series": "Founder"
 }

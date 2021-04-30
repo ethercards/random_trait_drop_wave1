@@ -1,11 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Disco Dropper"
+        "Forge Protector",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

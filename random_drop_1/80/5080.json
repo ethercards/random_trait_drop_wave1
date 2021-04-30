@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Selective Layer Reroll",
+        "True Name",
+        "Glittery"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

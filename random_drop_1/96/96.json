@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Reroll"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "OG"
 }

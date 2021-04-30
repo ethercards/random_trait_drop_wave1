@@ -1,10 +1,16 @@
 {
     "traits": [
-        "10% Discount",
-        "Free Ticket"
+        "Reforge",
+        "5% Discount",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

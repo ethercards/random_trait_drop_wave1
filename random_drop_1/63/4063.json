@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "50% Discount"
+        "Reforge",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

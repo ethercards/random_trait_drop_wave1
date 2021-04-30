@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Reforge"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Unstable",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "experimental",
+        "redeem"
     ],
     "series": "Founder"
 }

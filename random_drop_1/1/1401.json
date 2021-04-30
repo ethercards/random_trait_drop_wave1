@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

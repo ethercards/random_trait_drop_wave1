@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Reforge",
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

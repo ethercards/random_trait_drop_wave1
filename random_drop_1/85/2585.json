@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade"
+        "Art Drop",
+        "5% Discount",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade"
+        "discount"
     ],
     "series": "Founder"
 }

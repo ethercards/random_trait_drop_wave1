@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

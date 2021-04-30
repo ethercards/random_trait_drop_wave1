@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unicorn",
+        "5% Discount",
+        "True Name",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

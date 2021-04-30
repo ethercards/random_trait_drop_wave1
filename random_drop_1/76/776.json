@@ -1,7 +1,12 @@
 {
     "traits": [
         "Reforge",
-        "Rando Dropper"
+        "Art Drop",
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name",
+        "Glittery"
     ],
     "trait_types": [
         "reforge",

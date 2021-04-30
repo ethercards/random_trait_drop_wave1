@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge + ",
+        "Forge Protector",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,15 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "5% Discount"
+        "Reforge",
+        "50% Discount",
+        "Free Ticket",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

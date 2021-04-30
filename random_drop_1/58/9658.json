@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll"
+        "Reforge + ",
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll",
+        "Swap"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "swap"
+    ],
     "series": "Founder"
 }

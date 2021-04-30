@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge + ",
-        "10% Discount"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

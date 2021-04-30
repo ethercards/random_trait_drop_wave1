@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Art Drop",
+        "Selective Layer Reroll",
+        "Redeem"
     ],
     "trait_types": [
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Unstable",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "experimental",
+        "drop"
     ],
     "series": "Founder"
 }

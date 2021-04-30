@@ -1,5 +1,16 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "5% Discount",
+        "Disco Dropper",
+        "Unstable",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

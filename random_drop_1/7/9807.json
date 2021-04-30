@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade"
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

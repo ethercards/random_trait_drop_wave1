@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Free Ticket"
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "Gravity"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

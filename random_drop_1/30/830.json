@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Gravity"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "experimental"
     ],
     "series": "Alpha"
 }

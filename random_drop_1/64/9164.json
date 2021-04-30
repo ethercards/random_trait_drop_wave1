@@ -1,7 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket"
+        "Reforge",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge"

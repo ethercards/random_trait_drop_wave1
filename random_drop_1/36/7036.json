@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Selective Layer Reroll",
+        "Redeem"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

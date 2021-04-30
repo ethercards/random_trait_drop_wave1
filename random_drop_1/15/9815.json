@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Forge Protector",
+        "25% Discount",
+        "Synthesis Ritual",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

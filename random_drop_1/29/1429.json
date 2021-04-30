@@ -1,9 +1,12 @@
 {
     "traits": [
-        "10% Discount"
+        "Reforge + ",
+        "Alpha Upgrade",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "upgrade"
     ],
     "series": "Founder"
 }

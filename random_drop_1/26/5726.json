@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Free Ticket",
-        "Lucky Reroll"
+        "Reforge",
+        "Forge Protector",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

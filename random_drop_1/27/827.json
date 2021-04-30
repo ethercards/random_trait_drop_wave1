@@ -1,13 +1,16 @@
 {
     "traits": [
         "Art Drop",
-        "10% Discount",
-        "Free Ticket",
-        "Disco Dropper"
+        "Forge Protector",
+        "Rando Dropper",
+        "True Name",
+        "Synthesis Ritual",
+        "Glittery",
+        "1 UP"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

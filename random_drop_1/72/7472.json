@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Art Drop",
+        "Forge Protector",
+        "Unstable",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental",
+        "redeem"
+    ],
     "series": "Founder"
 }

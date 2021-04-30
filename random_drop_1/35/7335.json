@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Art Drop",
+        "Alpha Upgrade",
+        "Free Ticket",
         "Disco Dropper"
     ],
     "trait_types": [
+        "upgrade",
         "dropper"
     ],
     "series": "Founder"

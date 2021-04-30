@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Reforge",
         "Art Drop",
-        "5% Discount",
-        "Disco Dropper"
+        "Fluid"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

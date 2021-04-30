@@ -1,7 +1,9 @@
 {
     "traits": [
+        "Unicorn",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket"
+        "New Commons"
     ],
     "trait_types": [],
     "series": "Alpha"

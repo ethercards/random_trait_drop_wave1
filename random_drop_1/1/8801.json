@@ -1,8 +1,12 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

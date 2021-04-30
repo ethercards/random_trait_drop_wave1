@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Forge Protector"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "Rando Dropper",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

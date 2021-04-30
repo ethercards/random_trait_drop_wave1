@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Forge Protector",
+        "Swap"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "swap"
     ],
     "series": "Alpha"
 }

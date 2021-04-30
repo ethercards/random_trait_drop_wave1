@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "10% Discount",
-        "Rando Dropper"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "New Commons",
+        "Good Company"
+    ],
+    "trait_types": [
+        "reforge",
+        "drop"
+    ],
     "series": "Founder"
 }

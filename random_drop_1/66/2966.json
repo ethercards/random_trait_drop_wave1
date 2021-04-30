@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "10% Discount",
+        "Free Ticket",
+        "New Commons"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

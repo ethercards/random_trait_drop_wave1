@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Lucky Reroll"
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

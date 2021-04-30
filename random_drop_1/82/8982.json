@@ -1,9 +1,7 @@
 {
     "traits": [
         "Reforge + ",
-        "Art Drop",
-        "Free Ticket",
-        "Lucky Reroll"
+        "True Name"
     ],
     "trait_types": [
         "reforge"

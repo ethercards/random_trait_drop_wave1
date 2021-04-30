@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Free Ticket"
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

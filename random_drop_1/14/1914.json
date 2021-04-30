@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "25% Discount"
+        "Gravity"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

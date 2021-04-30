@@ -1,66 +1,7 @@
 [
     {
         "traits": [
-            "5% Discount",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "5% Discount",
-            "Free Ticket",
-            "Rando Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Art Drop",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Art Drop",
             "Forge Protector",
-            "25% Discount"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Art Drop",
             "Reroll"
         ],
         "trait_types": [],
@@ -68,61 +9,75 @@
     },
     {
         "traits": [
-            "Reforge",
             "Extra Limited Trait Slot",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Reroll"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector",
-            "10% Discount"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
-            "Forge Protector"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
             "Forge Protector",
             "10% Discount",
             "Free Ticket",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "Free Ticket",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unstable",
+            "New Commons"
+        ],
+        "trait_types": [
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge + ",
+            "10% Discount",
+            "Free Ticket",
+            "True Name",
+            "Merch"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Free Ticket",
+            "Disco Dropper",
+            "Redeem"
+        ],
+        "trait_types": [
+            "dropper",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "5% Discount",
+            "Free Ticket",
             "Disco Dropper"
         ],
         "trait_types": [
@@ -134,12 +89,56 @@
     },
     {
         "traits": [
+            "Art Drop",
+            "Selective Layer Reroll"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
             "Reforge",
+            "50% Discount",
             "Free Ticket",
-            "Disco Dropper"
+            "New Commons"
         ],
         "trait_types": [
             "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Disco Dropper",
+            "Unstable"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper",
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
             "dropper"
         ],
         "series": "OG"
@@ -147,6 +146,41 @@
     {
         "traits": [
             "Unicorn",
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "5% Discount",
+            "Free Ticket",
+            "Rando Dropper",
+            "True Name",
+            "Merch",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "dropper",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Free Ticket",
+            "Rando Dropper",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Free Ticket",
             "Reroll"
         ],
         "trait_types": [],
@@ -155,30 +189,68 @@
     {
         "traits": [
             "Reforge",
-            "Art Drop",
-            "5% Discount"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
-            "Forge Protector"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "10% Discount",
-            "Free Ticket",
+            "Forge Protector",
             "Disco Dropper"
         ],
         "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "Free Ticket",
+            "Rando Dropper",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "10% Discount",
+            "Selective Layer Reroll",
+            "Unstable"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "5% Discount",
+            "Rando Dropper",
+            "Selective Layer Reroll",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
             "discount",
             "dropper"
         ],
@@ -187,19 +259,29 @@
     {
         "traits": [
             "Reforge",
-            "Free Ticket"
+            "Free Ticket",
+            "Selective Layer Reroll",
+            "Swap",
+            "True Name",
+            "1 UP"
         ],
         "trait_types": [
-            "reforge"
+            "reforge",
+            "swap",
+            "drop"
         ],
         "series": "OG"
     },
     {
         "traits": [
+            "Reforge",
             "Forge Protector",
-            "Disco Dropper"
+            "Free Ticket",
+            "Disco Dropper",
+            "Selective Layer Reroll"
         ],
         "trait_types": [
+            "reforge",
             "dropper"
         ],
         "series": "OG"
@@ -207,154 +289,97 @@
     {
         "traits": [
             "Reforge",
-            "Forge Protector",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reroll",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "10% Discount"
-        ],
-        "trait_types": [
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
-            "Forge Protector"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Reroll"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
             "Art Drop",
             "Forge Protector",
+            "5% Discount",
             "Rando Dropper"
         ],
         "trait_types": [
+            "reforge",
+            "discount",
             "dropper"
         ],
         "series": "OG"
     },
     {
         "traits": [
+            "Unicorn",
+            "Reforge",
             "Art Drop",
-            "Extra Limited Trait Slot",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Extra Limited Trait Slot",
-            "10% Discount"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge + ",
             "Forge Protector",
-            "Disco Dropper"
+            "Free Ticket",
+            "Disco Dropper",
+            "True Name",
+            "Synthesis Ritual",
+            "New Commons",
+            "1 UP"
         ],
         "trait_types": [
             "reforge",
-            "dropper"
+            "dropper",
+            "drop"
         ],
         "series": "OG"
     },
     {
         "traits": [
             "Art Drop",
-            "Forge Protector"
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "Free Ticket",
+            "True Name"
         ],
         "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Reroll"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Reroll"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
         "series": "OG"
     },
     {
         "traits": [
             "Reforge",
             "25% Discount",
-            "Disco Dropper"
+            "Unstable",
+            "True Name"
         ],
         "trait_types": [
             "reforge",
+            "discount",
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "Free Ticket",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "5% Discount",
+            "True Name"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "10% Discount",
+            "Rando Dropper",
+            "Selective Layer Reroll",
+            "True Name"
+        ],
+        "trait_types": [
             "discount",
             "dropper"
         ],
@@ -363,13 +388,30 @@
     {
         "traits": [
             "Reforge",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
-            "50% Discount"
+            "Art Drop",
+            "Free Ticket",
+            "Rando Dropper"
         ],
         "trait_types": [
             "reforge",
-            "discount"
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "5% Discount",
+            "Disco Dropper",
+            "Selective Layer Reroll",
+            "Unstable",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "dropper",
+            "experimental"
         ],
         "series": "OG"
     },
@@ -377,85 +419,192 @@
         "traits": [
             "Reforge",
             "Art Drop",
-            "Extra Limited Trait Slot",
             "Forge Protector",
-            "10% Discount",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
             "Free Ticket",
-            "Reroll"
+            "Selective Layer Reroll",
+            "Unstable",
+            "True Name",
+            "1 UP"
+        ],
+        "trait_types": [
+            "reforge",
+            "experimental",
+            "drop"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "5% Discount",
+            "Redeem",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "5% Discount",
+            "Free Ticket",
+            "Disco Dropper",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
+            "Disco Dropper",
+            "Synthesis Ritual"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Free Ticket",
+            "Disco Dropper",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Free Ticket",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Forge Protector"
         ],
         "trait_types": [],
         "series": "OG"
     },
     {
         "traits": [
-            "Reroll",
-            "Reroll"
+            "Reforge",
+            "Art Drop",
+            "Forge Protector",
+            "5% Discount"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "5% Discount",
+            "True Name"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "5% Discount",
+            "Disco Dropper",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "Free Ticket",
+            "New Commons"
         ],
         "trait_types": [],
         "series": "OG"
     },
     {
         "traits": [
+            "Reforge",
+            "Forge Protector",
             "10% Discount",
-            "Reroll"
+            "Free Ticket",
+            "Selective Layer Reroll",
+            "True Name",
+            "1 UP"
         ],
         "trait_types": [
-            "discount"
+            "reforge",
+            "discount",
+            "drop"
         ],
         "series": "OG"
     },
     {
         "traits": [
+            "Reforge",
             "Extra Limited Trait Slot",
             "Forge Protector",
-            "25% Discount"
+            "Disco Dropper"
         ],
         "trait_types": [
-            "discount"
+            "reforge",
+            "dropper"
         ],
         "series": "OG"
     },
     {
         "traits": [
-            "Reroll",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
+            "Art Drop",
             "Forge Protector",
-            "Free Ticket"
+            "Free Ticket",
+            "True Name",
+            "Synthesis Ritual"
         ],
         "trait_types": [],
         "series": "OG"
@@ -474,14 +623,63 @@
     },
     {
         "traits": [
+            "Disco Dropper",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
             "Reforge",
             "Extra Limited Trait Slot",
             "Forge Protector",
-            "10% Discount",
-            "Disco Dropper"
+            "New Commons"
         ],
         "trait_types": [
-            "reforge",
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "25% Discount",
+            "Disco Dropper",
+            "Selective Layer Reroll",
+            "New Commons",
+            "1 UP"
+        ],
+        "trait_types": [
+            "discount",
+            "dropper",
+            "drop"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Forge Protector",
+            "10% Discount",
+            "Disco Dropper",
+            "New Commons"
+        ],
+        "trait_types": [
             "discount",
             "dropper"
         ],
@@ -491,62 +689,19 @@
         "traits": [
             "Reforge",
             "5% Discount",
-            "Free Ticket"
+            "Disco Dropper",
+            "Selective Layer Reroll"
         ],
         "trait_types": [
             "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Extra Limited Trait Slot",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
+            "discount",
             "dropper"
         ],
         "series": "OG"
     },
     {
         "traits": [
-            "Reforge",
-            "Forge Protector",
-            "5% Discount"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
-            "Forge Protector",
-            "5% Discount"
-        ],
-        "trait_types": [
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge + ",
-            "Forge Protector"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
+            "True Name",
             "Reroll"
         ],
         "trait_types": [],
@@ -555,33 +710,7 @@
     {
         "traits": [
             "Reforge",
-            "Art Drop",
-            "Forge Protector",
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Art Drop",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
             "Extra Limited Trait Slot",
-            "Forge Protector",
             "10% Discount"
         ],
         "trait_types": [
@@ -592,6 +721,32 @@
     },
     {
         "traits": [
+            "Unicorn",
+            "Reforge",
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Reforge",
+            "Forge Protector"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
             "Reforge",
             "Forge Protector",
             "Disco Dropper"
@@ -604,49 +759,21 @@
     },
     {
         "traits": [
-            "Reforge",
             "Art Drop",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
-            "5% Discount",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Rando Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
             "10% Discount"
         ],
         "trait_types": [
-            "reforge",
             "discount"
         ],
         "series": "OG"
     },
     {
         "traits": [
-            "Unicorn",
             "Reforge",
             "Art Drop",
-            "Free Ticket"
+            "Extra Limited Trait Slot",
+            "Free Ticket",
+            "Selective Layer Reroll"
         ],
         "trait_types": [
             "reforge"
@@ -655,9 +782,105 @@
     },
     {
         "traits": [
-            "Unicorn",
             "Reforge",
+            "Forge Protector",
+            "5% Discount",
+            "Selective Layer Reroll",
+            "Merch",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Selective Layer Reroll",
+            "1 UP"
+        ],
+        "trait_types": [
+            "drop"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Art Drop",
             "Extra Limited Trait Slot",
+            "Free Ticket",
+            "True Name"
+        ],
+        "trait_types": [
+            "reforge"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "Disco Dropper",
+            "New Commons"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Forge Protector",
+            "5% Discount",
+            "Free Ticket",
+            "Selective Layer Reroll",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Disco Dropper",
+            "True Name",
+            "Glittery"
+        ],
+        "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Extra Limited Trait Slot",
+            "Free Ticket"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Forge Protector",
+            "10% Discount",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Forge Protector",
             "Free Ticket",
             "Disco Dropper"
         ],
@@ -670,54 +893,34 @@
     {
         "traits": [
             "Forge Protector",
+            "Unstable"
+        ],
+        "trait_types": [
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "10% Discount",
             "Free Ticket",
-            "Disco Dropper"
+            "Synthesis Ritual",
+            "New Commons",
+            "1 UP"
         ],
         "trait_types": [
-            "dropper"
+            "discount",
+            "drop"
         ],
         "series": "OG"
     },
     {
         "traits": [
             "Reforge",
-            "Art Drop",
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Art Drop",
-            "Forge Protector"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
             "5% Discount",
-            "Free Ticket",
-            "Rando Dropper"
+            "Disco Dropper"
         ],
         "trait_types": [
             "reforge",
@@ -728,107 +931,12 @@
     },
     {
         "traits": [
-            "Reroll",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Unicorn",
-            "Reforge + ",
-            "Forge Protector"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector",
-            "5% Discount",
-            "Rando Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge + ",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
-            "Free Ticket"
-        ],
-        "trait_types": [
-            "reforge"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Unicorn",
-            "Reforge",
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "5% Discount"
-        ],
-        "trait_types": [
-            "discount"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
             "Art Drop",
-            "Reroll"
-        ],
-        "trait_types": [],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
+            "Forge Protector",
             "50% Discount",
-            "Free Ticket"
+            "Selective Layer Reroll"
         ],
         "trait_types": [
-            "reforge",
             "discount"
         ],
         "series": "OG"
@@ -837,19 +945,30 @@
         "traits": [
             "Reforge",
             "Forge Protector",
-            "Disco Dropper"
+            "Disco Dropper",
+            "1 UP"
         ],
         "trait_types": [
             "reforge",
-            "dropper"
+            "dropper",
+            "drop"
         ],
         "series": "OG"
     },
     {
         "traits": [
+            "Forge Protector",
+            "True Name"
+        ],
+        "trait_types": [],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
             "Reforge",
+            "Extra Limited Trait Slot",
             "5% Discount",
-            "Free Ticket",
             "Disco Dropper"
         ],
         "trait_types": [
@@ -861,10 +980,137 @@
     },
     {
         "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
             "5% Discount",
+            "Free Ticket",
+            "Selective Layer Reroll",
+            "True Name"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "5% Discount",
+            "Free Ticket",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Art Drop",
+            "Forge Protector",
+            "5% Discount",
+            "Free Ticket",
+            "New Commons"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Disco Dropper",
             "Reroll"
         ],
         "trait_types": [
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Unicorn",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "5% Discount"
+        ],
+        "trait_types": [
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Art Drop",
+            "Extra Limited Trait Slot",
+            "Forge Protector",
+            "25% Discount",
+            "Free Ticket",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "Free Ticket",
+            "Redeem"
+        ],
+        "trait_types": [
+            "reforge",
+            "redeem"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "Redeem",
+            "Unstable",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
+            "redeem",
+            "experimental"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "5% Discount",
+            "Disco Dropper"
+        ],
+        "trait_types": [
+            "reforge",
+            "discount",
+            "dropper"
+        ],
+        "series": "OG"
+    },
+    {
+        "traits": [
+            "Reforge",
+            "Extra Limited Trait Slot",
+            "5% Discount",
+            "True Name",
+            "New Commons"
+        ],
+        "trait_types": [
+            "reforge",
             "discount"
         ],
         "series": "OG"
@@ -873,75 +1119,7 @@
         "traits": [
             "Reforge",
             "Forge Protector",
-            "10% Discount",
-            "Rando Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
-            "Free Ticket",
-            "Rando Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge + ",
-            "Art Drop",
-            "5% Discount",
-            "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Extra Limited Trait Slot",
-            "5% Discount",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector",
-            "5% Discount",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Reforge",
-            "Forge Protector"
+            "New Commons"
         ],
         "trait_types": [
             "reforge"
@@ -950,24 +1128,12 @@
     },
     {
         "traits": [
-            "Unicorn",
-            "Reforge",
             "Extra Limited Trait Slot",
+            "Forge Protector",
             "5% Discount",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "reforge",
-            "discount",
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Unicorn",
-            "5% Discount",
-            "Free Ticket"
+            "Free Ticket",
+            "True Name",
+            "New Commons"
         ],
         "trait_types": [
             "discount"
@@ -976,35 +1142,20 @@
     },
     {
         "traits": [
-            "Art Drop",
-            "Extra Limited Trait Slot",
-            "Forge Protector",
+            "5% Discount",
             "Free Ticket",
-            "Disco Dropper"
-        ],
-        "trait_types": [
-            "dropper"
-        ],
-        "series": "OG"
-    },
-    {
-        "traits": [
-            "Forge Protector",
-            "10% Discount",
-            "Rando Dropper"
+            "Unstable"
         ],
         "trait_types": [
             "discount",
-            "dropper"
+            "experimental"
         ],
         "series": "OG"
     },
     {
         "traits": [
-            "Unicorn",
             "Reforge",
-            "Extra Limited Trait Slot",
-            "Free Ticket"
+            "Reroll"
         ],
         "trait_types": [
             "reforge"

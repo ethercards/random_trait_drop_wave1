@@ -1,8 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "25% Discount",
-        "Disco Dropper"
+        "10% Discount",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
         "discount",

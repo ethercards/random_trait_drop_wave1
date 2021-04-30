@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Free Ticket",
+        "Golden Goose"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Free Ticket"
+        "10% Discount",
+        "Lucky Reroll",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

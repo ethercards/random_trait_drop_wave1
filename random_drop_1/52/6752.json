@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Reforge + "
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

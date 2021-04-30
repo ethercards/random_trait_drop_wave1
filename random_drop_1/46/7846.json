@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Lucky Reroll"
+        "10% Discount"
     ],
     "trait_types": [
         "reforge",

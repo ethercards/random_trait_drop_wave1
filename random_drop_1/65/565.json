@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Alpha"
 }

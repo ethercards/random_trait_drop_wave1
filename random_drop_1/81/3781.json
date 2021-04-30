@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Forge Protector",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

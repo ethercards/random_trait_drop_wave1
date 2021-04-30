@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "Free Ticket",
-        "Disco Dropper"
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

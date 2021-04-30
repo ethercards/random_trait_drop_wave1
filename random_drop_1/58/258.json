@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

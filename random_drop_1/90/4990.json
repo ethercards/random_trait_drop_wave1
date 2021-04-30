@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Art Drop",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,8 +1,15 @@
 {
     "traits": [
+        "Reforge",
         "Forge Protector",
-        "Reroll"
+        "25% Discount",
+        "Free Ticket",
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
     "series": "OG"
 }

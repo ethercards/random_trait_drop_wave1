@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "10% Discount",
-        "Free Ticket",
-        "Disco Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "25% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
         "reforge",

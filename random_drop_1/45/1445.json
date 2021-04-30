@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge + ",
+        "5% Discount",
+        "Fluid",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

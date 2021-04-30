@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Rando Dropper"
+        "25% Discount",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "drop"
     ],
     "series": "Founder"
 }

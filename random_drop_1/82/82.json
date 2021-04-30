@@ -1,13 +1,15 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Free Ticket",
-        "Disco Dropper"
+        "10% Discount",
+        "Selective Layer Reroll",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount",
+        "experimental"
     ],
     "series": "OG"
 }

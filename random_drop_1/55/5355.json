@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
+    ],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

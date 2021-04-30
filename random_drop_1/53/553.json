@@ -1,9 +1,11 @@
 {
     "traits": [
-        "5% Discount"
+        "5% Discount",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

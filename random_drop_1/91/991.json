@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Rando Dropper"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

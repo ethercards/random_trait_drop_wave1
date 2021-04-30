@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Reroll"
+        "Reforge",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

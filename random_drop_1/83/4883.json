@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unicorn",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "dropper"

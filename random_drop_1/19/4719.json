@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Lucky Reroll"
+        "Reforge",
+        "Selective Layer Reroll",
+        "Redeem",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "redeem"
+    ],
     "series": "Founder"
 }

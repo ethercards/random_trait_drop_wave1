@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Lucky Reroll"
+        "5% Discount",
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "Founder"
 }

@@ -1,8 +1,14 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "Forge Protector"
+        "Golden Goose",
+        "Redeem"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

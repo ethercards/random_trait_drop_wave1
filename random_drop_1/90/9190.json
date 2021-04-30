@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Lucky Reroll",
-        "Rando Dropper"
+        "Fluid"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

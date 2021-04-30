@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Disco Dropper"
+        "25% Discount",
+        "Disco Dropper",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Unicorn"
+        "Forge Protector",
+        "Fluid"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

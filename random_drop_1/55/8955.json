@@ -1,12 +1,9 @@
 {
     "traits": [
         "Forge Protector",
-        "5% Discount",
-        "Rando Dropper"
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

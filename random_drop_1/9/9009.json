@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

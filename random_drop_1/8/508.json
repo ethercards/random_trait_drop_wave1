@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
         "Extra Limited Trait Slot",
-        "5% Discount"
+        "Forge Protector",
+        "Redeem"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "redeem"
     ],
     "series": "Alpha"
 }

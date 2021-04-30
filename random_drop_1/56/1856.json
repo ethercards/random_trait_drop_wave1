@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Redeemable",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Lucky Reroll",
+        "Rando Dropper"
     ],
     "trait_types": [
         "dropper"

@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount",
-        "Lucky Reroll"
+        "Forge Protector",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

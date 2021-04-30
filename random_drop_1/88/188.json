@@ -1,10 +1,13 @@
 {
     "traits": [
-        "5% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "Alpha"
 }

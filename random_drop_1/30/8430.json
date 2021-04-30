@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount"
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

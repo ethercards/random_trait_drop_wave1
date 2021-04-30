@@ -1,5 +1,11 @@
 {
-    "traits": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Lucky Reroll",
+        "Selective Layer Reroll",
+        "True Name"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

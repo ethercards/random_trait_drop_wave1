@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "Unstable",
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental",
+        "drop"
+    ],
     "series": "Founder"
 }

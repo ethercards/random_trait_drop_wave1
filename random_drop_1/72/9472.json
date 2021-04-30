@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Forge Protector",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Rando Dropper"
+        "Lucky Reroll",
+        "Disco Dropper",
+        "Swap"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "dropper",
+        "swap"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper"
+        "Art Drop",
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

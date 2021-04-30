@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge"
+        "Art Drop",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

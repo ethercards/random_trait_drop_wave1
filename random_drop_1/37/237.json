@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

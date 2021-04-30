@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
         "reforge",

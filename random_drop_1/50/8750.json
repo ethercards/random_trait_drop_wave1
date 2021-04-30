@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Unicorn",
+        "Art Drop"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,9 +1,11 @@
 {
     "traits": [
-        "10% Discount"
+        "Free Ticket",
+        "Rando Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

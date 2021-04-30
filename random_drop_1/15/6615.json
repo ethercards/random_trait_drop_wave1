@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Reforge + ",
-        "Art Drop"
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

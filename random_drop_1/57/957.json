@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount",
-        "Disco Dropper"
+        "Unicorn",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

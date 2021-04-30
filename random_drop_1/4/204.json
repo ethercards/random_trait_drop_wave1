@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Free Ticket"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Alpha"
 }

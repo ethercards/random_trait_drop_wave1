@@ -1,12 +1,15 @@
 {
     "traits": [
         "Reforge",
+        "Art Drop",
         "5% Discount",
-        "Free Ticket"
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

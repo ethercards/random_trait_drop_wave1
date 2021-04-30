@@ -1,9 +1,9 @@
 {
     "traits": [
-        "5% Discount"
+        "Art Drop",
+        "Forge Protector",
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

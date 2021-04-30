@@ -1,7 +1,8 @@
 {
     "traits": [
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "10% Discount"
+        "5% Discount"
     ],
     "trait_types": [
         "discount"

@@ -1,8 +1,19 @@
 {
     "traits": [
-        "Art Drop",
-        "Reroll"
+        "Unicorn",
+        "Reforge",
+        "25% Discount",
+        "Disco Dropper",
+        "Redeem",
+        "Unstable",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper",
+        "redeem",
+        "experimental"
+    ],
     "series": "OG"
 }

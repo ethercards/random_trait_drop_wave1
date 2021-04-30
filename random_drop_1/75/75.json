@@ -1,9 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Free Ticket",
-        "Rando Dropper"
+        "Forge Protector",
+        "10% Discount",
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

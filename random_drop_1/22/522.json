@@ -1,8 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Disco Dropper"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

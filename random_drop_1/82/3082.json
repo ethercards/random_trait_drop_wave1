@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Disco Dropper",
+        "Fluid"
     ],
     "trait_types": [
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,9 @@
 {
     "traits": [
-        "5% Discount"
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "discount"
+        "upgrade"
     ],
     "series": "Founder"
 }

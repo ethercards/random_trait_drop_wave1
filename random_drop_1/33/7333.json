@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Free Ticket"
+        "Alpha Upgrade",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

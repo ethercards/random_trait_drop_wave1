@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
+        "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector"
     ],
     "trait_types": [

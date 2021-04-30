@@ -1,9 +1,13 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Reforge",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Art Drop"
+        "Swap",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Founder"
 }

@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Free Ticket"
+        "Unicorn",
+        "Alpha Upgrade",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

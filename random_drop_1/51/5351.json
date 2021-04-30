@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

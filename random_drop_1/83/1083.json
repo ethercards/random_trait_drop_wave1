@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Free Ticket"
+        "Art Drop",
+        "Redeem",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

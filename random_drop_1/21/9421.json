@@ -2,10 +2,11 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Lucky Reroll"
+        "Good Company"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "drop"
     ],
     "series": "Founder"
 }

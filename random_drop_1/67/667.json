@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Forge Protector"
+        "Unicorn",
+        "Reforge",
+        "Rando Dropper",
+        "Glittery"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

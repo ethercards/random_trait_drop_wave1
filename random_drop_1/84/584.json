@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Unicorn"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

@@ -1,10 +1,21 @@
 {
     "traits": [
+        "Unicorn",
+        "Reforge",
         "Forge Protector",
-        "5% Discount"
+        "5% Discount",
+        "Free Ticket",
+        "Fluid",
+        "Selective Layer Reroll",
+        "True Name",
+        "Synthesis Ritual",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "OG"
 }

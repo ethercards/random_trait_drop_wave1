@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Lucky Reroll"
+        "Unicorn",
+        "Redeem"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

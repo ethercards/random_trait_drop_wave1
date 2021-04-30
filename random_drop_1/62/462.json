@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge",
+        "Selective Layer Reroll",
+        "Unstable",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

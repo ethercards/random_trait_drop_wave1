@@ -1,13 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Lucky Reroll",
-        "Rando Dropper"
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "discount",
         "dropper"
     ],
     "series": "Founder"

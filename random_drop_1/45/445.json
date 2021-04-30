@@ -1,12 +1,16 @@
 {
     "traits": [
+        "Reforge",
         "Forge Protector",
-        "5% Discount",
-        "Rando Dropper"
+        "Selective Layer Reroll",
+        "Golden Goose",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge",
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

@@ -1,6 +1,7 @@
 {
     "traits": [
-        "10% Discount"
+        "5% Discount",
+        "True Name"
     ],
     "trait_types": [
         "discount"

@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Disco Dropper"
+        "Selective Layer Reroll",
+        "True Name"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

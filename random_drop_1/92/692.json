@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge"
+        "Reroll"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

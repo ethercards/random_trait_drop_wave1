@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket"
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Founder"
 }

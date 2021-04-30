@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
+        "Art Drop",
+        "5% Discount",
         "Disco Dropper"
     ],
     "trait_types": [
-        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "OG"

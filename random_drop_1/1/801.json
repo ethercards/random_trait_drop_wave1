@@ -1,9 +1,16 @@
 {
     "traits": [
+        "Unicorn",
+        "Reforge",
         "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
+        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

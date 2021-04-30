@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge",
         "Forge Protector",
-        "5% Discount",
-        "Rando Dropper"
+        "Disco Dropper",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
+        "reforge",
         "dropper"
     ],
     "series": "Alpha"

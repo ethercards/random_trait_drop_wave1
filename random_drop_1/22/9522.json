@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade",
-        "Lucky Reroll"
+        "Forge Protector",
+        "Rando Dropper",
+        "Redeem"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade"
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

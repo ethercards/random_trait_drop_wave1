@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
+        "Reforge",
         "Art Drop",
-        "Forge Protector",
-        "Lucky Reroll"
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
         "reforge"

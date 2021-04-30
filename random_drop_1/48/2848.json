@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Lucky Reroll"
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

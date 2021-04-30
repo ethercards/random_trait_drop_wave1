@@ -1,7 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot"
+        "Art Drop",
+        "Forge Protector",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge"

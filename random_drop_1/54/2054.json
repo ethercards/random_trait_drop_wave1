@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Free Ticket"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Lucky Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

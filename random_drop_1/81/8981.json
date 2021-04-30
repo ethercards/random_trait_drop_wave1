@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "Forge Protector",
-        "10% Discount",
-        "Lucky Reroll"
+        "Extra Limited Trait Slot",
+        "25% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

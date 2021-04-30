@@ -2,10 +2,11 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Free Ticket"
+        "10% Discount"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

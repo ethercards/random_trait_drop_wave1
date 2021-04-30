@@ -1,5 +1,9 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Merch"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

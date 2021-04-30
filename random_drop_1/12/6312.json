@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Lucky Reroll",
+        "Swap"
     ],
     "trait_types": [
-        "reforge"
+        "swap"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Reforge"
+        "Unicorn",
+        "Lucky Reroll",
+        "True Name"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

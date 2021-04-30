@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "5% Discount",
-        "Lucky Reroll"
+        "Reforge + ",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

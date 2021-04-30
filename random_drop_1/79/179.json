@@ -1,12 +1,12 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "Art Drop",
-        "Disco Dropper"
+        "Unstable"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

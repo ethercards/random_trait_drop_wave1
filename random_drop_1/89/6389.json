@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "OG Upgrade"
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

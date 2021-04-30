@@ -1,11 +1,13 @@
 {
     "traits": [
         "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Swap"
     ],
     "trait_types": [
-        "dropper"
+        "dropper",
+        "swap"
     ],
     "series": "Founder"
 }

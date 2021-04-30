@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "10% Discount",
-        "Free Ticket"
+        "5% Discount",
+        "Swap"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "swap"
     ],
     "series": "Alpha"
 }

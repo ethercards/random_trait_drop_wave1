@@ -1,10 +1,16 @@
 {
     "traits": [
+        "Reforge",
         "Forge Protector",
-        "10% Discount"
+        "Free Ticket",
+        "Swap",
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "swap",
+        "redeem"
     ],
     "series": "Alpha"
 }

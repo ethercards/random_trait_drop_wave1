@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount"
+        "Unicorn",
+        "10% Discount",
+        "Fluid"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

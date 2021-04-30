@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Lucky Reroll",
         "Disco Dropper"
     ],
     "trait_types": [
-        "reforge",
         "dropper"
     ],
     "series": "Founder"

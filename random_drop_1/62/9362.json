@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Rando Dropper"
+        "True Name"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

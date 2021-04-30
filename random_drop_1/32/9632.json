@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount"
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "upgrade",
+        "experimental"
     ],
     "series": "Founder"
 }

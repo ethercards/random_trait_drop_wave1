@@ -1,9 +1,17 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Reforge + ",
+        "Art Drop",
+        "Forge Protector",
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

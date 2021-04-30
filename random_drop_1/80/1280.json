@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "drop"
     ],
     "series": "Alpha"
 }

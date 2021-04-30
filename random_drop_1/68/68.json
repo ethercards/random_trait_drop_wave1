@@ -2,12 +2,11 @@
     "traits": [
         "Reforge",
         "Extra Limited Trait Slot",
-        "Forge Protector",
-        "10% Discount"
+        "Good Company"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "drop"
     ],
     "series": "OG"
 }

@@ -1,9 +1,14 @@
 {
     "traits": [
-        "50% Discount"
+        "Disco Dropper",
+        "Unstable",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "discount"
+        "dropper",
+        "experimental",
+        "drop"
     ],
     "series": "Alpha"
 }

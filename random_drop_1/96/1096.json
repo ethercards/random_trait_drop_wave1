@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",

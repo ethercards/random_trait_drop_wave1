@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

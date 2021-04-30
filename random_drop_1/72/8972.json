@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "5% Discount"
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

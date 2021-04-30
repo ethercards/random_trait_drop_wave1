@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "10% Discount",
-        "Disco Dropper"
+        "25% Discount",
+        "Free Ticket",
+        "Lucky Reroll",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "upgrade",
         "discount",
         "dropper"
     ],

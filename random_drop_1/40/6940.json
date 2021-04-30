@@ -1,7 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "25% Discount"
+        "50% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge",

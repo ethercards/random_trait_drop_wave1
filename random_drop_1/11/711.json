@@ -2,11 +2,10 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "5% Discount"
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Alpha"
 }

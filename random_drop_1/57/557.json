@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Forge Protector"
+        "Forge Protector",
+        "Free Ticket",
+        "Unstable",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Alpha"
 }

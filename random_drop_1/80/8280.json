@@ -1,13 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade",
-        "Disco Dropper"
+        "Forge Protector",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "upgrade",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

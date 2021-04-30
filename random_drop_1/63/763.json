@@ -1,8 +1,11 @@
 {
     "traits": [
         "Art Drop",
-        "Forge Protector"
+        "Free Ticket",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Alpha"
 }

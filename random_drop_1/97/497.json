@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "Rando Dropper"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

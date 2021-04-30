@@ -1,5 +1,7 @@
 {
-    "traits": [],
+    "traits": [
+        "Unicorn"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

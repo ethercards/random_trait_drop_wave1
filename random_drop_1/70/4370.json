@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount"
+        "Reforge",
+        "5% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
+        "reforge",
         "discount"
     ],
     "series": "Founder"

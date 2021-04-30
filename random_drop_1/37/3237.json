@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Redeemable",
-        "5% Discount",
-        "Disco Dropper"
+        "Fluid"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

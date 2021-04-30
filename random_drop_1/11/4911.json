@@ -1,8 +1,12 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge + ",
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

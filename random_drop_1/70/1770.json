@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

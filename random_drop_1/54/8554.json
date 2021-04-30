@@ -1,11 +1,14 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "Disco Dropper"
+        "Forge Protector",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

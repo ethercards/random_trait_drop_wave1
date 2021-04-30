@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket"
+        "Art Drop",
+        "Rando Dropper",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

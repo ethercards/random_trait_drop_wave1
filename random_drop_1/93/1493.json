@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Redeemable",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

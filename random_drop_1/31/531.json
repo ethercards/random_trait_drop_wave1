@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Reforge"
+        "Art Drop",
+        "Merch",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,21 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Redeemable",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount",
+        "dropper",
+        "drop"
     ],
     "series": "OG"
 }

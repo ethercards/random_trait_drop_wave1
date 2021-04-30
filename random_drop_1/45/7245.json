@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "Alpha Upgrade",
+        "Disco Dropper"
+    ],
+    "trait_types": [
+        "upgrade",
+        "dropper"
+    ],
     "series": "Founder"
 }

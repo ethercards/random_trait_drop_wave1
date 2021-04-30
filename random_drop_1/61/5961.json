@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Art Drop"
+        "Reforge"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

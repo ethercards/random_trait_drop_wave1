@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Forge Protector"
+        "Alpha Upgrade",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade",
+        "experimental"
+    ],
     "series": "Founder"
 }

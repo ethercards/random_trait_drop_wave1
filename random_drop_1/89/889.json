@@ -1,6 +1,8 @@
 {
     "traits": [
-        "25% Discount"
+        "Extra Limited Trait Slot",
+        "25% Discount",
+        "True Name"
     ],
     "trait_types": [
         "discount"

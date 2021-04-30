@@ -1,9 +1,12 @@
 {
     "traits": [
-        "10% Discount"
+        "Art Drop",
+        "Redeem",
+        "Gravity"
     ],
     "trait_types": [
-        "discount"
+        "redeem",
+        "experimental"
     ],
     "series": "Founder"
 }

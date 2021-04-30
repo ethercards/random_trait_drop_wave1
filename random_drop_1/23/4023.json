@@ -1,11 +1,16 @@
 {
     "traits": [
-        "Forge Protector",
         "5% Discount",
-        "Free Ticket"
+        "Disco Dropper",
+        "Redeem",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "dropper",
+        "redeem",
+        "experimental"
     ],
     "series": "Founder"
 }

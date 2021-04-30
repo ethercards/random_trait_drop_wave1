@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge",
+        "Disco Dropper",
+        "Glittery"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

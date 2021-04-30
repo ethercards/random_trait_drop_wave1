@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Reroll"
+        "Reforge",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

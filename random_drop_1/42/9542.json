@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Selective Layer Reroll",
+        "Glittery"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

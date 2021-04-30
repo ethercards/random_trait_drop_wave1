@@ -1,9 +1,13 @@
 {
     "traits": [
-        "10% Discount"
+        "5% Discount",
+        "Free Ticket",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

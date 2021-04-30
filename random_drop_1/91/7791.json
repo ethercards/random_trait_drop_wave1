@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge + ",
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Unicorn",
+        "25% Discount",
+        "Selective Layer Reroll",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

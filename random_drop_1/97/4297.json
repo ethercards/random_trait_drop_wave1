@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Rando Dropper"
+        "25% Discount",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

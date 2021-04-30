@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper"
+        "Art Drop",
+        "Lucky Reroll",
+        "Golden Goose"
     ],
     "trait_types": [
         "dropper"

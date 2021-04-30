@@ -1,9 +1,17 @@
 {
     "traits": [
-        "25% Discount"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
+        "Unicorn",
+        "Reforge + ",
         "Forge Protector",
-        "25% Discount"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "OG"
 }

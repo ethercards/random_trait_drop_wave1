@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Unicorn",
+        "Reforge",
+        "Art Drop",
+        "Free Ticket"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

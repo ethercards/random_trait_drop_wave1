@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Forge Protector"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

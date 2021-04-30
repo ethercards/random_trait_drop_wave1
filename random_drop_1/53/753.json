@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge + ",
+        "Free Ticket",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }
