@@ -1,12 +1,12 @@
 {
     "traits": [
         "Art Drop",
-        "Merch",
-        "New Commons",
-        "Glittery"
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "redeem"
+        "dropper"
     ],
     "series": "Alpha"
 }

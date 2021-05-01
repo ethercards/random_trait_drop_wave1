@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "True Name",
-        "Synthesis Ritual"
+        "Art Drop",
+        "5% Discount"
     ],
     "trait_types": [
         "discount"

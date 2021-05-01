@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Gravity",
-        "New Commons"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

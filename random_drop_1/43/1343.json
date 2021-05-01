@@ -1,7 +1,9 @@
 {
     "traits": [
-        "50% Discount",
-        "Disco Dropper"
+        "Forge Protector",
+        "25% Discount",
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
         "discount",

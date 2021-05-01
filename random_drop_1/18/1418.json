@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Unstable",
-        "Synthesis Ritual"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

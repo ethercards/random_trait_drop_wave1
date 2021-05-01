@@ -1,14 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "5% Discount",
-        "Lucky Reroll",
         "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

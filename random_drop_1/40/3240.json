@@ -1,9 +1,11 @@
 {
     "traits": [
-        "1 UP"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Free Ticket"
     ],
     "trait_types": [
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

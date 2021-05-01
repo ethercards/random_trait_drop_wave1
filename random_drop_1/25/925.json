@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll"
+        "Art Drop",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "drop"
     ],
     "series": "Alpha"
 }

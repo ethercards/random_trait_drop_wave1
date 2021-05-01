@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Disco Dropper"
     ],
     "trait_types": [
         "dropper"

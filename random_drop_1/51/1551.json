@@ -1,7 +1,12 @@
 {
     "traits": [
-        "New Commons"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Swap",
+        "True Name",
+        "New Commons"
+    ],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Founder"
 }

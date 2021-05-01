@@ -1,12 +1,16 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
-        "5% Discount"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "10% Discount",
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

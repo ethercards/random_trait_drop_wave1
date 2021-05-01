@@ -2,18 +2,10 @@
     "traits": [
         "Unicorn",
         "Reforge",
-        "25% Discount",
-        "Disco Dropper",
-        "Redeem",
-        "Unstable",
-        "New Commons"
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper",
-        "redeem",
-        "experimental"
+        "reforge"
     ],
     "series": "OG"
 }

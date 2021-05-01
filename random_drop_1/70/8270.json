@@ -1,10 +1,11 @@
 {
     "traits": [
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "New Commons"
+        "Lucky Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

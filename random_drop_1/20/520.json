@@ -1,8 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Free Ticket"
+        "Reforge",
+        "Forge Protector",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Rando Dropper",
-        "New Commons",
-        "Glittery"
+        "Fluid",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

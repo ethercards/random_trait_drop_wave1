@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Merch"
+        "5% Discount",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "discount"
     ],
     "series": "Founder"
 }

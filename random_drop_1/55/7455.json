@@ -1,9 +1,7 @@
 {
     "traits": [
-        "1 UP"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

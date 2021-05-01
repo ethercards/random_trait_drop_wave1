@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Disco Dropper"
+        "25% Discount",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

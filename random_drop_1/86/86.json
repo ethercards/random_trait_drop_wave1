@@ -1,12 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
+        "Disco Dropper",
+        "Selective Layer Reroll",
         "Unstable",
-        "Synthesis Ritual"
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
+        "dropper",
         "experimental"
     ],
     "series": "OG"

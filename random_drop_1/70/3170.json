@@ -1,10 +1,8 @@
 {
     "traits": [
-        "True Name",
-        "1 UP"
+        "Forge Protector",
+        "New Commons"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

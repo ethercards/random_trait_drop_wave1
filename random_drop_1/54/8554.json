@@ -1,14 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector",
-        "Merch",
-        "New Commons"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Free Ticket",
-        "True Name",
-        "Merch"
+        "Golden Goose"
     ],
     "trait_types": [
-        "redeem"
+        "dropper"
     ],
     "series": "Founder"
 }

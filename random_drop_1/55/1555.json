@@ -1,7 +1,11 @@
 {
     "traits": [
-        "True Name"
+        "Selective Layer Reroll",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Reforge + ",
-        "Redeem",
-        "Warp Rabbit"
+        "Reforge",
+        "Free Ticket"
     ],
     "trait_types": [
-        "reforge",
-        "redeem",
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "Unstable"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Reforge + ",
+        "Swap"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "swap"
     ],
     "series": "Founder"
 }

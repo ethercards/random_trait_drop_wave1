@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge + "
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

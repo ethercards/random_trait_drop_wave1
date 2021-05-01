@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "True Name",
-        "New Commons"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge"

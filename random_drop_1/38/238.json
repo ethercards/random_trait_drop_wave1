@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Free Ticket"
+        "Reforge",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

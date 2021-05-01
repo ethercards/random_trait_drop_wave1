@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "1 UP"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

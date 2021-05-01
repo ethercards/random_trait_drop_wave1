@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Rando Dropper"
+        "Rando Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,9 +1,10 @@
 {
     "traits": [
-        "10% Discount",
-        "Selective Layer Reroll"
+        "Reforge",
+        "50% Discount"
     ],
     "trait_types": [
+        "reforge",
         "discount"
     ],
     "series": "Founder"

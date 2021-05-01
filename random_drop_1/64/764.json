@@ -1,12 +1,7 @@
 {
     "traits": [
-        "5% Discount",
-        "Free Ticket",
-        "Good Company"
+        "Reroll"
     ],
-    "trait_types": [
-        "discount",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

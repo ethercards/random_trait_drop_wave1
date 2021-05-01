@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Rando Dropper"
+        "Forge Protector",
+        "Fluid",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

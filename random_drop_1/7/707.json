@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "Unstable"
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

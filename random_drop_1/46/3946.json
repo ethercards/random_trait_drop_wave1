@@ -1,13 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Rando Dropper",
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

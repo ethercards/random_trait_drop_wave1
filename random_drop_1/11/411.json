@@ -1,12 +1,17 @@
 {
     "traits": [
-        "Reforge + ",
-        "5% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Gravity",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "experimental",
+        "drop"
     ],
     "series": "Alpha"
 }

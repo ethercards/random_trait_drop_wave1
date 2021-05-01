@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Fluid"
-    ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

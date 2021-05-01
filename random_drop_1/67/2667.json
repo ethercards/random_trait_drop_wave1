@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Unicorn"
+        "Forge Protector",
+        "5% Discount",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

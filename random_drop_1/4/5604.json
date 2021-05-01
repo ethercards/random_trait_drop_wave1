@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Free Ticket",
-        "True Name"
+        "Reforge + "
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Unicorn",
         "Forge Protector",
-        "5% Discount",
-        "Gravity"
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "discount",
         "experimental"
     ],
     "series": "Alpha"

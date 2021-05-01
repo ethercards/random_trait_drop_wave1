@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "5% Discount",
         "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

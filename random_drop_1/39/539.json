@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "True Name"
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

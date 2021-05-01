@@ -1,10 +1,13 @@
 {
     "traits": [
-        "5% Discount",
-        "Synthesis Ritual"
+        "Reforge",
+        "50% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

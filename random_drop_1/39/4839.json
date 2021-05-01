@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Art Drop",
         "5% Discount",
-        "Lucky Reroll",
-        "Unstable"
+        "True Name"
     ],
     "trait_types": [
-        "discount",
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

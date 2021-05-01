@@ -1,10 +1,9 @@
 {
     "traits": [
-        "New Commons",
-        "1 UP"
+        "Reforge"
     ],
     "trait_types": [
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

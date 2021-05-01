@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "Golden Goose"
+        "Extra Limited Trait Slot",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

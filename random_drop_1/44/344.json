@@ -1,11 +1,12 @@
 {
     "traits": [
-        "10% Discount",
+        "Reforge",
         "Disco Dropper",
+        "Selective Layer Reroll",
         "True Name"
     ],
     "trait_types": [
-        "discount",
+        "reforge",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,8 +1,6 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Selective Layer Reroll"
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

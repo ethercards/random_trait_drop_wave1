@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "Good Company"
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "dropper",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "New Commons"
+        "Reforge + ",
+        "Alpha Upgrade",
+        "5% Discount",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "upgrade",
+        "discount"
+    ],
     "series": "Founder"
 }

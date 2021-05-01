@@ -1,12 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Rando Dropper",
-        "New Commons"
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

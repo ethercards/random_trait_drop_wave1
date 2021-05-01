@@ -1,7 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Redeemable"
+        "Forge Protector",
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge"

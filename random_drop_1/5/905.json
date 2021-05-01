@@ -1,12 +1,8 @@
 {
     "traits": [
-        "5% Discount",
-        "Free Ticket",
-        "Disco Dropper"
+        "Art Drop",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

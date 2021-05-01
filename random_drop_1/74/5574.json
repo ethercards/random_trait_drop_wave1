@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Disco Dropper",
-        "True Name",
-        "Synthesis Ritual"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "Unstable"
+        "Forge Protector",
+        "New Commons"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

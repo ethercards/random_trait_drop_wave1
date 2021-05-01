@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Reforge + ",
-        "Rando Dropper",
-        "New Commons"
+        "Reforge",
+        "5% Discount",
+        "Swap",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount",
+        "swap"
     ],
     "series": "Founder"
 }

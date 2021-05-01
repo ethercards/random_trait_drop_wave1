@@ -2,11 +2,11 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Merch"
+        "Rando Dropper"
     ],
     "trait_types": [
         "reforge",
-        "redeem"
+        "dropper"
     ],
     "series": "Founder"
 }

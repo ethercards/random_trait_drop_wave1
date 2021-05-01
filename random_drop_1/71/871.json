@@ -1,13 +1,15 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket",
-        "Good Company"
+        "Reforge",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "drop"
+        "reforge",
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

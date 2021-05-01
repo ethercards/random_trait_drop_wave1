@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Founder"
 }

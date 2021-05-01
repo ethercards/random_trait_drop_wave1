@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "Unstable"
+        "Reforge"
     ],
     "trait_types": [
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

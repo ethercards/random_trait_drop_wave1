@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Unicorn"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

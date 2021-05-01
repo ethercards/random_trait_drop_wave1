@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Lucky Reroll"
+        "Lucky Reroll",
+        "True Name",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

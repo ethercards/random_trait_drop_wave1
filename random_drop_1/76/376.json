@@ -1,15 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "25% Discount",
-        "Selective Layer Reroll",
-        "Unstable",
-        "Synthesis Ritual"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

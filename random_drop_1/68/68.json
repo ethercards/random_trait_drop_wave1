@@ -2,11 +2,12 @@
     "traits": [
         "Reforge",
         "Extra Limited Trait Slot",
-        "Good Company"
+        "10% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge",
-        "drop"
+        "discount"
     ],
     "series": "OG"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "OG Upgrade"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade"
+        "reforge"
     ],
     "series": "Founder"
 }

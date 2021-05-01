@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Disco Dropper"
+        "Forge Protector",
+        "25% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Founder"

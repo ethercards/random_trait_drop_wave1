@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "5% Discount",
-        "1 UP"
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "drop"
+        "experimental"
     ],
     "series": "Alpha"
 }

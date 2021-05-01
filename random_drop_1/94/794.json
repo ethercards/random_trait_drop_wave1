@@ -1,14 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Disco Dropper",
-        "Glittery"
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

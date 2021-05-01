@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll"
+        "Reforge",
+        "50% Discount",
+        "Free Ticket"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

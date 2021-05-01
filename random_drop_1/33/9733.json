@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Art Drop",
         "Forge Protector",
-        "New Commons"
+        "Gravity"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,14 +1,13 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "5% Discount",
-        "True Name",
-        "1 UP"
+        "25% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "discount",
-        "drop"
+        "discount"
     ],
     "series": "Alpha"
 }

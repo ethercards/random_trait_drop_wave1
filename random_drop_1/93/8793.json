@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Free Ticket"
+        "Selective Layer Reroll",
+        "Unstable",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

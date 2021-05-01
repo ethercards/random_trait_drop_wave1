@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "True Name"
+        "Reforge",
+        "Art Drop",
+        "Swap",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "swap"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Forge Protector",
+        "Golden Goose",
+        "True Name",
+        "New Commons"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

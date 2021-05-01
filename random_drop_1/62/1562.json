@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "Forge Protector",
+        "10% Discount",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

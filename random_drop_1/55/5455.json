@@ -1,15 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "25% Discount",
-        "Free Ticket",
-        "Lucky Reroll",
-        "New Commons"
+        "Art Drop",
+        "Forge Protector"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,16 +1,13 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
         "Forge Protector",
         "Free Ticket",
-        "Swap",
-        "True Name",
-        "Merch"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "swap",
-        "redeem"
+        "reforge"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "New Commons",
-        "1 UP"
+        "Forge Protector",
+        "10% Discount"
     ],
     "trait_types": [
-        "drop"
+        "discount"
     ],
     "series": "Founder"
 }

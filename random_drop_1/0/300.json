@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "True Name",
-        "Synthesis Ritual"
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Alpha"
 }

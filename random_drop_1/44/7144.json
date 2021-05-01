@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Disco Dropper",
-        "True Name"
+        "Disco Dropper"
     ],
     "trait_types": [
         "dropper"

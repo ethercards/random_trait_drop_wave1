@@ -1,12 +1,14 @@
 {
     "traits": [
-        "10% Discount",
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
         "Free Ticket",
-        "True Name",
         "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "OG"
 }

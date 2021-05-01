@@ -1,14 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "Swap"
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "swap"
+        "dropper"
     ],
     "series": "Alpha"
 }

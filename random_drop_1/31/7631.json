@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Reforge",
+        "Golden Goose",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "drop"
+    ],
     "series": "Founder"
 }

@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "10% Discount",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,10 +1,10 @@
 {
     "traits": [
         "Forge Protector",
-        "Disco Dropper"
+        "Good Company"
     ],
     "trait_types": [
-        "dropper"
+        "drop"
     ],
     "series": "Founder"
 }

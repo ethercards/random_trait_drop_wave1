@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Unstable"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

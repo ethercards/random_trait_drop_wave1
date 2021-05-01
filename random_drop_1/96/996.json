@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Free Ticket"
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Alpha"
 }

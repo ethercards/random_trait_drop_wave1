@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Synthesis Ritual"
+        "Unicorn",
+        "Reforge + ",
+        "Forge Protector",
+        "Lucky Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

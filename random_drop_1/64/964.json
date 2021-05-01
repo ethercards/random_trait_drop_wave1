@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Selective Layer Reroll"
+        "Reforge",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

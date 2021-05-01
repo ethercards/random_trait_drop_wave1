@@ -1,15 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper",
-        "Merch",
-        "New Commons",
-        "1 UP"
+        "Forge Protector",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "dropper",
-        "redeem",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

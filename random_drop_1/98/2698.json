@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "dropper"

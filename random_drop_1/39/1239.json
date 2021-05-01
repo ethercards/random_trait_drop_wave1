@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Synthesis Ritual"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "Gravity"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

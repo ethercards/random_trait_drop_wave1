@@ -1,12 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Free Ticket",
+        "Art Drop",
+        "Forge Protector",
         "Rando Dropper",
-        "True Name"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

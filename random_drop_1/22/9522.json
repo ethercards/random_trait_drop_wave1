@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper",
-        "Redeem"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "dropper",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

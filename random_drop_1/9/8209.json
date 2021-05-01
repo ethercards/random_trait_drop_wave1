@@ -1,8 +1,7 @@
 {
     "traits": [
         "Forge Protector",
-        "Disco Dropper",
-        "New Commons"
+        "Disco Dropper"
     ],
     "trait_types": [
         "dropper"

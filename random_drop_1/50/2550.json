@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Rando Dropper"
+        "10% Discount",
+        "Selective Layer Reroll",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

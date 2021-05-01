@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

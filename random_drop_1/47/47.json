@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "True Name",
-        "1 UP"
+        "Forge Protector",
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "dropper"
     ],
     "series": "OG"
 }

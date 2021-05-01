@@ -1,7 +1,11 @@
 {
     "traits": [
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,12 +1,7 @@
 {
     "traits": [
-        "10% Discount",
-        "Disco Dropper",
-        "Synthesis Ritual"
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

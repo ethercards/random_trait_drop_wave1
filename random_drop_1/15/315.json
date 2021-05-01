@@ -1,15 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
+        "Reforge",
         "Forge Protector",
         "5% Discount",
-        "Free Ticket",
-        "Rando Dropper",
-        "Synthesis Ritual"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

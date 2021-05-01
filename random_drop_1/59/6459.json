@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "50% Discount",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

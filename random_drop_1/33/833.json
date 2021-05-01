@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge",
+        "Reforge + ",
         "Art Drop",
-        "Disco Dropper"
+        "Gravity"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

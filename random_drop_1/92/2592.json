@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper"
+        "Reforge",
+        "5% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
+        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "Founder"

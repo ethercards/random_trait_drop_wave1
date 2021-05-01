@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

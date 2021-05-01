@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "True Name"
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Alpha"
 }

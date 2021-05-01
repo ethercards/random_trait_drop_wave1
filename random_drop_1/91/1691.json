@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Art Drop",
-        "Unstable"
+        "10% Discount",
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "experimental"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

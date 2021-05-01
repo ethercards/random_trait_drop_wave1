@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "5% Discount",
-        "Unstable",
-        "New Commons"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

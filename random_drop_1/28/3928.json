@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Unstable",
-        "Glittery"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "redeem"
     ],
     "series": "Founder"
 }

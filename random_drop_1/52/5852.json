@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "50% Discount",
-        "New Commons"
+        "Unicorn"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

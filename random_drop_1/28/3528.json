@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Art Drop",
+        "Free Ticket",
+        "True Name"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

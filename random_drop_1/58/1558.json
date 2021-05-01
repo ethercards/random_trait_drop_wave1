@@ -1,8 +1,12 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unicorn",
+        "Reforge + ",
+        "Art Drop",
+        "Disco Dropper"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop"
+        "Forge Protector",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Founder"
 }

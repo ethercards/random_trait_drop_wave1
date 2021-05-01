@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Unstable"
+        "Lucky Reroll",
+        "True Name",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

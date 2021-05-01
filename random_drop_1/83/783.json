@@ -1,9 +1,12 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "Forge Protector",
-        "New Commons"
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

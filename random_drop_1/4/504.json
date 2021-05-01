@@ -1,11 +1,11 @@
 {
     "traits": [
-        "True Name",
-        "Glittery",
-        "1 UP"
+        "5% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "drop"
+        "discount"
     ],
     "series": "Alpha"
 }

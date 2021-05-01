@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Lucky Reroll",
-        "True Name"
+        "Free Ticket",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

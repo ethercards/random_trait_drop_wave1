@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Synthesis Ritual"
+        "Reforge",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

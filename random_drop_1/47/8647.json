@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Free Ticket"
+        "Reforge",
+        "Forge Protector",
+        "25% Discount",
+        "New Commons",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "drop"
+    ],
     "series": "Founder"
 }

@@ -1,7 +1,9 @@
 {
     "traits": [
         "Extra Limited Trait Slot",
-        "Rando Dropper"
+        "Forge Protector",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

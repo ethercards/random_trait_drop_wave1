@@ -1,9 +1,10 @@
 {
     "traits": [
-        "1 UP"
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "drop"
+        "dropper"
     ],
     "series": "Founder"
 }

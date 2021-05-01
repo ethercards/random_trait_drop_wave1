@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Synthesis Ritual"
+        "Selective Layer Reroll",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

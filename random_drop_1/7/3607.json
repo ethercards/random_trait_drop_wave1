@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Reforge",
-        "True Name"
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

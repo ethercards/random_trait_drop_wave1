@@ -1,7 +1,10 @@
 {
     "traits": [
-        "New Commons"
+        "Alpha Upgrade",
+        "Lucky Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

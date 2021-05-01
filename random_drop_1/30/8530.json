@@ -1,13 +1,8 @@
 {
     "traits": [
-        "Reforge",
         "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Lucky Reroll",
-        "New Commons"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

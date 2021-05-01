@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Rando Dropper",
-        "True Name"
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,9 +1,6 @@
 {
     "traits": [
-        "50% Discount",
-        "Lucky Reroll",
-        "True Name",
-        "New Commons"
+        "25% Discount"
     ],
     "trait_types": [
         "discount"

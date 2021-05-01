@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Disco Dropper"
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "upgrade"
     ],
     "series": "Founder"
 }

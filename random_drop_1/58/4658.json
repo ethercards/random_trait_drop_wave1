@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "New Commons",
-        "Glittery"
+        "25% Discount",
+        "Free Ticket"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

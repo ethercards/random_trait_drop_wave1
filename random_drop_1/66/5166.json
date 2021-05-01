@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Free Ticket",
-        "Disco Dropper"
+        "Forge Protector",
+        "Merch"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

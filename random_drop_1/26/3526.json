@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Disco Dropper",
-        "True Name"
+        "Rando Dropper"
     ],
     "trait_types": [
-        "reforge",
         "dropper"
     ],
     "series": "Founder"

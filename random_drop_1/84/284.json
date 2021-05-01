@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Unicorn",
+        "Art Drop",
         "5% Discount",
         "Disco Dropper",
-        "Selective Layer Reroll",
-        "New Commons"
+        "True Name"
     ],
     "trait_types": [
         "discount",

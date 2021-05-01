@@ -1,8 +1,10 @@
 {
     "traits": [
         "Unicorn",
+        "Art Drop",
+        "Forge Protector",
         "Disco Dropper",
-        "True Name"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "dropper"

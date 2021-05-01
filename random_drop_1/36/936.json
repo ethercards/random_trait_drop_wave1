@@ -1,11 +1,14 @@
 {
     "traits": [
+        "Extra Limited Trait Slot",
+        "10% Discount",
         "Disco Dropper",
-        "Unstable"
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper",
-        "experimental"
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

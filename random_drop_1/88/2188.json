@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Forge Protector",
+        "Free Ticket",
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

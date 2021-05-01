@@ -1,11 +1,9 @@
 {
     "traits": [
-        "5% Discount",
-        "Unstable"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

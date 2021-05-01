@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Forge Protector",
+        "Glittery"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

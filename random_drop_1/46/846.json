@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "True Name",
-        "New Commons"
+        "Reforge + ",
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

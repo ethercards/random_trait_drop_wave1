@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Disco Dropper",
-        "Unstable"
+        "5% Discount",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper",
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "True Name"
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "discount"
+        "upgrade"
     ],
     "series": "Founder"
 }

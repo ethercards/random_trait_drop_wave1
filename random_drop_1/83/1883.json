@@ -1,13 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Alpha Upgrade",
-        "Free Ticket",
-        "Selective Layer Reroll"
+        "10% Discount",
+        "Redeem",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "upgrade"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade",
-        "Selective Layer Reroll"
+        "Extra Limited Trait Slot",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

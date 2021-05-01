@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
+        "Reforge",
         "Rando Dropper",
-        "1 UP"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper",
-        "drop"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

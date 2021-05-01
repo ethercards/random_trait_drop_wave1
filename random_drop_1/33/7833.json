@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Synthesis Ritual"
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

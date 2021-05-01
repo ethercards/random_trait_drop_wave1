@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Forge Protector",
+        "Selective Layer Reroll"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

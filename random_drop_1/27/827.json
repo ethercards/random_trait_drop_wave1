@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Rando Dropper",
-        "True Name",
-        "Synthesis Ritual",
-        "Glittery",
+        "Reforge",
+        "Disco Dropper",
         "1 UP"
     ],
     "trait_types": [
+        "reforge",
         "dropper",
         "drop"
     ],

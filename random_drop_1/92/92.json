@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Art Drop",
         "Forge Protector",
         "10% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "OG"
 }

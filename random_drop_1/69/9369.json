@@ -1,11 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Unstable",
-        "New Commons"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "Swap",
+        "Glittery"
     ],
     "trait_types": [
-        "experimental"
+        "reforge",
+        "swap"
     ],
     "series": "Founder"
 }

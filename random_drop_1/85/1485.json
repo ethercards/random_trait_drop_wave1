@@ -1,11 +1,11 @@
 {
     "traits": [
         "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "New Commons"
+        "Forge Protector",
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

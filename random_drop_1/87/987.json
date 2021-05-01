@@ -1,16 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
+        "5% Discount",
         "Free Ticket",
-        "Rando Dropper",
-        "Unstable",
-        "True Name"
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "dropper",
-        "experimental"
+        "discount"
     ],
     "series": "Alpha"
 }

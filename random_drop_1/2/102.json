@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "Unstable"
+        "Unicorn",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

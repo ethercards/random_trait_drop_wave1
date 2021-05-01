@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Merch"
+        "Reforge",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

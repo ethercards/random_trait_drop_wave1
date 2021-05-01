@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Unstable",
-        "1 UP"
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Lucky Reroll",
+        "True Name"
     ],
     "trait_types": [
-        "experimental",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

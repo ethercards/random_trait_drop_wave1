@@ -1,16 +1,10 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper",
-        "Redeem",
-        "Unstable",
-        "Synthesis Ritual"
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount",
-        "dropper",
-        "redeem",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

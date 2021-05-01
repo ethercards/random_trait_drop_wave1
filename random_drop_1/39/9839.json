@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Disco Dropper"
+        "5% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Founder"

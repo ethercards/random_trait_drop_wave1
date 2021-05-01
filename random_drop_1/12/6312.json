@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Swap"
+        "Unicorn",
+        "Reforge"
     ],
     "trait_types": [
-        "swap"
+        "reforge"
     ],
     "series": "Founder"
 }

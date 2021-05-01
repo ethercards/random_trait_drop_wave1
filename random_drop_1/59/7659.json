@@ -1,15 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "Unstable",
-        "Synthesis Ritual",
-        "Glittery"
+        "Art Drop",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

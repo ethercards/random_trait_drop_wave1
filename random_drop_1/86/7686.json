@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop"
+        "Lucky Reroll",
+        "Fluid"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Founder"
 }

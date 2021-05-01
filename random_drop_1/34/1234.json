@@ -1,11 +1,7 @@
 {
     "traits": [
-        "5% Discount",
-        "1 UP"
+        "Art Drop"
     ],
-    "trait_types": [
-        "discount",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

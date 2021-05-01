@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "True Name",
-        "Merch"
+        "Reforge",
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "redeem"
+        "dropper"
     ],
     "series": "Founder"
 }

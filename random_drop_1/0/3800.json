@@ -1,8 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

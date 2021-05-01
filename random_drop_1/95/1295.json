@@ -1,7 +1,11 @@
 {
     "traits": [
-        "25% Discount",
-        "Selective Layer Reroll"
+        "Art Drop",
+        "5% Discount",
+        "Free Ticket",
+        "Lucky Reroll",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

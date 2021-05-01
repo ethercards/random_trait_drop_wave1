@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Alpha Upgrade",
         "Extra Limited Trait Slot",
-        "Forge Protector",
-        "10% Discount",
-        "Free Ticket"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "upgrade",
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Synthesis Ritual"
+        "Reforge + ",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

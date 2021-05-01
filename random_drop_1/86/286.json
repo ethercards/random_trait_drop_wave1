@@ -1,11 +1,13 @@
 {
     "traits": [
         "Forge Protector",
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "25% Discount",
+        "Free Ticket",
+        "Fluid"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

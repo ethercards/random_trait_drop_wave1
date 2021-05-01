@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Synthesis Ritual"
+        "Reforge + ",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

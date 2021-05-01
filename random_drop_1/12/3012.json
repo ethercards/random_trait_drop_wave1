@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "True Name",
-        "New Commons"
+        "Unicorn",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

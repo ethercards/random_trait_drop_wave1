@@ -1,15 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper",
-        "Unstable",
-        "New Commons"
+        "5% Discount"
     ],
     "trait_types": [
-        "discount",
-        "dropper",
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

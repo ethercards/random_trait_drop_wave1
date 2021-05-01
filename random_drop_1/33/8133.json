@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Rando Dropper",
+        "Fluid"
+    ],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

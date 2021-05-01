@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Good Company"
+        "Forge Protector",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

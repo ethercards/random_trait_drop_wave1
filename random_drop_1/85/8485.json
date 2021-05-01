@@ -1,6 +1,9 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Forge Protector",
+        "10% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

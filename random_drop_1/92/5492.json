@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "Fluid"
+        "Selective Layer Reroll",
+        "Redeem",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "redeem",
+        "drop"
     ],
     "series": "Founder"
 }

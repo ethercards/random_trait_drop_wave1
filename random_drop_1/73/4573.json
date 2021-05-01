@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Reforge"
     ],
     "trait_types": [
-        "upgrade"
+        "reforge"
     ],
     "series": "Founder"
 }

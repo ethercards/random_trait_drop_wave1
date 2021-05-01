@@ -1,14 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Disco Dropper",
-        "1 UP"
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "dropper",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

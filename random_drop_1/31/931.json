@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "New Commons"
+        "10% Discount",
+        "Rando Dropper",
+        "True Name"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

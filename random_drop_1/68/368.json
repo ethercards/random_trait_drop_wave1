@@ -1,13 +1,13 @@
 {
     "traits": [
-        "Art Drop",
-        "Disco Dropper",
-        "True Name",
-        "1 UP"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper",
-        "drop"
+        "reforge",
+        "experimental"
     ],
     "series": "Alpha"
 }

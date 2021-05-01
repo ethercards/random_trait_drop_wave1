@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket"
+        "Lucky Reroll",
+        "True Name"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

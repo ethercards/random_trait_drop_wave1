@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot"
+        "Unstable",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "experimental",
+        "drop"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "1 UP"
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

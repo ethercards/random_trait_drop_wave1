@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Merch"
+        "Forge Protector",
+        "10% Discount"
     ],
     "trait_types": [
-        "dropper",
-        "redeem"
+        "discount"
     ],
     "series": "Founder"
 }

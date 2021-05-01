@@ -1,10 +1,13 @@
 {
     "traits": [
-        "5% Discount",
-        "New Commons"
+        "Reforge",
+        "Forge Protector",
+        "Lucky Reroll",
+        "Redeem"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "redeem"
     ],
     "series": "Founder"
 }

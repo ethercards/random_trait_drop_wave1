@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Synthesis Ritual"
+        "Forge Protector",
+        "25% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

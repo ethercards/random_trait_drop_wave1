@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Disco Dropper",
-        "New Commons"
+        "Reforge",
+        "Rando Dropper"
     ],
     "trait_types": [
         "reforge",

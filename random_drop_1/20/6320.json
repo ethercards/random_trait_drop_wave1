@@ -2,12 +2,11 @@
     "traits": [
         "Unicorn",
         "Reforge",
-        "25% Discount",
-        "New Commons"
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "drop"
     ],
     "series": "Founder"
 }

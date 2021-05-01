@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Redeem",
+        "Unicorn",
+        "10% Discount",
+        "Free Ticket",
+        "Unstable",
         "New Commons"
     ],
     "trait_types": [
-        "redeem"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

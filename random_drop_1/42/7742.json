@@ -1,12 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "1 UP"
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

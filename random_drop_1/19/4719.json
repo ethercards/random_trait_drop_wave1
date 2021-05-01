@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll",
-        "Redeem",
         "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

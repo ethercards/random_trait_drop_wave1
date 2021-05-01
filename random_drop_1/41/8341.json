@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Fluid"
+        "Reforge",
+        "Lucky Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

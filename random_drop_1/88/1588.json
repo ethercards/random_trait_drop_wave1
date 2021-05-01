@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "True Name",
-        "New Commons"
+        "Forge Protector",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

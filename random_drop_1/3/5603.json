@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge + ",
         "Forge Protector",
-        "Disco Dropper",
-        "Swap"
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper",
-        "swap"
+        "reforge"
     ],
     "series": "Founder"
 }

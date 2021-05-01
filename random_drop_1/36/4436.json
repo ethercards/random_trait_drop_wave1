@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll",
-        "Rando Dropper",
-        "True Name"
+        "10% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

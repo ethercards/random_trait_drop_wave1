@@ -1,14 +1,14 @@
 {
     "traits": [
-        "Reforge + ",
+        "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Rando Dropper"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

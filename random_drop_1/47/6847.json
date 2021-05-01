@@ -1,8 +1,7 @@
 {
     "traits": [
         "5% Discount",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Rando Dropper"
     ],
     "trait_types": [
         "discount",

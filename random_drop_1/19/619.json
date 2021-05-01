@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "Selective Layer Reroll"
+        "Unicorn",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

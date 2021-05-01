@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Synthesis Ritual"
+        "Extra Limited Trait Slot",
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Alpha"
 }

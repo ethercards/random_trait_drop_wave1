@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Free Ticket",
-        "Rando Dropper",
-        "Selective Layer Reroll",
+        "Reforge",
+        "Disco Dropper",
         "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "OG"

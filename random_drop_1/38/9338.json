@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Unstable"
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

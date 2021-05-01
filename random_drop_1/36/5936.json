@@ -1,7 +1,9 @@
 {
     "traits": [
+        "Unicorn",
         "Art Drop",
-        "Extra Limited Trait Slot"
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
     ],
     "trait_types": [],
     "series": "Founder"

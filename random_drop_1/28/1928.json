@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Unstable",
-        "Good Company"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "experimental",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

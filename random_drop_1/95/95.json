@@ -1,15 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "5% Discount",
-        "Synthesis Ritual",
-        "1 UP"
+        "Selective Layer Reroll",
+        "Golden Goose",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
         "reforge",
-        "discount",
-        "drop"
+        "dropper"
     ],
     "series": "OG"
 }

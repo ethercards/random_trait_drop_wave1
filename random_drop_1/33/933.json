@@ -1,11 +1,17 @@
 {
     "traits": [
+        "Unicorn",
+        "Reforge",
         "Forge Protector",
         "5% Discount",
-        "Selective Layer Reroll"
+        "Rando Dropper",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

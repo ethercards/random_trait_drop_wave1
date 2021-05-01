@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "True Name",
-        "New Commons"
+        "Reforge + ",
+        "5% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Founder"
 }

@@ -1,8 +1,9 @@
 {
     "traits": [
         "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket"
+        "Glittery"
     ],
     "trait_types": [
         "reforge"

@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Synthesis Ritual"
-    ],
-    "trait_types": [
-        "reforge"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

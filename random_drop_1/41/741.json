@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Unstable"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "experimental"
+        "reforge",
+        "dropper"
     ],
     "series": "Alpha"
 }

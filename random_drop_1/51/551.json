@@ -1,16 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Forge Protector",
-        "5% Discount",
-        "Redeem",
-        "New Commons"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "redeem"
+        "reforge"
     ],
     "series": "Alpha"
 }

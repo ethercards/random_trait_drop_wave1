@@ -1,14 +1,7 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Synthesis Ritual",
-        "New Commons"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

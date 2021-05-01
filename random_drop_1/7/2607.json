@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unicorn",
+        "Reforge + ",
+        "Unstable",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Founder"
 }

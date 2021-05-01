@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Disco Dropper"
+        "Reforge",
+        "5% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "upgrade",
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

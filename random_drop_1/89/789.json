@@ -1,14 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
+        "Art Drop",
         "Forge Protector",
         "5% Discount",
-        "Disco Dropper"
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "reforge",
         "discount",
         "dropper"
     ],

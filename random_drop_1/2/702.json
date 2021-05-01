@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Redeem",
-        "Synthesis Ritual"
+        "Reforge + ",
+        "Forge Protector"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "reforge"
     ],
     "series": "Alpha"
 }

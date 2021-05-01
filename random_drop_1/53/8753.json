@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Swap"
+        "Free Ticket",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "swap"
+        "experimental"
     ],
     "series": "Founder"
 }

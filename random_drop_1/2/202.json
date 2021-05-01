@@ -1,14 +1,14 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "25% Discount",
-        "Rando Dropper"
+        "Art Drop",
+        "Forge Protector",
+        "5% Discount",
+        "Free Ticket",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
         "discount",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

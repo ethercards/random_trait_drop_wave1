@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Disco Dropper",
-        "True Name"
+        "Reforge",
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

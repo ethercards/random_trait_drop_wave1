@@ -1,17 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Free Ticket",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Unstable"
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

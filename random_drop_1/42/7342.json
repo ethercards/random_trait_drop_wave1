@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Free Ticket",
         "New Commons"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

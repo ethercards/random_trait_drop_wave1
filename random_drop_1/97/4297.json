@@ -1,10 +1,8 @@
 {
     "traits": [
-        "25% Discount",
-        "Glittery"
+        "True Name",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

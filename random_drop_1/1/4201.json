@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Lucky Reroll",
+        "10% Discount",
         "Unstable"
     ],
     "trait_types": [
+        "discount",
         "experimental"
     ],
     "series": "Founder"

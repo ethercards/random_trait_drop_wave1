@@ -1,11 +1,15 @@
 {
     "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "True Name",
-        "New Commons",
-        "Glittery"
+        "5% Discount",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
     "series": "OG"
 }

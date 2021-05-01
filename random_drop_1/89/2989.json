@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Unstable",
-        "New Commons"
+        "Art Drop",
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "upgrade"
     ],
     "series": "Founder"
 }

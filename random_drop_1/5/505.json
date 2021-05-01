@@ -1,11 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Unstable"
+        "Art Drop",
+        "50% Discount"
     ],
     "trait_types": [
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

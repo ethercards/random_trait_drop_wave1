@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Synthesis Ritual"
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Free Ticket",
-        "Lucky Reroll",
-        "Rando Dropper",
-        "New Commons"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

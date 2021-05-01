@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "True Name",
-        "1 UP"
+        "Unicorn",
+        "Lucky Reroll",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

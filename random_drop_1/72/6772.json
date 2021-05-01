@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "New Commons"
+        "True Name",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

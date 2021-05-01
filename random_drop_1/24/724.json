@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Rando Dropper"
+        "Reforge + ",
+        "5% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

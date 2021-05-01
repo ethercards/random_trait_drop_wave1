@@ -1,9 +1,11 @@
 {
     "traits": [
+        "Reforge",
         "5% Discount",
-        "Synthesis Ritual"
+        "Free Ticket"
     ],
     "trait_types": [
+        "reforge",
         "discount"
     ],
     "series": "Founder"

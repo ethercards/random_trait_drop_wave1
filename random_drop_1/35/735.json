@@ -5,14 +5,12 @@
         "5% Discount",
         "Free Ticket",
         "Disco Dropper",
-        "True Name",
-        "1 UP"
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
         "discount",
-        "dropper",
-        "drop"
+        "dropper"
     ],
     "series": "Alpha"
 }

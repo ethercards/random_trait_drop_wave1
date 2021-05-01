@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "Swap",
+        "Unicorn",
+        "Extra Limited Trait Slot",
         "True Name"
     ],
-    "trait_types": [
-        "dropper",
-        "swap"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

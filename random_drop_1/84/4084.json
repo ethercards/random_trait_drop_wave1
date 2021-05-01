@@ -1,5 +1,9 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "10% Discount"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

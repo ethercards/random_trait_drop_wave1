@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "1 UP"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

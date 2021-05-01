@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Synthesis Ritual",
-        "Merch"
+        "Unicorn",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "redeem"
+        "dropper"
     ],
     "series": "Founder"
 }

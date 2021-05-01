@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount",
-        "Free Ticket"
+        "Art Drop",
+        "Rando Dropper",
+        "Unstable",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "dropper",
+        "experimental",
+        "drop"
     ],
     "series": "Founder"
 }

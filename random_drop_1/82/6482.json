@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge"

@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "5% Discount",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Reroll"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

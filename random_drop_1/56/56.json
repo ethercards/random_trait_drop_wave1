@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Reforge + ",
+        "5% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "OG"
 }

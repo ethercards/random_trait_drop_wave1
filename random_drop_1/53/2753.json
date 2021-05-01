@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Fluid"
+        "Unicorn",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

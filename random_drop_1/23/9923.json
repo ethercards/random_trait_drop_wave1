@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Alpha Upgrade"
+    ],
+    "trait_types": [
+        "reforge",
+        "upgrade"
+    ],
     "series": "Founder"
 }

@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

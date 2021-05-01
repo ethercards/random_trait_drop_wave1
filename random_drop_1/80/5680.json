@@ -1,10 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Selective Layer Reroll"
+        "Alpha Upgrade",
+        "Synthesis Ritual",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "upgrade",
+        "redeem"
     ],
     "series": "Founder"
 }

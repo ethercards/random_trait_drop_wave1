@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Art Drop",
-        "Free Ticket"
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

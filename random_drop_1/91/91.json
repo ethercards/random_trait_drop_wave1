@@ -1,16 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
-        "Free Ticket",
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Forge Protector",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "dropper",
-        "drop"
+        "dropper"
     ],
     "series": "OG"
 }

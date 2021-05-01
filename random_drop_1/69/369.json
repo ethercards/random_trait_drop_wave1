@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "New Commons",
-        "1 UP"
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

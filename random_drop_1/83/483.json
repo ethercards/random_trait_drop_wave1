@@ -1,8 +1,15 @@
 {
     "traits": [
+        "Art Drop",
         "Forge Protector",
-        "Synthesis Ritual"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "drop"
+    ],
     "series": "Alpha"
 }

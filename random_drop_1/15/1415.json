@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
-        "Synthesis Ritual",
+        "Forge Protector",
+        "10% Discount",
         "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

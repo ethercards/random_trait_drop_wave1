@@ -2,14 +2,12 @@
     "traits": [
         "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Forge Protector",
+        "25% Discount"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

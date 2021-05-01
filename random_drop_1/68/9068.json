@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Golden Goose"
+        "Unicorn"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

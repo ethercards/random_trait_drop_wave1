@@ -1,12 +1,14 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Gravity"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "upgrade",
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

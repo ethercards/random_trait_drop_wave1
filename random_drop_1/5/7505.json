@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Unicorn",
+        "Reforge + ",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

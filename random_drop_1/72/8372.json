@@ -1,8 +1,11 @@
 {
     "traits": [
         "Forge Protector",
-        "Selective Layer Reroll"
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

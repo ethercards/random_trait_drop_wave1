@@ -1,15 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Forge Protector",
-        "10% Discount",
-        "Selective Layer Reroll",
-        "True Name",
-        "New Commons"
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge",
         "discount"
     ],
     "series": "Founder"

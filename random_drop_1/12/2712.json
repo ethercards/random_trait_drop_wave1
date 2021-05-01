@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Redeem"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

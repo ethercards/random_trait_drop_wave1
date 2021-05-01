@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Redeemable"
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

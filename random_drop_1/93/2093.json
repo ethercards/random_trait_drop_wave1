@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper",
-        "True Name"
+        "Unicorn",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

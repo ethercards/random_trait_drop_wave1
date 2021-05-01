@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "25% Discount"
+        "Unicorn",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

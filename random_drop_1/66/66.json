@@ -1,14 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "10% Discount",
-        "True Name",
-        "Synthesis Ritual"
+        "Free Ticket",
+        "Swap",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "swap",
+        "drop"
     ],
     "series": "OG"
 }

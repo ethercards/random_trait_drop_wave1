@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector"
+        "Selective Layer Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

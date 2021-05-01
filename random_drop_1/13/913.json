@@ -1,11 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "New Commons"
+        "10% Discount",
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

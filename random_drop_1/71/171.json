@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
+        "Extra Limited Trait Slot",
         "Free Ticket",
-        "Selective Layer Reroll"
+        "Selective Layer Reroll",
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Alpha"
 }

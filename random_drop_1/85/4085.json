@@ -1,15 +1,5 @@
 {
-    "traits": [
-        "Reforge + ",
-        "Art Drop",
-        "Disco Dropper",
-        "Merch",
-        "New Commons"
-    ],
-    "trait_types": [
-        "reforge",
-        "dropper",
-        "redeem"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

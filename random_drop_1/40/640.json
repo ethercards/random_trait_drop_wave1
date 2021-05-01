@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
+        "Reforge + ",
         "Disco Dropper",
-        "Synthesis Ritual",
-        "Glittery"
+        "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Alpha"

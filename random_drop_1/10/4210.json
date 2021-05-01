@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

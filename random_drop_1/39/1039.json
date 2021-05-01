@@ -1,13 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "Lucky Reroll",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Reforge",
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

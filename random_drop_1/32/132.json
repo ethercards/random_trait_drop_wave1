@@ -1,15 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Reforge",
+        "Forge Protector",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "dropper",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

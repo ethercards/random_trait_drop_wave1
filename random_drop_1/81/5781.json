@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Rando Dropper"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

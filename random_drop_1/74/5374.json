@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Rando Dropper",
+        "Unicorn",
+        "10% Discount",
+        "Disco Dropper",
         "Unstable"
     ],
     "trait_types": [
+        "discount",
         "dropper",
         "experimental"
     ],

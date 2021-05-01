@@ -1,7 +1,10 @@
 {
     "traits": [
-        "New Commons"
+        "Unicorn",
+        "Reforge"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

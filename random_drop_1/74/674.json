@@ -1,15 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "25% Discount",
-        "Redeem",
-        "True Name"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

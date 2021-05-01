@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Rando Dropper",
-        "1 UP"
+        "Forge Protector",
+        "25% Discount",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper",
-        "drop"
+        "discount"
     ],
     "series": "Founder"
 }

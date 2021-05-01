@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Gravity",
-        "1 UP"
+        "Reforge"
     ],
     "trait_types": [
-        "experimental",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

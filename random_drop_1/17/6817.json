@@ -1,14 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Rando Dropper"
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

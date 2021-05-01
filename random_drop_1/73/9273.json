@@ -2,13 +2,8 @@
     "traits": [
         "Extra Limited Trait Slot",
         "Forge Protector",
-        "5% Discount",
-        "Free Ticket",
-        "Rando Dropper"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

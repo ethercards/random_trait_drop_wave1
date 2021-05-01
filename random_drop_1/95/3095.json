@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Merch"
+        "25% Discount",
+        "Free Ticket",
+        "New Commons"
     ],
     "trait_types": [
-        "redeem"
+        "discount"
     ],
     "series": "Founder"
 }

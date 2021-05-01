@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "Rando Dropper",
-        "Selective Layer Reroll"
-    ],
-    "trait_types": [
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

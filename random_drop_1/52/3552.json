@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unicorn",
+        "Forge Protector",
+        "Synthesis Ritual",
+        "Merch",
+        "New Commons"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

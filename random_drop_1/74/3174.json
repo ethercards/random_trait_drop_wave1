@@ -1,13 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Art Drop",
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

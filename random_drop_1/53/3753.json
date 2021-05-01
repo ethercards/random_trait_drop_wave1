@@ -1,11 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Redeem"
+        "Extra Limited Trait Slot",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

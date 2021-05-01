@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "New Commons"
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

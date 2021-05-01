@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Reforge"
+        "Free Ticket",
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

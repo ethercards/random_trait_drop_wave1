@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper",
-        "Synthesis Ritual"
+        "Reforge"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

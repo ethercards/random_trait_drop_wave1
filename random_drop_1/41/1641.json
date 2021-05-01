@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Unstable",
-        "New Commons"
+        "25% Discount"
     ],
     "trait_types": [
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

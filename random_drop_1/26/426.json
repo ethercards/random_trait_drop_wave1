@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Glittery"
+        "Extra Limited Trait Slot",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

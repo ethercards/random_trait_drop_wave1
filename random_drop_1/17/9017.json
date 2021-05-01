@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Lucky Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

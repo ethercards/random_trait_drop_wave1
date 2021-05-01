@@ -1,7 +1,9 @@
 {
     "traits": [
-        "New Commons"
+        "25% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "Free Ticket",
-        "Merch",
-        "New Commons"
+        "Reforge",
+        "Free Ticket"
     ],
     "trait_types": [
-        "discount",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge + ",
-        "Forge Protector",
-        "Selective Layer Reroll",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Synthesis Ritual",
         "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "OG"
 }

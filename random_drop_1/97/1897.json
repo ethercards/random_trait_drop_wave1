@@ -1,7 +1,6 @@
 {
     "traits": [
-        "25% Discount",
-        "Free Ticket"
+        "5% Discount"
     ],
     "trait_types": [
         "discount"

@@ -1,13 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "10% Discount",
-        "Merch"
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

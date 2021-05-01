@@ -1,14 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Disco Dropper",
-        "Merch"
+        "Unstable"
     ],
     "trait_types": [
         "reforge",
-        "dropper",
-        "redeem"
+        "experimental"
     ],
     "series": "OG"
 }

@@ -1,11 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Swap"
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount",
-        "swap"
+        "dropper"
     ],
     "series": "Alpha"
 }

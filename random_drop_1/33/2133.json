@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount",
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "5% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "discount"

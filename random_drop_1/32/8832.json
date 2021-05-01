@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper",
-        "Good Company"
+        "5% Discount",
+        "Selective Layer Reroll",
+        "Redeem",
+        "True Name"
     ],
     "trait_types": [
-        "dropper",
-        "drop"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

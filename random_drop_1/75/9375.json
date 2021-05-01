@@ -1,7 +1,11 @@
 {
     "traits": [
-        "True Name"
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

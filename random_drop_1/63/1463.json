@@ -1,10 +1,14 @@
 {
     "traits": [
+        "Reforge",
+        "Art Drop",
         "Disco Dropper",
-        "True Name"
+        "Swap"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "dropper",
+        "swap"
     ],
     "series": "Founder"
 }

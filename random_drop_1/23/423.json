@@ -1,11 +1,14 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Forge Protector"
+        "Forge Protector",
+        "Unstable",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "experimental",
+        "redeem"
     ],
     "series": "Alpha"
 }

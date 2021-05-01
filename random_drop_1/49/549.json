@@ -1,10 +1,17 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket"
+        "10% Discount",
+        "Free Ticket",
+        "Disco Dropper",
+        "Redeem",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "dropper",
+        "redeem"
     ],
     "series": "Alpha"
 }

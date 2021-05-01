@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Free Ticket",
-        "Lucky Reroll",
-        "New Commons"
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Reforge + ",
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

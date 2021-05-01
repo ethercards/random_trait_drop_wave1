@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Rando Dropper"
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

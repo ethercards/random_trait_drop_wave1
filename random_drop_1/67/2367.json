@@ -2,10 +2,8 @@
     "traits": [
         "Art Drop",
         "Forge Protector",
-        "50% Discount"
+        "True Name"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

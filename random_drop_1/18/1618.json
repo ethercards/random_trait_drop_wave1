@@ -1,13 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "10% Discount",
-        "Unstable"
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

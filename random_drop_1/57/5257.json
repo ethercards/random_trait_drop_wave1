@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

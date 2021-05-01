@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Free Ticket",
-        "Unstable"
+        "Reforge"
     ],
     "trait_types": [
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

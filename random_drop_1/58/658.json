@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "1 UP"
+        "Merch"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "redeem"
     ],
     "series": "Alpha"
 }

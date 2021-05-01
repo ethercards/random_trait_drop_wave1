@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Fluid"
+        "Reforge + ",
+        "25% Discount"
     ],
     "trait_types": [
-        "experimental"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

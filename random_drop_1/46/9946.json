@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Merch"
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

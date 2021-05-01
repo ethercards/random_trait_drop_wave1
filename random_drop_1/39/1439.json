@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper",
-        "New Commons"
+        "5% Discount",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Founder"

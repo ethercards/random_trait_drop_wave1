@@ -1,14 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
+        "Extra Limited Trait Slot",
         "5% Discount",
-        "Free Ticket",
-        "Lucky Reroll",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Synthesis Ritual",
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

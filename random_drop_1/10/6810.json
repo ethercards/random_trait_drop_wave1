@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Art Drop",
-        "Alpha Upgrade",
         "Forge Protector",
         "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

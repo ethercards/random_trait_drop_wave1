@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll",
-        "Unstable"
+        "Reforge + ",
+        "Forge Protector"
     ],
     "trait_types": [
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

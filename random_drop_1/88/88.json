@@ -1,14 +1,15 @@
 {
     "traits": [
-        "Reforge + ",
-        "Extra Limited Trait Slot",
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Free Ticket",
+        "Disco Dropper",
+        "Swap",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "dropper",
+        "swap",
+        "drop"
     ],
     "series": "OG"
 }

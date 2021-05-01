@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll",
-        "New Commons"
+        "Reforge",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

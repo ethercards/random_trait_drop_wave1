@@ -1,5 +1,15 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Lucky Reroll",
+        "Redeem",
+        "True Name"
+    ],
+    "trait_types": [
+        "reforge",
+        "redeem"
+    ],
     "series": "Founder"
 }

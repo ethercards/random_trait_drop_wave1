@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Redeem"
+        "Art Drop",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,10 +1,10 @@
 {
     "traits": [
         "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "True Name",
-        "New Commons"
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge"

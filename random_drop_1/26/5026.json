@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "New Commons"
+        "10% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Lucky Reroll",
-        "Gravity"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "discount",
+        "drop"
     ],
     "series": "Founder"
 }

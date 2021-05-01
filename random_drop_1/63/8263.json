@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
         "5% Discount",
-        "True Name",
-        "Synthesis Ritual"
+        "Free Ticket"
     ],
     "trait_types": [
         "discount"

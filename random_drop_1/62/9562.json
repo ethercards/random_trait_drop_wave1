@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unicorn",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

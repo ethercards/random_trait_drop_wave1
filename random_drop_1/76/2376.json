@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Lucky Reroll",
-        "Golden Goose"
+        "10% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

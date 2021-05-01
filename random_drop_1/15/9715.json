@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "Lucky Reroll",
-        "New Commons"
-    ],
-    "trait_types": [
-        "discount"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

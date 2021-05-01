@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Rando Dropper",
-        "Glittery"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

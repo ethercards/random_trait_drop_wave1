@@ -1,9 +1,14 @@
 {
     "traits": [
-        "5% Discount",
-        "True Name"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "discount"
     ],
     "series": "OG"

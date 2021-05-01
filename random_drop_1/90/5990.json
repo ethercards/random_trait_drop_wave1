@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Fluid"
+        "Art Drop",
+        "Lucky Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

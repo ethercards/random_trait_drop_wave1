@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "New Commons"
+        "Reforge",
+        "Free Ticket",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

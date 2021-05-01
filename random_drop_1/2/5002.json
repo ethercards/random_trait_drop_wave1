@@ -1,15 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Disco Dropper",
-        "Redeem",
-        "True Name",
-        "Synthesis Ritual"
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "dropper",
-        "redeem"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

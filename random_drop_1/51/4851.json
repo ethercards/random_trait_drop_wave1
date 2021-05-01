@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "5% Discount",
-        "New Commons",
-        "Glittery"
+        "Art Drop",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

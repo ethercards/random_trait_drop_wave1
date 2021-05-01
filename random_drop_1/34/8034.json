@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Unstable"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "5% Discount",
-        "1 UP"
+        "Unicorn",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "True Name",
+        "Glittery"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "OG"
 }

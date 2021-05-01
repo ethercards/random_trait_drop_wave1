@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Unstable"
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Free Ticket",
-        "Synthesis Ritual"
+        "Reforge",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper",
-        "1 UP"
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "dropper",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

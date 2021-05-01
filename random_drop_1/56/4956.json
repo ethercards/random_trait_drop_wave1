@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "Selective Layer Reroll",
-        "True Name"
+        "50% Discount",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "drop"
+    ],
     "series": "Founder"
 }

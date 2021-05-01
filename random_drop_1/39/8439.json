@@ -1,8 +1,11 @@
 {
     "traits": [
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "True Name"
+        "Swap"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Founder"
 }

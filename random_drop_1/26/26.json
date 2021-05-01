@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "New Commons"
+        "Forge Protector",
+        "5% Discount",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "OG"
 }

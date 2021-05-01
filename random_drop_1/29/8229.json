@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "5% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

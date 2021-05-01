@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "10% Discount",
-        "Selective Layer Reroll",
-        "New Commons"
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

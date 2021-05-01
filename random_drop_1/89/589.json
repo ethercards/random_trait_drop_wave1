@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Merch"
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "redeem"
+        "dropper"
     ],
     "series": "Alpha"
 }

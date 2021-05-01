@@ -1,12 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Unstable",
-        "Synthesis Ritual"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

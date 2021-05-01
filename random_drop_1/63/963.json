@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Art Drop",
         "Forge Protector",
-        "Selective Layer Reroll"
+        "Rando Dropper",
+        "Unstable",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Alpha"
 }

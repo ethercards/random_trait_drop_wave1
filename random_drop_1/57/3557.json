@@ -1,7 +1,9 @@
 {
     "traits": [
-        "True Name"
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

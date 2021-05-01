@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "New Commons",
-        "1 UP"
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

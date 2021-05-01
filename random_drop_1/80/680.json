@@ -1,15 +1,14 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Forge Protector",
+        "Rando Dropper",
+        "Fluid",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

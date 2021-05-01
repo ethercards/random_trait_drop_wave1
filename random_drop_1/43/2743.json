@@ -1,7 +1,6 @@
 {
     "traits": [
-        "5% Discount",
-        "Synthesis Ritual"
+        "5% Discount"
     ],
     "trait_types": [
         "discount"

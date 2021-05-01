@@ -1,13 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "25% Discount",
-        "Selective Layer Reroll",
-        "New Commons",
-        "Glittery"
-    ],
-    "trait_types": [
-        "discount"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "Gravity",
-        "New Commons"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

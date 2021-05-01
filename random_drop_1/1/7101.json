@@ -1,11 +1,8 @@
 {
     "traits": [
-        "10% Discount",
-        "Lucky Reroll",
-        "True Name"
+        "Unicorn",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

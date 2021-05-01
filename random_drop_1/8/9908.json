@@ -1,7 +1,6 @@
 {
     "traits": [
-        "10% Discount",
-        "Lucky Reroll"
+        "5% Discount"
     ],
     "trait_types": [
         "discount"

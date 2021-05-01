@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Merch",
-        "New Commons"
+        "5% Discount",
+        "Free Ticket",
+        "True Name"
     ],
     "trait_types": [
-        "redeem"
+        "discount"
     ],
     "series": "Founder"
 }

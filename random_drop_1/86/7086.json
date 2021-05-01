@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Golden Goose"
+        "Extra Limited Trait Slot",
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

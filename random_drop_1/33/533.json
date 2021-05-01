@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "New Commons"
+        "Reroll"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
+        "Art Drop",
         "Forge Protector",
-        "Merch",
-        "New Commons"
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "redeem"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "New Commons"
+        "10% Discount",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

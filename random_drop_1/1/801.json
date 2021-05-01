@@ -1,15 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
+        "Art Drop",
         "Forge Protector",
         "5% Discount",
         "Disco Dropper",
-        "Synthesis Ritual"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
         "discount",
         "dropper"
     ],

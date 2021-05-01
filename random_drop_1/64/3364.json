@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Unicorn",
         "Forge Protector",
-        "Golden Goose"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

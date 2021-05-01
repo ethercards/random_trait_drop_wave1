@@ -1,11 +1,12 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
+        "10% Discount",
         "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

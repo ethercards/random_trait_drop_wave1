@@ -1,7 +1,11 @@
 {
     "traits": [
-        "True Name"
+        "5% Discount",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

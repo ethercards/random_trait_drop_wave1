@@ -1,11 +1,11 @@
 {
     "traits": [
-        "10% Discount",
-        "Good Company"
+        "Reforge",
+        "10% Discount"
     ],
     "trait_types": [
-        "discount",
-        "drop"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

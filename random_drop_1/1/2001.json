@@ -1,13 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "Reforge",
-        "Lucky Reroll",
-        "Rando Dropper"
-    ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

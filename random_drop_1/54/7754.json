@@ -1,13 +1,10 @@
 {
     "traits": [
-        "5% Discount",
-        "Unstable",
-        "True Name",
-        "New Commons"
+        "Art Drop",
+        "5% Discount"
     ],
     "trait_types": [
-        "discount",
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

@@ -1,16 +1,13 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
+        "Reforge",
         "Free Ticket",
-        "Swap",
-        "Unstable",
-        "Synthesis Ritual",
+        "Rando Dropper",
         "1 UP"
     ],
     "trait_types": [
-        "swap",
-        "experimental",
+        "reforge",
+        "dropper",
         "drop"
     ],
     "series": "Alpha"

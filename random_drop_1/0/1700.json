@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Merch"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

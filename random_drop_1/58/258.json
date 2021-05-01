@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "Unstable",
-        "True Name"
+        "5% Discount",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "experimental"
+        "discount"
     ],
     "series": "Alpha"
 }

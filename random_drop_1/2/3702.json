@@ -1,11 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Lucky Reroll",
-        "True Name"
+        "10% Discount"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

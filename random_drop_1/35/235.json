@@ -1,15 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "Redeem"
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "redeem"
+        "dropper"
     ],
     "series": "Alpha"
 }

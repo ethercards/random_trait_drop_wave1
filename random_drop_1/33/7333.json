@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "New Commons"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "upgrade"
+        "dropper"
     ],
     "series": "Founder"
 }

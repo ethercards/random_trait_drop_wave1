@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Art Drop",
         "Extra Limited Trait Slot",
-        "10% Discount",
-        "Free Ticket"
+        "Good Company"
     ],
     "trait_types": [
-        "discount"
+        "drop"
     ],
     "series": "Alpha"
 }

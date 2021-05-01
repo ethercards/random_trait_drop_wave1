@@ -1,11 +1,7 @@
 {
     "traits": [
-        "5% Discount",
-        "Merch"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "discount",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

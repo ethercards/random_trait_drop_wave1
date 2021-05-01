@@ -1,11 +1,9 @@
 {
     "traits": [
+        "Art Drop",
         "Extra Limited Trait Slot",
-        "Forge Protector",
-        "10% Discount"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

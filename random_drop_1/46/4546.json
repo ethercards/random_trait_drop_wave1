@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
-        "New Commons",
-        "1 UP"
+        "Unicorn",
+        "Reforge",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

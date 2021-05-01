@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper"
+        "Reforge",
+        "25% Discount",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
+        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Unstable"
+        "Art Drop",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

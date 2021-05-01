@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Forge Protector",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

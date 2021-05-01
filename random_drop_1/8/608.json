@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Art Drop"
+        "Reforge",
+        "10% Discount",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

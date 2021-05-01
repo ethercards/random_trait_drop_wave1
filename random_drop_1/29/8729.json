@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "True Name",
+        "Golden Goose",
+        "Synthesis Ritual",
         "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

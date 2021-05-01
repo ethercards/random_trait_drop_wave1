@@ -1,13 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Disco Dropper",
+        "Forge Protector",
+        "10% Discount",
+        "Lucky Reroll",
         "True Name",
         "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

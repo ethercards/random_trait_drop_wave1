@@ -1,13 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
-        "Merch"
+        "50% Discount",
+        "Swap"
     ],
     "trait_types": [
         "reforge",
         "discount",
-        "redeem"
+        "swap"
     ],
     "series": "Founder"
 }

@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Gravity"
+        "Forge Protector",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
         "reforge",
+        "dropper",
         "experimental"
     ],
     "series": "Alpha"

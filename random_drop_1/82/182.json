@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Disco Dropper",
-        "True Name",
-        "Synthesis Ritual"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",

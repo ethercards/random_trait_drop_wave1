@@ -1,7 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Selective Layer Reroll"
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

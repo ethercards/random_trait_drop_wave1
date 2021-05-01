@@ -1,9 +1,17 @@
 {
     "traits": [
-        "1 UP"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Golden Goose",
+        "New Commons"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

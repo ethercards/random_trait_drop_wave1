@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Redeemable",
-        "Rando Dropper",
-        "True Name"
+        "Unicorn"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

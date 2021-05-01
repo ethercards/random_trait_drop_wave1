@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Art Drop",
         "Forge Protector",
-        "Lucky Reroll"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [],
     "series": "Founder"

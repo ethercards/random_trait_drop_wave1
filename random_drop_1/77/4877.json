@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Fluid"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

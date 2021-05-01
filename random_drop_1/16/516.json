@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Unstable",
-        "New Commons"
+        "Art Drop",
+        "25% Discount"
     ],
     "trait_types": [
-        "experimental"
+        "discount"
     ],
     "series": "Alpha"
 }

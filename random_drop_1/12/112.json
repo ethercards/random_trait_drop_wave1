@@ -1,9 +1,14 @@
 {
     "traits": [
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "New Commons"
+        "5% Discount",
+        "Free Ticket",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "Alpha"
 }

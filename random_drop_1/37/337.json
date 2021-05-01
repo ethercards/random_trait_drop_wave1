@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
         "discount",

@@ -1,12 +1,7 @@
 {
     "traits": [
-        "25% Discount",
-        "New Commons",
-        "1 UP"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "discount",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

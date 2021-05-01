@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Reforge",
+        "10% Discount",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "drop"
+    ],
     "series": "Alpha"
 }

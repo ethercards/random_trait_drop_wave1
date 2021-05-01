@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Free Ticket",
-        "Disco Dropper",
-        "New Commons"
-    ],
-    "trait_types": [
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

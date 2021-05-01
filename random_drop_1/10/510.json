@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "True Name",
-        "1 UP"
+        "Reforge",
+        "25% Discount"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

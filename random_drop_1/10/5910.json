@@ -1,12 +1,10 @@
 {
     "traits": [
         "Disco Dropper",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper",
-        "drop"
+        "dropper"
     ],
     "series": "Founder"
 }

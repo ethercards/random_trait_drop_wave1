@@ -1,9 +1,15 @@
 {
     "traits": [
-        "5% Discount"
+        "Reforge",
+        "5% Discount",
+        "Free Ticket",
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "redeem"
     ],
     "series": "Alpha"
 }

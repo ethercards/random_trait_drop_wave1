@@ -1,11 +1,15 @@
 {
     "traits": [
         "Reforge",
-        "True Name",
-        "Synthesis Ritual"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "25% Discount",
+        "Free Ticket",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

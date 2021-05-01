@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Extra Limited Trait Slot",
-        "Selective Layer Reroll"
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

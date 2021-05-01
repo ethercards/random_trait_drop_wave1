@@ -1,12 +1,16 @@
 {
     "traits": [
-        "Reforge",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Free Ticket",
+        "Rando Dropper",
         "Selective Layer Reroll",
-        "Swap"
+        "True Name",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge",
-        "swap"
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "True Name",
-        "1 UP"
+        "Lucky Reroll",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

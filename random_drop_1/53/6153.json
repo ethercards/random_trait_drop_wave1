@@ -1,11 +1,11 @@
 {
     "traits": [
-        "50% Discount",
-        "1 UP"
+        "Forge Protector",
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount",
-        "drop"
+        "dropper"
     ],
     "series": "Founder"
 }

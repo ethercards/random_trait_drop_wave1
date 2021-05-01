@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Free Ticket",
+        "Lucky Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

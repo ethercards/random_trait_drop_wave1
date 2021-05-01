@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "25% Discount",
-        "Synthesis Ritual"
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "discount"
+        "upgrade"
     ],
     "series": "Founder"
 }

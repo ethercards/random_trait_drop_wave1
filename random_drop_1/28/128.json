@@ -1,9 +1,16 @@
 {
     "traits": [
-        "10% Discount"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

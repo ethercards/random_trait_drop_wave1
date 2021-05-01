@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Unicorn",
+        "Reforge",
+        "Free Ticket",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Founder"
 }

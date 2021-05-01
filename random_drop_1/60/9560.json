@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Golden Goose",
-        "True Name"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

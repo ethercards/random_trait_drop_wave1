@@ -1,12 +1,16 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
         "Forge Protector",
-        "10% Discount"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Unstable",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -2,10 +2,12 @@
     "traits": [
         "Reforge",
         "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Selective Layer Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "redeem"
     ],
     "series": "Founder"
 }

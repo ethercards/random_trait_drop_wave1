@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector",
-        "Rando Dropper",
-        "True Name",
-        "New Commons"
+        "Reforge + ",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
         "reforge",

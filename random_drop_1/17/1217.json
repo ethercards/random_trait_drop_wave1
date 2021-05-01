@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "5% Discount",
-        "Free Ticket"
+        "Reforge",
+        "Art Drop",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "upgrade",
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

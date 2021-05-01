@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "10% Discount",
-        "New Commons"
+        "Forge Protector",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

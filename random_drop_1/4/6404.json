@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
+        "OG Upgrade",
         "Forge Protector"
     ],
     "trait_types": [
-        "reforge"
+        "upgrade"
     ],
     "series": "Founder"
 }

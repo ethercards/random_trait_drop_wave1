@@ -1,12 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "10% Discount",
+        "Good Company"
     ],
     "trait_types": [
         "discount",
-        "dropper"
+        "drop"
     ],
     "series": "Alpha"
 }

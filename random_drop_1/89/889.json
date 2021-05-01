@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "25% Discount",
-        "True Name"
+        "Reforge",
+        "Art Drop",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "experimental"
     ],
     "series": "Alpha"
 }

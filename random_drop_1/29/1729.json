@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Gravity"
+        "Forge Protector",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

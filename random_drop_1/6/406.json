@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll"
+        "Extra Limited Trait Slot",
+        "25% Discount",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Alpha"
 }

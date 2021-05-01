@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Unstable"
+        "Reforge",
+        "Forge Protector",
+        "Swap",
+        "New Commons"
     ],
     "trait_types": [
-        "experimental"
+        "reforge",
+        "swap"
     ],
     "series": "Alpha"
 }

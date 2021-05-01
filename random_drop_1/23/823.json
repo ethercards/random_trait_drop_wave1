@@ -1,13 +1,14 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge",
+        "Art Drop",
         "Forge Protector",
-        "Disco Dropper",
-        "Selective Layer Reroll",
+        "25% Discount",
         "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

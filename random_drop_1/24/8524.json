@@ -1,10 +1,15 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "upgrade",
+        "dropper",
+        "drop"
     ],
     "series": "Founder"
 }

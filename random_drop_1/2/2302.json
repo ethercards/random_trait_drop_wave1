@@ -1,12 +1,8 @@
 {
     "traits": [
-        "10% Discount",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Forge Protector",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

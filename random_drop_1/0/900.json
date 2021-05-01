@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "5% Discount",
-        "Free Ticket"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "True Name",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

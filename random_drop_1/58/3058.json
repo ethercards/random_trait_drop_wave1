@@ -1,8 +1,13 @@
 {
     "traits": [
-        "True Name",
-        "New Commons"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

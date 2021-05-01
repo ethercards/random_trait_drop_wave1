@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "5% Discount",
-        "True Name"
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge",
         "discount"
     ],
     "series": "Alpha"

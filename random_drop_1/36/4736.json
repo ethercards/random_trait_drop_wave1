@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Gravity"
+        "Unicorn",
+        "Art Drop"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

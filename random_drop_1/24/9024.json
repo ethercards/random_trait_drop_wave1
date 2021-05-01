@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Redeem",
-        "1 UP"
+        "Forge Protector",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "redeem",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,15 +1,13 @@
 {
     "traits": [
-        "Reforge",
+        "Art Drop",
         "10% Discount",
-        "Selective Layer Reroll",
-        "Unstable",
-        "True Name"
+        "True Name",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge",
         "discount",
-        "experimental"
+        "drop"
     ],
     "series": "OG"
 }

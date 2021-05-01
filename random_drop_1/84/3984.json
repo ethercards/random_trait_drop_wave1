@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "Alpha Upgrade",
-        "True Name"
-    ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

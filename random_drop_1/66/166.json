@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Redeemable",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "True Name",
-        "1 UP"
+        "Reforge",
+        "10% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

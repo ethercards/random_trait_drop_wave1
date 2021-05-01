@@ -1,11 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Unstable"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Golden Goose"
     ],
     "trait_types": [
-        "discount",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

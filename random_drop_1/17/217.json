@@ -1,11 +1,11 @@
 {
     "traits": [
         "Unicorn",
-        "Reforge",
-        "Forge Protector"
+        "Free Ticket",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Alpha"
 }

@@ -1,14 +1,15 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
+        "Reforge",
+        "Art Drop",
         "Disco Dropper",
-        "Good Company"
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "discount",
+        "reforge",
         "dropper",
-        "drop"
+        "experimental"
     ],
     "series": "Alpha"
 }

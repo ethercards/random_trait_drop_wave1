@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "Redeem"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "10% Discount"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

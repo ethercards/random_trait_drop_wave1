@@ -1,10 +1,11 @@
 {
     "traits": [
+        "Unicorn",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "5% Discount"
+        "Free Ticket",
+        "True Name"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

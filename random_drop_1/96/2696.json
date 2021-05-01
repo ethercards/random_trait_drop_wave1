@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge"

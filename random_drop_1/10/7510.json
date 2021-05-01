@@ -1,11 +1,11 @@
 {
     "traits": [
-        "25% Discount",
-        "Rando Dropper"
+        "Reforge",
+        "50% Discount"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

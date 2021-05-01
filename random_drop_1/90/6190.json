@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "New Commons"
+        "Art Drop",
+        "True Name"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

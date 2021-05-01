@@ -1,13 +1,5 @@
 {
-    "traits": [
-        "Reforge + ",
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Synthesis Ritual"
-    ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

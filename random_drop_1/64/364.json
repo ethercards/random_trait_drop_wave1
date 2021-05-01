@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Selective Layer Reroll"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "New Commons"
     ],
     "trait_types": [],
     "series": "Alpha"

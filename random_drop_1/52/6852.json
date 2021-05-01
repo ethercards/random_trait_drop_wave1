@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Disco Dropper",
-        "True Name"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

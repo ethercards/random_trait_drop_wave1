@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "Unstable"
+        "10% Discount",
+        "Rando Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "experimental"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

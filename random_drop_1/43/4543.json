@@ -1,9 +1,9 @@
 {
     "traits": [
-        "50% Discount"
+        "Reforge"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Reroll"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Unstable",
-        "Synthesis Ritual"
+        "5% Discount",
+        "Free Ticket",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
+        "discount",
         "experimental"
     ],
     "series": "Founder"

@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Free Ticket"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Redeem"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

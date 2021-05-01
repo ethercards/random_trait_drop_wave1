@@ -1,13 +1,10 @@
 {
     "traits": [
-        "25% Discount",
-        "Free Ticket",
-        "Redeem",
-        "True Name"
+        "Extra Limited Trait Slot",
+        "5% Discount"
     ],
     "trait_types": [
-        "discount",
-        "redeem"
+        "discount"
     ],
     "series": "Alpha"
 }

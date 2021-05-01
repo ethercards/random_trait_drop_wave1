@@ -3,11 +3,12 @@
         "Unicorn",
         "Reforge",
         "Free Ticket",
-        "Rando Dropper"
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

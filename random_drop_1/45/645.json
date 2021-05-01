@@ -1,15 +1,10 @@
 {
     "traits": [
-        "Reforge + ",
-        "5% Discount",
-        "Selective Layer Reroll",
-        "New Commons",
-        "1 UP"
+        "Reforge",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Unstable",
-        "New Commons"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

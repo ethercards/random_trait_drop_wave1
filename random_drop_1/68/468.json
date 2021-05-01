@@ -1,8 +1,15 @@
 {
     "traits": [
+        "Reforge",
+        "Forge Protector",
+        "5% Discount",
         "Free Ticket",
-        "Selective Layer Reroll"
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

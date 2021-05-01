@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Alpha Upgrade",
+        "Forge Protector",
+        "Free Ticket"
     ],
     "trait_types": [
-        "dropper"
+        "upgrade"
     ],
     "series": "Founder"
 }

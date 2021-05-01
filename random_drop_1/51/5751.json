@@ -1,11 +1,11 @@
 {
     "traits": [
+        "Unicorn",
         "Forge Protector",
-        "10% Discount",
-        "Synthesis Ritual"
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

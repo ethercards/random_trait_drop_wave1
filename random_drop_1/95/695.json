@@ -1,11 +1,15 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "10% Discount"
+        "Reforge",
+        "Free Ticket",
+        "Disco Dropper",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper",
+        "redeem"
     ],
     "series": "Alpha"
 }

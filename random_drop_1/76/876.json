@@ -1,11 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "True Name",
-        "New Commons"
+        "Forge Protector",
+        "Free Ticket",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "drop"
     ],
     "series": "Alpha"
 }

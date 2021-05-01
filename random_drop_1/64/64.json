@@ -1,8 +1,15 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "True Name"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "OG"
 }

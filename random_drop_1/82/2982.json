@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Redeem",
-        "True Name"
-    ],
-    "trait_types": [
-        "redeem"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

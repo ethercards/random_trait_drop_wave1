@@ -1,11 +1,7 @@
 {
     "traits": [
-        "10% Discount",
-        "Unstable"
+        "Unicorn"
     ],
-    "trait_types": [
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

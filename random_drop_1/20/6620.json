@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Lucky Reroll",
+        "Disco Dropper",
+        "True Name",
+        "New Commons"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

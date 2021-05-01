@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Redeemable",
+        "Extra Limited Trait Slot",
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

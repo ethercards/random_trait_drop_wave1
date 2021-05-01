@@ -1,17 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
         "Disco Dropper",
-        "Swap",
-        "True Name",
-        "New Commons"
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount",
         "dropper",
-        "swap"
+        "drop"
     ],
     "series": "Alpha"
 }

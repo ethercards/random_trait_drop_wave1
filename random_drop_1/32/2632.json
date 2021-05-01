@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Art Drop",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Selective Layer Reroll",
-        "Merch"
+        "5% Discount"
     ],
     "trait_types": [
-        "redeem"
+        "discount"
     ],
     "series": "Founder"
 }

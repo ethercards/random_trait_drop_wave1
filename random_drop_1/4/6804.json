@@ -1,8 +1,6 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "True Name"
+        "50% Discount"
     ],
     "trait_types": [
         "discount"

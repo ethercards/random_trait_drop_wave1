@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Fluid"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Reforge"
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Founder"
 }

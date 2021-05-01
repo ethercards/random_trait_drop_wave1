@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Merch"
+        "Unstable"
     ],
     "trait_types": [
-        "redeem"
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -1,16 +1,12 @@
 {
     "traits": [
         "Reforge",
+        "Art Drop",
         "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "True Name",
-        "New Commons",
-        "Good Company"
+        "Forge Protector"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

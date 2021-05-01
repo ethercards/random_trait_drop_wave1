@@ -1,12 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "1 UP"
+        "Fluid"
     ],
     "trait_types": [
         "reforge",
-        "drop"
+        "experimental"
     ],
     "series": "Alpha"
 }

@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Unicorn",
+        "Disco Dropper",
+        "Good Company"
     ],
     "trait_types": [
-        "dropper"
+        "dropper",
+        "drop"
     ],
     "series": "Founder"
 }

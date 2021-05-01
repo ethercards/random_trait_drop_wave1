@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Free Ticket",
-        "True Name",
-        "1 UP"
+        "Reforge",
+        "Forge Protector",
+        "10% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

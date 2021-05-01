@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Rando Dropper",
+        "Reforge",
         "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

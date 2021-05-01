@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Merch"
+        "Reforge + ",
+        "Rando Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

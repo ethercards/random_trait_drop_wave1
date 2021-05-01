@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "Free Ticket"
+        "5% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "discount"

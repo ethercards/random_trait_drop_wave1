@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "Unstable"
+        "New Commons"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

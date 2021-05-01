@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Disco Dropper",
+        "Redeem",
+        "New Commons"
+    ],
+    "trait_types": [
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

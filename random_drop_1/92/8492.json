@@ -1,10 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "New Commons"
+        "Forge Protector",
+        "True Name",
+        "Gravity"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

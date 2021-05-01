@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Selective Layer Reroll"
+        "5% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

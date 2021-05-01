@@ -1,11 +1,14 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Fluid",
-        "Selective Layer Reroll"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "5% Discount",
+        "Gravity"
     ],
     "trait_types": [
-        "dropper",
+        "reforge",
+        "discount",
         "experimental"
     ],
     "series": "Founder"

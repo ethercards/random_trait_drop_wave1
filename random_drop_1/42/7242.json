@@ -1,7 +1,10 @@
 {
     "traits": [
-        "True Name"
+        "Free Ticket",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Forge Protector"
+        "Redeem",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

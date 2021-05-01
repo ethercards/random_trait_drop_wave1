@@ -1,13 +1,10 @@
 {
     "traits": [
         "Forge Protector",
-        "Rando Dropper",
-        "New Commons",
-        "1 UP"
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper",
-        "drop"
+        "discount"
     ],
     "series": "Alpha"
 }

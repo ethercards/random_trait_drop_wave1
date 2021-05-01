@@ -1,12 +1,8 @@
 {
     "traits": [
-        "25% Discount",
-        "True Name",
-        "Gravity"
+        "Art Drop",
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

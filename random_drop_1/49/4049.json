@@ -1,13 +1,13 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket",
-        "Swap"
+        "Reforge",
+        "Art Drop",
+        "50% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount",
-        "swap"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

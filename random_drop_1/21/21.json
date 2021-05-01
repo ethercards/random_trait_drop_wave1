@@ -1,8 +1,15 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Reroll"
+        "Unicorn",
+        "Reforge",
+        "Free Ticket",
+        "True Name",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "redeem"
+    ],
     "series": "OG"
 }

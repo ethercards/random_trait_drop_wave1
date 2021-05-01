@@ -1,11 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
+        "25% Discount",
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name",
         "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "OG"
 }

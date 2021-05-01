@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "5% Discount",
-        "Synthesis Ritual",
-        "New Commons"
+        "Art Drop",
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

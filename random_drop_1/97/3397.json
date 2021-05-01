@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Merch"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Alpha Upgrade",
-        "Unstable"
-    ],
-    "trait_types": [
-        "upgrade",
-        "experimental"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

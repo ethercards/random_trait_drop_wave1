@@ -1,10 +1,9 @@
 {
     "traits": [
-        "New Commons",
-        "1 UP"
+        "Rando Dropper"
     ],
     "trait_types": [
-        "drop"
+        "dropper"
     ],
     "series": "Founder"
 }

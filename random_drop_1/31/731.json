@@ -1,11 +1,17 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Rando Dropper",
+        "True Name",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "discount",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

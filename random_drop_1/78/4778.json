@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Lucky Reroll",
-        "Unstable"
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

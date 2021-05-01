@@ -1,12 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Disco Dropper",
-        "New Commons"
+        "Free Ticket",
+        "Swap",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "swap"
     ],
     "series": "Founder"
 }

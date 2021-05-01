@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Merch"
+        "Art Drop",
+        "Disco Dropper",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

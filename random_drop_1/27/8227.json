@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "New Commons"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

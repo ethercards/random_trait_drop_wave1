@@ -1,10 +1,14 @@
 {
     "traits": [
-        "5% Discount",
+        "Reforge",
+        "Free Ticket",
+        "Lucky Reroll",
+        "Rando Dropper",
         "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

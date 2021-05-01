@@ -1,14 +1,12 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
         "Forge Protector",
-        "Unstable",
-        "True Name",
-        "New Commons"
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

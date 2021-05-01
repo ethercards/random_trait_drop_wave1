@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper",
-        "Merch",
-        "New Commons"
+        "Reforge",
+        "Swap"
     ],
     "trait_types": [
-        "dropper",
-        "redeem"
+        "reforge",
+        "swap"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Unicorn"
+        "Synthesis Ritual",
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

@@ -1,15 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Disco Dropper",
-        "True Name"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

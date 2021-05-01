@@ -1,14 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper",
-        "Unstable",
-        "Good Company"
+        "Reforge + "
     ],
     "trait_types": [
-        "dropper",
-        "experimental",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

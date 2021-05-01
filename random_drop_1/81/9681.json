@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket",
-        "Lucky Reroll"
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

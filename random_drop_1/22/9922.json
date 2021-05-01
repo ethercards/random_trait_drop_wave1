@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "Glittery"
+        "Golden Goose"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

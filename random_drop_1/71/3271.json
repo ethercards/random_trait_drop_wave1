@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Disco Dropper",
-        "True Name"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
+        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "Founder"

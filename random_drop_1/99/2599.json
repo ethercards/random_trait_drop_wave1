@@ -1,8 +1,11 @@
 {
     "traits": [
+        "Reforge",
         "Forge Protector",
-        "Selective Layer Reroll"
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

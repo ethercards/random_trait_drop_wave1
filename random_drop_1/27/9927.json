@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Art Drop",
+        "Forge Protector",
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

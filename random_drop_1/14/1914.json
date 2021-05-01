@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Gravity"
+        "Forge Protector",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

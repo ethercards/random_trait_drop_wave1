@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "Lucky Reroll",
-        "Rando Dropper",
-        "Merch"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "dropper",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

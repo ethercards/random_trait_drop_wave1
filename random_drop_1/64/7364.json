@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "True Name",
-        "Synthesis Ritual",
-        "New Commons"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

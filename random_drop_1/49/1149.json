@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Unicorn",
+        "Free Ticket",
+        "Disco Dropper",
         "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

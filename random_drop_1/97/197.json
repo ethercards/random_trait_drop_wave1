@@ -1,13 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Free Ticket",
-        "Disco Dropper",
-        "True Name"
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

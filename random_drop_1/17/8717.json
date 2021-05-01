@@ -1,9 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
         "5% Discount",
-        "Selective Layer Reroll"
+        "Free Ticket",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

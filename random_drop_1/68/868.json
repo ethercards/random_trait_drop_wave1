@@ -1,8 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "25% Discount",
-        "Synthesis Ritual"
+        "5% Discount",
+        "Free Ticket",
+        "True Name"
     ],
     "trait_types": [
         "reforge",

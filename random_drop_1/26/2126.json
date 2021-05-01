@@ -1,14 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "10% Discount",
-        "Lucky Reroll",
-        "Merch"
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

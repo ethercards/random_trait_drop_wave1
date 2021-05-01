@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Reforge"
+        "Unicorn",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Founder"
 }

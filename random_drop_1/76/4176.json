@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Rando Dropper"
+        "5% Discount",
+        "Golden Goose",
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

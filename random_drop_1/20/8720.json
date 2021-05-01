@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper",
-        "Fluid"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "25% Discount",
+        "Selective Layer Reroll"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

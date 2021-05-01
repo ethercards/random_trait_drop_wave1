@@ -1,10 +1,15 @@
 {
     "traits": [
+        "Reforge",
+        "Art Drop",
         "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "5% Discount",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "OG"
 }

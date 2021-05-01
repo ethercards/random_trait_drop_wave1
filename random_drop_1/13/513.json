@@ -1,14 +1,12 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "New Commons",
-        "Glittery",
-        "1 UP"
+        "Forge Protector",
+        "Merch"
     ],
     "trait_types": [
         "reforge",
-        "drop"
+        "redeem"
     ],
     "series": "Alpha"
 }

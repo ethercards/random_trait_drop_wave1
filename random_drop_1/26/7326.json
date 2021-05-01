@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "New Commons",
-        "1 UP"
+        "Lucky Reroll",
+        "Fluid"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "experimental"
     ],
     "series": "Founder"
 }

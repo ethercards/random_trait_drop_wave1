@@ -1,15 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
         "Forge Protector",
-        "10% Discount",
-        "Redeem",
-        "New Commons"
+        "10% Discount"
     ],
     "trait_types": [
-        "discount",
-        "redeem"
+        "discount"
     ],
     "series": "Alpha"
 }

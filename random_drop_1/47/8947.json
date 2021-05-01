@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Good Company"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "discount"
     ],
     "series": "Founder"
 }

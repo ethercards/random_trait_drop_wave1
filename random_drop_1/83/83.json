@@ -1,21 +1,16 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "5% Discount",
         "Free Ticket",
-        "Fluid",
-        "Selective Layer Reroll",
+        "Disco Dropper",
         "True Name",
-        "Synthesis Ritual",
-        "New Commons",
-        "Glittery"
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "discount",
-        "experimental"
+        "dropper"
     ],
     "series": "OG"
 }

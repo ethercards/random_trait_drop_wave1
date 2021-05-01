@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Unstable"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector"
     ],
     "trait_types": [
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

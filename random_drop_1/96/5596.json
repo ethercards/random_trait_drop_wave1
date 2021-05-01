@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "Lucky Reroll"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

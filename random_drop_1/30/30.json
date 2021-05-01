@@ -1,13 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
         "Extra Limited Trait Slot",
-        "True Name",
-        "New Commons"
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "OG"
 }

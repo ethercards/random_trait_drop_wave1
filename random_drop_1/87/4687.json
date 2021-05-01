@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Swap",
-        "True Name"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "swap"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

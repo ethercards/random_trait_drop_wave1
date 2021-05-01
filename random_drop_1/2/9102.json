@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Reforge",
+        "Free Ticket"
     ],
     "trait_types": [
-        "upgrade"
+        "reforge"
     ],
     "series": "Founder"
 }

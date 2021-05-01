@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Rando Dropper",
-        "New Commons"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

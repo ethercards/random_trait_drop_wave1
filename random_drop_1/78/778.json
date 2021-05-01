@@ -2,10 +2,13 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Selective Layer Reroll"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Swap"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "swap"
     ],
     "series": "Alpha"
 }

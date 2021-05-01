@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Selective Layer Reroll"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "New Commons"
+        "Reforge",
+        "5% Discount",
+        "True Name",
+        "New Commons",
+        "Glittery"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

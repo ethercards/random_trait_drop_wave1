@@ -1,12 +1,13 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "True Name",
-        "Synthesis Ritual",
-        "1 UP"
+        "5% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

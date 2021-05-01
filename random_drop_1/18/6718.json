@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "New Commons"
+        "Unicorn",
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Redeem",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

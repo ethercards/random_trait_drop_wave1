@@ -1,11 +1,12 @@
 {
     "traits": [
-        "25% Discount",
-        "Free Ticket",
-        "Selective Layer Reroll"
+        "Reforge",
+        "Art Drop",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

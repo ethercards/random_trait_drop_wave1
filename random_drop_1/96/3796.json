@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "New Commons"
+        "Unicorn",
+        "Forge Protector",
+        "25% Discount",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "redeem"
+    ],
     "series": "Founder"
 }

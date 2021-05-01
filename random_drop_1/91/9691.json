@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "True Name"
+        "10% Discount",
+        "Glittery"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

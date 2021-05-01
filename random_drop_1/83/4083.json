@@ -1,6 +1,9 @@
 {
     "traits": [
-        "5% Discount"
+        "Art Drop",
+        "5% Discount",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

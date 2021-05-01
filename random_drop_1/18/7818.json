@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Unstable"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "dropper",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

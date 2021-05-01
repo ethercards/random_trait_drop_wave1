@@ -1,12 +1,11 @@
 {
     "traits": [
         "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "Unstable"
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

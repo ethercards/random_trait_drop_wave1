@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Free Ticket",
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

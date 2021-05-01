@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "10% Discount",
-        "Synthesis Ritual"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

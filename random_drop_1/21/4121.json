@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
         "Alpha Upgrade",
-        "Forge Protector"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
         "upgrade"
     ],
     "series": "Founder"

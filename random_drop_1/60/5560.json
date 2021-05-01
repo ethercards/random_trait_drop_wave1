@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "New Commons"
+        "Reforge",
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

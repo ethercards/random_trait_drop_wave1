@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "10% Discount",
-        "New Commons"
+        "5% Discount"
     ],
     "trait_types": [
-        "upgrade",
         "discount"
     ],
     "series": "Founder"

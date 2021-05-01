@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "1 UP"
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

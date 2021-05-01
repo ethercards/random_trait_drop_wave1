@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Art Drop",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

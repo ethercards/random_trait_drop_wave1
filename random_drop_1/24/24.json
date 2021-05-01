@@ -1,16 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector",
+        "Art Drop",
         "Free Ticket",
-        "Selective Layer Reroll",
-        "Unstable",
+        "Disco Dropper",
         "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "dropper"
     ],
     "series": "OG"
 }

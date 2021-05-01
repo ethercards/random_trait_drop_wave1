@@ -1,14 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "10% Discount",
-        "True Name",
-        "New Commons"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

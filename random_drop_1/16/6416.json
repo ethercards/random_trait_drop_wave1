@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unicorn",
+        "Reforge",
+        "Forge Protector"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

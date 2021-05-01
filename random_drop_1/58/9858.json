@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "True Name"
+        "Reforge",
+        "Forge Protector",
+        "Disco Dropper",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

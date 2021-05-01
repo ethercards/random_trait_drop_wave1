@@ -1,10 +1,7 @@
 {
     "traits": [
-        "True Name",
-        "Merch"
+        "Art Drop"
     ],
-    "trait_types": [
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Free Ticket",
-        "Merch",
+        "Reforge",
+        "Disco Dropper",
         "New Commons"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "dropper"
     ],
     "series": "Alpha"
 }

@@ -1,12 +1,17 @@
 {
     "traits": [
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "50% Discount",
         "Free Ticket",
-        "Golden Goose",
-        "Unstable"
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "dropper",
-        "experimental"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

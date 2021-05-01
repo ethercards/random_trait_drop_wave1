@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "1 UP"
+        "Extra Limited Trait Slot",
+        "10% Discount"
     ],
     "trait_types": [
-        "drop"
+        "discount"
     ],
     "series": "Founder"
 }

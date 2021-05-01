@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

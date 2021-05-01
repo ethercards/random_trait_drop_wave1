@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Merch"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

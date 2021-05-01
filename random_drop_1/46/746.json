@@ -1,13 +1,16 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Free Ticket",
-        "Disco Dropper"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Unstable",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount",
+        "experimental",
+        "drop"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Warp Rabbit"
+        "Art Drop",
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "dropper"
     ],
     "series": "Founder"
 }

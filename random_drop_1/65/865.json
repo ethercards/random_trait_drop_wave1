@@ -1,16 +1,11 @@
 {
     "traits": [
-        "Reforge",
         "Art Drop",
-        "25% Discount",
-        "Disco Dropper",
-        "True Name",
-        "New Commons"
+        "Fluid",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

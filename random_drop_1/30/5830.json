@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Unstable",
-        "New Commons"
+        "Art Drop",
+        "Forge Protector",
+        "10% Discount"
     ],
     "trait_types": [
-        "experimental"
+        "discount"
     ],
     "series": "Founder"
 }

@@ -1,12 +1,9 @@
 {
     "traits": [
+        "Unicorn",
         "Art Drop",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

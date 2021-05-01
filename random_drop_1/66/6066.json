@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Forge Protector",
+        "Synthesis Ritual",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

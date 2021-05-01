@@ -1,15 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "50% Discount",
         "Free Ticket",
-        "Unstable",
-        "True Name"
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

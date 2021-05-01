@@ -1,10 +1,10 @@
 {
     "traits": [
-        "5% Discount",
-        "Lucky Reroll"
+        "Extra Limited Trait Slot",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

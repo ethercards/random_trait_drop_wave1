@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Unstable",
-        "True Name"
-    ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

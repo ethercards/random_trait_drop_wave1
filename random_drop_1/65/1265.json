@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Rando Dropper"
+        "Reforge",
+        "Art Drop",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

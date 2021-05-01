@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "Synthesis Ritual",
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper",
         "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Alpha"

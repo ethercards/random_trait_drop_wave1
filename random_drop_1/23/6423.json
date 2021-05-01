@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Disco Dropper",
-        "New Commons"
+        "1 UP"
     ],
     "trait_types": [
-        "upgrade",
-        "dropper"
+        "drop"
     ],
     "series": "Founder"
 }

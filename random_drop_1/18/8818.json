@@ -1,15 +1,10 @@
 {
     "traits": [
-        "Reforge",
         "Forge Protector",
-        "10% Discount",
-        "Disco Dropper",
-        "Synthesis Ritual"
+        "5% Discount"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

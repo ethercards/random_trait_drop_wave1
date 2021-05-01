@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "25% Discount",
-        "Synthesis Ritual"
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

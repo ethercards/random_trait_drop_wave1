@@ -1,11 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Unstable"
+        "Reforge",
+        "5% Discount"
     ],
     "trait_types": [
-        "discount",
-        "experimental"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

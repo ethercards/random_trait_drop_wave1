@@ -1,14 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Unstable",
-        "True Name",
-        "New Commons"
+        "Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

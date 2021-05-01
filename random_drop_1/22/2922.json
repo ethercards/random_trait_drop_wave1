@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket",
-        "Disco Dropper",
-        "True Name"
+        "Extra Limited Trait Slot",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

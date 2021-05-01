@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Unstable"
+        "Forge Protector",
+        "5% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge",
-        "experimental"
+        "discount"
     ],
     "series": "OG"
 }

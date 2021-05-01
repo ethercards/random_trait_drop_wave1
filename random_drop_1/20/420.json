@@ -1,16 +1,14 @@
 {
     "traits": [
+        "Unicorn",
+        "Reforge",
         "Art Drop",
-        "OG Upgrade",
-        "Free Ticket",
-        "Disco Dropper",
-        "Merch",
-        "New Commons"
+        "Forge Protector",
+        "50% Discount"
     ],
     "trait_types": [
-        "upgrade",
-        "dropper",
-        "redeem"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Reforge + ",
+        "Art Drop",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "1 UP"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "experimental"
     ],
     "series": "Founder"
 }

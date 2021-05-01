@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll",
-        "Swap",
-        "Synthesis Ritual"
+        "True Name",
+        "New Commons",
+        "Glittery"
     ],
-    "trait_types": [
-        "reforge",
-        "swap"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

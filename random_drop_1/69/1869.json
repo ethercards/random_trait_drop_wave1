@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "True Name",
-        "Synthesis Ritual"
+        "Reforge + ",
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "redeem"
     ],
     "series": "Founder"
 }

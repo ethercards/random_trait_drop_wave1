@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper",
-        "New Commons"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Disco Dropper"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

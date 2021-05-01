@@ -1,11 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Unstable"
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

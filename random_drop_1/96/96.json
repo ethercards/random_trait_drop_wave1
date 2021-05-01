@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Reforge",
-        "Reroll"
+        "Unicorn",
+        "Forge Protector",
+        "25% Discount",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper"
     ],
     "series": "OG"
 }

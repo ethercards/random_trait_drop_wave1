@@ -1,16 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "25% Discount",
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Art Drop",
+        "Forge Protector"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "OG"
 }

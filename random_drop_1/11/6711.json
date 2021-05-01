@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "Golden Goose"
+        "Reforge",
+        "Art Drop",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

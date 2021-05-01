@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Rando Dropper",
-        "Unstable",
-        "New Commons"
+        "Alpha Upgrade",
+        "Forge Protector"
     ],
     "trait_types": [
-        "dropper",
-        "experimental"
+        "upgrade"
     ],
     "series": "Founder"
 }

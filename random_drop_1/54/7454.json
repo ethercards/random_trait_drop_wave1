@@ -1,7 +1,9 @@
 {
     "traits": [
-        "New Commons"
+        "Fluid"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

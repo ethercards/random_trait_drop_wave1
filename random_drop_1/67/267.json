@@ -1,13 +1,14 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Rando Dropper",
+        "Reforge",
+        "10% Discount",
+        "Unstable",
         "New Commons"
     ],
     "trait_types": [
+        "reforge",
         "discount",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

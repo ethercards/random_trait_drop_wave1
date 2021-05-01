@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Good Company"
+        "Reforge",
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "drop"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,14 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Forge Protector",
-        "Unstable",
-        "New Commons"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Alpha"
 }

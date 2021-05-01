@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Free Ticket",
-        "Lucky Reroll"
+        "Forge Protector",
+        "Disco Dropper",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

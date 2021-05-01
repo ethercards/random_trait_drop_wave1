@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll"
+        "Free Ticket",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

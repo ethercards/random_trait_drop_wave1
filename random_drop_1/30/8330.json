@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Lucky Reroll",
-        "Selective Layer Reroll"
-    ],
-    "trait_types": [
-        "reforge"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

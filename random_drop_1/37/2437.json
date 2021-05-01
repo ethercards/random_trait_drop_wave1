@@ -1,16 +1,10 @@
 {
     "traits": [
-        "Reforge",
         "Forge Protector",
-        "5% Discount",
-        "Merch",
-        "1 UP"
+        "Lucky Reroll",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "redeem",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

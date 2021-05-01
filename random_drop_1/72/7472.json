@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Unstable",
-        "Merch",
-        "New Commons"
+        "Reforge",
+        "True Name"
     ],
     "trait_types": [
-        "experimental",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

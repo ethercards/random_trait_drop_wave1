@@ -1,11 +1,10 @@
 {
     "traits": [
         "Forge Protector",
-        "Disco Dropper",
-        "True Name"
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

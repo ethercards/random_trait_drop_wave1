@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Selective Layer Reroll"
+        "Art Drop",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

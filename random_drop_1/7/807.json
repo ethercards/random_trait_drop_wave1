@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
+        "Unicorn",
         "Free Ticket",
-        "Disco Dropper",
-        "True Name"
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Alpha"
 }

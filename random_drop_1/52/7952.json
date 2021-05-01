@@ -1,7 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector"
+        "Forge Protector",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

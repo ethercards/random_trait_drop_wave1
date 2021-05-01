@@ -1,13 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper",
-        "True Name"
+        "Reforge",
+        "Art Drop",
+        "Rando Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount",
+        "reforge",
         "dropper"
     ],
     "series": "OG"

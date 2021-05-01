@@ -1,10 +1,15 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Disco Dropper",
+        "New Commons",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "drop"
     ],
     "series": "Founder"
 }

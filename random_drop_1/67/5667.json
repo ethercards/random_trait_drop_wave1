@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Reforge",
-        "Lucky Reroll"
+        "Reforge + ",
+        "Forge Protector",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

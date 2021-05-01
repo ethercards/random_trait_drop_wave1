@@ -1,15 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Art Drop",
-        "Forge Protector",
-        "Rando Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

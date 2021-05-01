@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Lucky Reroll",
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "5% Discount"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

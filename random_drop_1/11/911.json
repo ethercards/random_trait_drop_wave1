@@ -1,15 +1,14 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Free Ticket",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
         "Rando Dropper",
-        "1 UP"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge",
-        "dropper",
-        "drop"
+        "dropper"
     ],
     "series": "Alpha"
 }

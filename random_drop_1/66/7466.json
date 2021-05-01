@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Selective Layer Reroll"
+        "Unicorn",
+        "Reforge",
+        "Art Drop"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

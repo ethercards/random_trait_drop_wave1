@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Selective Layer Reroll",
-        "Synthesis Ritual"
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

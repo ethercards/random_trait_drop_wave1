@@ -1,14 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Rando Dropper",
-        "True Name",
-        "1 UP"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "dropper",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

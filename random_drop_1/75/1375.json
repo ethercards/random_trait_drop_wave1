@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Reforge",
         "Art Drop",
-        "Lucky Reroll",
-        "True Name"
+        "Forge Protector",
+        "10% Discount"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

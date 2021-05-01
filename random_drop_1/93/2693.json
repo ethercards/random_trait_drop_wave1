@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Good Company"
+        "10% Discount",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "drop"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

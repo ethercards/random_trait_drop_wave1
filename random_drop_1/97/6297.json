@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Reforge"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Founder"
 }

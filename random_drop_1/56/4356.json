@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "Rando Dropper",
-        "Unstable"
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "dropper",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

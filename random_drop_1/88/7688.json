@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Glittery"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

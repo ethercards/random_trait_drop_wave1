@@ -1,12 +1,15 @@
 {
     "traits": [
+        "Reforge + ",
+        "Extra Limited Trait Slot",
         "Free Ticket",
-        "Disco Dropper",
-        "Unstable"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
-        "dropper",
-        "experimental"
+        "reforge",
+        "dropper"
     ],
     "series": "Alpha"
 }

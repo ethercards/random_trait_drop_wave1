@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Lucky Reroll",
+        "Rando Dropper"
     ],
     "trait_types": [
         "dropper"

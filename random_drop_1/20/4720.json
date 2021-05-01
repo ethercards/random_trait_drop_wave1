@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "True Name"
+        "Unicorn"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

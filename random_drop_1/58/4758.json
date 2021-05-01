@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

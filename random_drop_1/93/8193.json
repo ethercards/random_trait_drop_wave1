@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Swap",
-        "New Commons",
-        "1 UP"
+        "Reforge + ",
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "swap",
-        "drop"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Unstable",
-        "1 UP"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "experimental",
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

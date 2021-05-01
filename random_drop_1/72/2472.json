@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Lucky Reroll",
-        "Disco Dropper",
-        "True Name"
+        "Fluid"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

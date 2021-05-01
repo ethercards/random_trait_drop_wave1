@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "Merch"
+        "Reforge",
+        "25% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "discount"
     ],
     "series": "Alpha"
 }

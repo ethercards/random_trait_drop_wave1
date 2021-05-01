@@ -1,8 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Rando Dropper",
-        "Synthesis Ritual"
+        "Art Drop",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

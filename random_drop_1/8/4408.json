@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "True Name",
-        "Glittery"
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

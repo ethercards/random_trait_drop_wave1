@@ -1,12 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket",
-        "Good Company"
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "drop"
+        "reforge"
     ],
     "series": "Alpha"
 }

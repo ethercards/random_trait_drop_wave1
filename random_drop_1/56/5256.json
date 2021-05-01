@@ -1,11 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "Disco Dropper"
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

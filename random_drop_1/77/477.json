@@ -1,16 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount",
+        "Forge Protector",
         "Disco Dropper",
-        "True Name",
-        "1 UP"
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge",
-        "discount",
-        "dropper",
-        "drop"
+        "dropper"
     ],
     "series": "Alpha"
 }

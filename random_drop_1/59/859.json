@@ -1,12 +1,8 @@
 {
     "traits": [
         "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "Forge Protector"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

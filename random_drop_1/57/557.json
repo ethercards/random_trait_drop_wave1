@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Unstable",
-        "New Commons"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

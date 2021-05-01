@@ -1,13 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Rando Dropper",
+        "Swap"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper",
+        "swap"
     ],
     "series": "Alpha"
 }

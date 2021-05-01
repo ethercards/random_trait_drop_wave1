@@ -1,7 +1,9 @@
 {
     "traits": [
+        "Forge Protector",
         "5% Discount",
-        "Disco Dropper"
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "discount",

@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Glittery"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

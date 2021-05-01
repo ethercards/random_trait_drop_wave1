@@ -1,12 +1,14 @@
 {
     "traits": [
         "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Disco Dropper"
+        "True Name",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "OG"
 }

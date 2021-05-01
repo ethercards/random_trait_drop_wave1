@@ -1,13 +1,13 @@
 {
     "traits": [
         "Reforge",
+        "Art Drop",
         "Forge Protector",
-        "Free Ticket",
-        "Merch"
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "redeem"
+        "reforge"
     ],
     "series": "Alpha"
 }

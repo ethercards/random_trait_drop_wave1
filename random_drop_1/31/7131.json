@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "25% Discount",
-        "Lucky Reroll"
+        "Reforge",
+        "Free Ticket",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

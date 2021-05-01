@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Synthesis Ritual"
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

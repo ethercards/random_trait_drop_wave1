@@ -2,14 +2,10 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "Unstable",
-        "New Commons"
+        "Free Ticket"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "OG"
 }

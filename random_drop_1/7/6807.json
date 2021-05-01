@@ -1,17 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge + ",
-        "Art Drop",
+        "Reforge",
         "Forge Protector",
-        "Disco Dropper",
-        "Synthesis Ritual",
-        "Merch"
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper",
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Free Ticket",
-        "Merch"
+        "Reforge + ",
+        "Lucky Reroll",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

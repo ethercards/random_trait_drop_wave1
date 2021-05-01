@@ -1,13 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Unstable",
-        "True Name"
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "experimental"
+        "dropper"
     ],
     "series": "Alpha"
 }

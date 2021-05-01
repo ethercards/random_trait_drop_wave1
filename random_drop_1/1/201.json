@@ -1,12 +1,7 @@
 {
     "traits": [
-        "25% Discount",
-        "Redeem",
-        "True Name"
+        "Art Drop"
     ],
-    "trait_types": [
-        "discount",
-        "redeem"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

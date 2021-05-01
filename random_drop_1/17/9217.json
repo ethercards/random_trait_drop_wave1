@@ -1,8 +1,6 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "True Name"
+        "Rando Dropper"
     ],
     "trait_types": [
         "dropper"

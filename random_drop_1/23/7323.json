@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "Good Company"
+        "Reforge",
+        "True Name"
     ],
     "trait_types": [
-        "discount",
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

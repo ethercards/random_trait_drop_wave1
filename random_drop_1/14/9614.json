@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Selective Layer Reroll",
-        "1 UP"
+        "Reforge",
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "drop"
+        "reforge"
     ],
     "series": "Founder"
 }

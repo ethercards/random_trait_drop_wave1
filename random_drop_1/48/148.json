@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Forge Protector"
+        "Reforge",
+        "Art Drop",
+        "Fluid",
+        "Selective Layer Reroll",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

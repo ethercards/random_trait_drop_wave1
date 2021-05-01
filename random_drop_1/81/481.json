@@ -1,8 +1,11 @@
 {
     "traits": [
-        "True Name",
-        "New Commons"
+        "Forge Protector",
+        "Rando Dropper",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Alpha"
 }

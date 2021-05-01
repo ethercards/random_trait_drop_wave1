@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Glittery",
-        "1 UP"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "True Name",
+        "New Commons"
     ],
-    "trait_types": [
-        "drop"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

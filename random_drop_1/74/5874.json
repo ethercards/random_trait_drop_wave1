@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket",
-        "Selective Layer Reroll",
-        "True Name"
+        "Selective Layer Reroll"
     ],
     "trait_types": [],
     "series": "Founder"

@@ -2,15 +2,12 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "25% Discount",
-        "Disco Dropper",
+        "Free Ticket",
         "True Name",
-        "New Commons"
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "reforge"
     ],
     "series": "OG"
 }

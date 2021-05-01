@@ -1,9 +1,10 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "Extra Limited Trait Slot",
+        "Forge Protector",
         "5% Discount",
-        "True Name"
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",

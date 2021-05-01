@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Free Ticket"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "Founder"
 }

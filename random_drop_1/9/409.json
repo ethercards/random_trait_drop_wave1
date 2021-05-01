@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Free Ticket"
+        "5% Discount",
+        "True Name",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "redeem"
+    ],
     "series": "Alpha"
 }

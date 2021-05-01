@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Free Ticket",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

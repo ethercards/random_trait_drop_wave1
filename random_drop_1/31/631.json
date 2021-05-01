@@ -1,12 +1,11 @@
 {
     "traits": [
-        "10% Discount",
-        "Rando Dropper",
-        "True Name"
+        "5% Discount",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Redeem"
+        "Reforge + ",
+        "Good Company"
     ],
     "trait_types": [
-        "redeem"
+        "reforge",
+        "drop"
     ],
     "series": "Founder"
 }

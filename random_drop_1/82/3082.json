@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Disco Dropper",
-        "Fluid"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "dropper",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

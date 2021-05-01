@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Unstable",
-        "New Commons"
+        "Art Drop",
+        "Lucky Reroll",
+        "Selective Layer Reroll",
+        "Good Company"
     ],
     "trait_types": [
-        "experimental"
+        "drop"
     ],
     "series": "Founder"
 }

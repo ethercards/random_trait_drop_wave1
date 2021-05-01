@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
         "5% Discount",
-        "Disco Dropper",
-        "New Commons"
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
     "trait_types": [
         "discount",

@@ -1,15 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Free Ticket",
-        "Disco Dropper",
-        "New Commons"
+        "Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

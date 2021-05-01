@@ -1,11 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Free Ticket",
-        "Rando Dropper",
-        "True Name",
-        "New Commons"
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",

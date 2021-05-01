@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Art Drop",
+        "Reforge",
         "Forge Protector",
+        "5% Discount",
+        "True Name",
         "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

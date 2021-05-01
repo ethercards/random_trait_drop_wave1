@@ -1,15 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "10% Discount",
-        "Rando Dropper",
-        "New Commons"
+        "Disco Dropper",
+        "Unstable",
+        "Merch"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "dropper",
+        "experimental",
+        "redeem"
     ],
     "series": "OG"
 }

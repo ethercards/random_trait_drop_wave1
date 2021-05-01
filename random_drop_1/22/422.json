@@ -1,13 +1,12 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Disco Dropper"
+        "25% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

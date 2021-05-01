@@ -1,8 +1,8 @@
 {
     "traits": [
-        "Art Drop",
-        "10% Discount",
-        "Lucky Reroll"
+        "Forge Protector",
+        "25% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "discount"

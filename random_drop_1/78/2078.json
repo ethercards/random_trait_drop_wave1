@@ -1,10 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "50% Discount",
-        "Disco Dropper",
-        "True Name",
-        "New Commons"
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
         "discount",

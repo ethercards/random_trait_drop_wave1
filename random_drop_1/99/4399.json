@@ -1,8 +1,14 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "New Commons"
+        "Rando Dropper",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

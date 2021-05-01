@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "5% Discount"
+        "Disco Dropper",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Alpha"
 }

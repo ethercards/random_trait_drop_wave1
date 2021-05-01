@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "dropper"

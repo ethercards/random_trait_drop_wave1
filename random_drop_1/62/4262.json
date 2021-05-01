@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Rando Dropper",
-        "True Name"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Gravity"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

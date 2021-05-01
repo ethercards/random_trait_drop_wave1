@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "10% Discount",
-        "Free Ticket",
-        "True Name"
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Alpha"
 }

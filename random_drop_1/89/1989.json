@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "New Commons"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

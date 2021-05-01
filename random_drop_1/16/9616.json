@@ -1,13 +1,15 @@
 {
     "traits": [
         "Reforge",
-        "Disco Dropper",
-        "1 UP"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge",
-        "dropper",
-        "drop"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

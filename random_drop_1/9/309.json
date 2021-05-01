@@ -1,14 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "Free Ticket",
+        "5% Discount",
         "Disco Dropper",
-        "Selective Layer Reroll",
-        "True Name"
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "dropper",
+        "redeem"
     ],
     "series": "Alpha"
 }

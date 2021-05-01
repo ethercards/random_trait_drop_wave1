@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Extra Limited Trait Slot",
         "Free Ticket",
-        "Rando Dropper"
+        "Rando Dropper",
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "OG"
 }

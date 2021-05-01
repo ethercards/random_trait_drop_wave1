@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Selective Layer Reroll"
+        "Forge Protector",
+        "5% Discount",
+        "Lucky Reroll",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "drop"
+    ],
     "series": "Founder"
 }

@@ -2,11 +2,10 @@
     "traits": [
         "Reforge",
         "Forge Protector",
-        "Unstable"
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "experimental"
+        "reforge"
     ],
     "series": "Founder"
 }

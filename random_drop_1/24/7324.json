@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Rando Dropper",
-        "True Name",
-        "Glittery"
+        "Free Ticket"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,5 +1,9 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Gravity"
+    ],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

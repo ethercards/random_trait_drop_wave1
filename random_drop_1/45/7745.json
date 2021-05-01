@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Unicorn",
+        "Art Drop",
         "Forge Protector",
-        "Free Ticket",
-        "Disco Dropper"
+        "Selective Layer Reroll",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

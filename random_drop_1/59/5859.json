@@ -1,9 +1,6 @@
 {
     "traits": [
-        "Forge Protector",
-        "Disco Dropper",
-        "Selective Layer Reroll",
-        "New Commons"
+        "Disco Dropper"
     ],
     "trait_types": [
         "dropper"

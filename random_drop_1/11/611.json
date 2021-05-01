@@ -1,10 +1,11 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper"
+        "Unicorn",
+        "Forge Protector",
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Rando Dropper",
-        "Selective Layer Reroll"
+        "Unicorn",
+        "Forge Protector",
+        "10% Discount",
+        "Glittery"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

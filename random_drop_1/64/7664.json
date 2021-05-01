@@ -1,11 +1,7 @@
 {
     "traits": [
-        "10% Discount",
-        "Gravity"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "discount",
-        "experimental"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

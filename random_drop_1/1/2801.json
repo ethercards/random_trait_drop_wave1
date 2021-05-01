@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "True Name",
-        "Merch",
-        "Glittery"
+        "Reforge"
     ],
     "trait_types": [
-        "redeem"
+        "reforge"
     ],
     "series": "Founder"
 }

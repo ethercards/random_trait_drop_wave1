@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "10% Discount",
-        "Synthesis Ritual"
+        "Reforge",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "drop"
     ],
     "series": "Founder"
 }
