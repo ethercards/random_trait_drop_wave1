@@ -69,7 +69,7 @@ def allocate_drop():
     # loop through the 10k tokens
     # and merge the new traits with the metadata
     
-    for i in range(10000):
+    for i in range(10,10000):
         print("card",i)
         print("")
         # create subfolder if needed
@@ -87,10 +87,14 @@ def allocate_drop():
         # load new traits
         print("new traits:")
         nt = load_new_traits(i)
+        print("----------------------")
+        print(nt)
+        print("----------------------")
         new_traits = nt["traits"]
        
         # loop through new traits and find descriptions
         for t in new_traits:
+            print("trait name:",t)
             print(traits[t])
         # merge
     
