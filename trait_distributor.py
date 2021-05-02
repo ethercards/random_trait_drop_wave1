@@ -8,14 +8,15 @@ results_folder = "results"
 test_new_traits_folder = "random_drop_1"
 
 
-def load_new_traits(c):
+def load_new_traits(i):
     # get appropriate number from rando
     if test:
         subfolder = os.path.join(test_new_traits_folder,(str(i % 100)))
         filename = os.path.join(subfolder,(str(i)+".json")) 
-        new_traits = json.load(filename)
+        with open(filename) as json_file:
+            new_traits = json.load(json_file)
     else:
-        new_traits_url = rando.functions.tokenURI(c).call()
+        new_traits_url = rando.functions.tokenURI(i).call()
         new_traits = json.loads(requests.get(new_traits_url).text)
 
     return(new_traits)
@@ -65,6 +66,7 @@ def allocate_drop():
         
         # load new traits
         print("new traits:")
+        new_traits = load_new_traits(i)
         print(new_traits)
         print("")
         
@@ -72,3 +74,7 @@ def allocate_drop():
     
         # save merged metadata
         print("==================================")
+        
+allocate_drop()
+
+
