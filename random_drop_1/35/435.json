@@ -1,12 +1,11 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Forge Protector",
+        "True Name"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

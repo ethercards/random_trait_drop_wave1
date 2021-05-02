@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket"
+        "Unicorn",
+        "Alpha Upgrade"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

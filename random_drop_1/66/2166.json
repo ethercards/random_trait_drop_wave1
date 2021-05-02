@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Unicorn",
+        "Glittery"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,12 +1,12 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "Merch"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

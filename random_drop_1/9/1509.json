@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Art Drop",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

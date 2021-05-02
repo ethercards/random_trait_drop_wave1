@@ -1,14 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount",
-        "Free Ticket",
-        "Rando Dropper"
+        "Disco Dropper",
+        "Unstable",
+        "Merch"
     ],
     "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
+        "dropper",
+        "experimental",
+        "redeem"
     ],
     "series": "OG"
 }

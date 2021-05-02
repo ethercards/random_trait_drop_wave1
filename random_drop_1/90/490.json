@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Art Drop"
+        "Reforge",
+        "Art Drop",
+        "5% Discount",
+        "Free Ticket",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

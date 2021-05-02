@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Reforge + "
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "upgrade"
     ],
     "series": "Founder"
 }

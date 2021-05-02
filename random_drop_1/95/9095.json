@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Art Drop",
+        "Extra Limited Trait Slot"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

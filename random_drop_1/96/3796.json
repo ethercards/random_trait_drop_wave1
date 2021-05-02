@@ -1,11 +1,13 @@
 {
     "traits": [
-        "10% Discount",
-        "Rando Dropper"
+        "Unicorn",
+        "Forge Protector",
+        "25% Discount",
+        "Merch"
     ],
     "trait_types": [
         "discount",
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

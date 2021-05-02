@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Unicorn"
+        "Unicorn",
+        "Lucky Reroll",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [],
     "series": "Founder"

@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Art Drop",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

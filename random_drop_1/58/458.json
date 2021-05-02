@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop"
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Reforge",
+        "Forge Protector",
+        "Unstable",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental",
+        "redeem"
+    ],
     "series": "Alpha"
 }

@@ -1,8 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
         "Free Ticket",
-        "Disco Dropper"
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

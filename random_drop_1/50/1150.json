@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "Disco Dropper"
+        "Reforge",
+        "Free Ticket",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

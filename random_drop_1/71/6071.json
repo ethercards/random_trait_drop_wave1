@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Reforge + ",
+        "Forge Protector",
+        "True Name",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "drop"
     ],
     "series": "Founder"
 }

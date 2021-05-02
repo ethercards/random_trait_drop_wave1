@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "Forge Protector",
+        "10% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

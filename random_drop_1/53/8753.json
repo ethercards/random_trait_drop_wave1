@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Free Ticket",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

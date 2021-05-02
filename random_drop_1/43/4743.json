@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop"
+        "Art Drop",
+        "Forge Protector",
+        "25% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

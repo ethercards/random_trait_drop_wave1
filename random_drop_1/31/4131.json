@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "Rando Dropper"
+        "Reforge"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

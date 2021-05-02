@@ -1,10 +1,16 @@
 {
     "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "5% Discount"
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper"
     ],
     "series": "OG"
 }

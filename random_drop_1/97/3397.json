@@ -1,12 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

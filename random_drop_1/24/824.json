@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Reroll"
+        "Reforge",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

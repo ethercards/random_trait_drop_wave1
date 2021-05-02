@@ -1,9 +1,12 @@
 {
     "traits": [
-        "25% Discount"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

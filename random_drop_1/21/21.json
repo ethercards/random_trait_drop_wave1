@@ -1,15 +1,15 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "Forge Protector",
-        "10% Discount",
         "Free Ticket",
-        "Disco Dropper"
+        "True Name",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",
-        "discount",
-        "dropper"
+        "redeem"
     ],
     "series": "OG"
 }

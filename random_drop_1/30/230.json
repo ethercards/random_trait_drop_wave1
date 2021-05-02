@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "10% Discount"
+        "Unicorn",
+        "Art Drop",
+        "Free Ticket"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

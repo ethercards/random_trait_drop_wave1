@@ -1,9 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
-        "Forge Protector",
-        "Disco Dropper"
+        "Disco Dropper",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

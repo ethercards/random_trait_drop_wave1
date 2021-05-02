@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Reroll"
+        "Unicorn",
+        "Art Drop",
+        "Forge Protector",
+        "Glittery"
     ],
     "trait_types": [],
     "series": "Alpha"

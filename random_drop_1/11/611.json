@@ -1,8 +1,9 @@
 {
     "traits": [
+        "Unicorn",
         "Forge Protector",
-        "Free Ticket",
-        "Rando Dropper"
+        "Rando Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

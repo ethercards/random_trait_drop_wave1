@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

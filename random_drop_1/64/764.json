@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "5% Discount",
-        "Disco Dropper"
+        "Reroll"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

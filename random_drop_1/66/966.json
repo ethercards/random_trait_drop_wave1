@@ -1,6 +1,7 @@
 {
     "traits": [
-        "Reroll"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [],
     "series": "Alpha"

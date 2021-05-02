@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Forge Protector"
+        "Forge Protector",
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

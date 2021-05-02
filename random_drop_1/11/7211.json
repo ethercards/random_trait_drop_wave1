@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket"
+        "5% Discount",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

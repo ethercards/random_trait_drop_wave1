@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Reroll"
+        "Forge Protector",
+        "5% Discount",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Alpha"
 }

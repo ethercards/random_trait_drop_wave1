@@ -1,11 +1,10 @@
 {
     "traits": [
         "Forge Protector",
-        "10% Discount",
-        "Lucky Reroll"
+        "Gravity"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

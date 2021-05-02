@@ -1,13 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
         "10% Discount",
-        "Lucky Reroll"
+        "Swap"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "discount",
+        "swap"
     ],
     "series": "Founder"
 }

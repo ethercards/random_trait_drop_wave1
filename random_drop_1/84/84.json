@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Reroll"
+        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "OG"
 }

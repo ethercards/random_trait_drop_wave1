@@ -1,5 +1,10 @@
 {
-    "traits": [],
+    "traits": [
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
         "dropper"

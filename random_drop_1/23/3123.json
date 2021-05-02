@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Reforge + ",
-        "Lucky Reroll"
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

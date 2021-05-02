@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "5% Discount",
-        "Rando Dropper"
+        "Art Drop",
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Founder"

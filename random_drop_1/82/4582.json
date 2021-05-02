@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Art Drop"
+        "Free Ticket",
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

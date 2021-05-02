@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount",
-        "Rando Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

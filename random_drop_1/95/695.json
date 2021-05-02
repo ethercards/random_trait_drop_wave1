@@ -1,8 +1,15 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge",
+        "Free Ticket",
+        "Disco Dropper",
+        "Merch",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "redeem"
+    ],
     "series": "Alpha"
 }

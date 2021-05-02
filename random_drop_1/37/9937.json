@@ -1,8 +1,9 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "5% Discount",
-        "Free Ticket"
+        "Forge Protector",
+        "5% Discount"
     ],
     "trait_types": [
         "reforge",

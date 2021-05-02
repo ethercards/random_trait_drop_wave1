@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket"
+        "Reforge"
     ],
     "trait_types": [
         "reforge"

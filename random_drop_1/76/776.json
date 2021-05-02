@@ -1,11 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Rando Dropper"
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

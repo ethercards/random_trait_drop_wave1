@@ -1,13 +1,10 @@
 {
     "traits": [
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper"
+        "10% Discount"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

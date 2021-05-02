@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge + "
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

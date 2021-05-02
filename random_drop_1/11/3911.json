@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge",
+        "10% Discount",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "experimental"
+    ],
     "series": "Founder"
 }

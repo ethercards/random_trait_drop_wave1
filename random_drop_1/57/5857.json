@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Reforge + ",
+        "Forge Protector",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

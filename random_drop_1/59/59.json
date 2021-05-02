@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "5% Discount"
+        "Unicorn",
+        "Art Drop",
+        "5% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "discount"

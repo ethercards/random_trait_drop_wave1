@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket"
+        "Art Drop",
+        "Fluid",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "experimental"
     ],
     "series": "Alpha"
 }

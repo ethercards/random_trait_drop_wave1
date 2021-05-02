@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Forge Protector"
+        "Forge Protector",
+        "Rando Dropper",
+        "Unstable",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Alpha"
 }

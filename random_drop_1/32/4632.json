@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Art Drop",
+        "Disco Dropper",
+        "Redeem",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "redeem",
+        "experimental"
+    ],
     "series": "Founder"
 }

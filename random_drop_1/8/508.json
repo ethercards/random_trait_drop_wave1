@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Extra Limited Trait Slot",
-        "5% Discount"
+        "Forge Protector",
+        "25% Discount"
     ],
     "trait_types": [
         "reforge",

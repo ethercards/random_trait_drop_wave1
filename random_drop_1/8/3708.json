@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Unicorn"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

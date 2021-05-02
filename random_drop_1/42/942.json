@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Reroll"
+        "Reforge",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Art Drop"
+        "Reforge + ",
+        "Art Drop",
+        "Gravity"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

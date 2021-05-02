@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Unstable"
     ],
     "trait_types": [
-        "dropper"
+        "experimental"
     ],
     "series": "Founder"
 }

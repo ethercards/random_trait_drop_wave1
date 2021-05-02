@@ -1,12 +1,14 @@
 {
     "traits": [
         "Reforge",
+        "5% Discount",
         "Free Ticket",
-        "Rando Dropper"
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

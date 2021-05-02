@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "upgrade"
+        "experimental"
     ],
     "series": "Founder"
 }

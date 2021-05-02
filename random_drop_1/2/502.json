@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Art Drop"
+        "Free Ticket",
+        "Swap",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Alpha"
 }

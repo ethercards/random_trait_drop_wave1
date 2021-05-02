@@ -1,7 +1,16 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper",
+        "experimental"
+    ],
     "series": "Alpha"
 }

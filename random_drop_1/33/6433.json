@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector"
+        "Art Drop"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

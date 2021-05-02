@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Alpha Upgrade"
+        "Reforge",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "upgrade"
+        "reforge"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Free Ticket",
+        "Swap"
     ],
     "trait_types": [
-        "dropper"
+        "swap"
     ],
     "series": "Founder"
 }

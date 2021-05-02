@@ -1,9 +1,9 @@
 {
     "traits": [
-        "10% Discount"
+        "Redeemable",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

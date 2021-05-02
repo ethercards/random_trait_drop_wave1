@@ -1,12 +1,14 @@
 {
     "traits": [
         "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot"
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Redeem",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

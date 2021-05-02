@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Art Drop",
-        "Free Ticket"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

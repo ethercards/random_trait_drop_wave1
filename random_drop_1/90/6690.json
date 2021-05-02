@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "True Name"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

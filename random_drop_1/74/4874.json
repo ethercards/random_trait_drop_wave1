@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Free Ticket",
+        "Lucky Reroll",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

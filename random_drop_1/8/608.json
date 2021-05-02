@@ -1,9 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "5% Discount"
+        "10% Discount",
+        "True Name"
     ],
     "trait_types": [
         "reforge",

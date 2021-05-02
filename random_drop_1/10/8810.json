@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

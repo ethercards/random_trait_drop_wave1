@@ -1,11 +1,5 @@
 {
-    "traits": [
-        "Redeemable",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
-    ],
-    "trait_types": [
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

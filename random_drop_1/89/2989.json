@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Art Drop",
+        "Alpha Upgrade"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

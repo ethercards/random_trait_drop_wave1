@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "25% Discount"
+        "5% Discount",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Art Drop",
-        "Reroll"
+        "Reforge",
+        "5% Discount",
+        "Free Ticket",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
     "series": "OG"
 }

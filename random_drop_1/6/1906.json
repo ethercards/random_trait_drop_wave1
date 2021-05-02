@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "Unicorn",
+        "5% Discount",
+        "Free Ticket",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "drop"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,8 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

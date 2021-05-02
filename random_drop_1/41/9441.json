@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Forge Protector"
+        "Forge Protector",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

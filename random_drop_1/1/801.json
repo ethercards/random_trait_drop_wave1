@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Art Drop",
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket",
-        "Disco Dropper"
+        "Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Forge Protector"
+        "Art Drop",
+        "Forge Protector",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

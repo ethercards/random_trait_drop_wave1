@@ -1,13 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "5% Discount",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Glittery"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Founder"

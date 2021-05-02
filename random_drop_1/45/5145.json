@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Forge Protector"
+        "Free Ticket",
+        "Swap"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Founder"
 }

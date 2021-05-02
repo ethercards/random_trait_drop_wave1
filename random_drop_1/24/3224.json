@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Forge Protector"
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

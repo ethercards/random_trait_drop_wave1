@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Free Ticket"
+        "Alpha Upgrade",
+        "Forge Protector",
+        "Free Ticket",
+        "Lucky Reroll"
     ],
     "trait_types": [
-        "reforge"
+        "upgrade"
     ],
     "series": "Founder"
 }

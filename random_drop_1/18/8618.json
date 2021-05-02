@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Forge Protector"
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

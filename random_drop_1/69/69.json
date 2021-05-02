@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "Free Ticket"
+        "Free Ticket",
+        "Rando Dropper",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "experimental"
     ],
     "series": "OG"
 }

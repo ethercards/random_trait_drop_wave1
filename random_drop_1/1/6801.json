@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "Rando Dropper"
+        "25% Discount",
+        "Lucky Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

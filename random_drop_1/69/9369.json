@@ -1,5 +1,14 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "Swap",
+        "Glittery"
+    ],
+    "trait_types": [
+        "reforge",
+        "swap"
+    ],
     "series": "Founder"
 }

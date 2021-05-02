@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Glittery"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

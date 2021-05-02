@@ -1,14 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "10% Discount"
+        "5% Discount",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

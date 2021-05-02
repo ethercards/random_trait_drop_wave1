@@ -1,11 +1,17 @@
 {
     "traits": [
+        "Unicorn",
         "Reforge",
-        "Art Drop",
-        "Free Ticket"
+        "Forge Protector",
+        "25% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "OG"
 }

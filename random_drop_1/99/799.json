@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "5% Discount"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Alpha"
 }

@@ -1,7 +1,7 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount"
+        "5% Discount",
+        "Lucky Reroll"
     ],
     "trait_types": [
         "discount"

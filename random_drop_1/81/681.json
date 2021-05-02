@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Reforge + ",
+        "Reforge",
         "Forge Protector",
-        "Disco Dropper"
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

@@ -1,11 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "5% Discount"
+        "Unicorn",
+        "Reforge",
+        "Rando Dropper",
+        "1 UP"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Art Drop",
+        "Reforge",
         "Extra Limited Trait Slot",
-        "Rando Dropper"
+        "Forge Protector",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

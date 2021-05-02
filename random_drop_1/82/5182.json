@@ -1,12 +1,12 @@
 {
     "traits": [
         "Unicorn",
-        "10% Discount",
-        "Disco Dropper"
+        "Reforge",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

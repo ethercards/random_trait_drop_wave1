@@ -1,10 +1,16 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Unstable",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "experimental",
+        "drop"
     ],
     "series": "Alpha"
 }

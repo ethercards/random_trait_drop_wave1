@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "Swap"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "swap"
     ],
     "series": "Founder"
 }

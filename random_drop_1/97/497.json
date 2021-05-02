@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
+        "Extra Limited Trait Slot",
         "Rando Dropper"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "5% Discount"
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "upgrade"
     ],
     "series": "Founder"
 }

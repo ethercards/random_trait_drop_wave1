@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
         "Disco Dropper"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade",
         "dropper"
     ],
     "series": "Founder"

@@ -1,9 +1,7 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Art Drop"
     ],
-    "trait_types": [
-        "upgrade"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

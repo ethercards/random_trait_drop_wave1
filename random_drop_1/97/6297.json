@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "10% Discount"
+        "Redeem"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "redeem"
     ],
     "series": "Founder"
 }

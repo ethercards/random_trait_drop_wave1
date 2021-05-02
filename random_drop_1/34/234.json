@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot"
+        "Unicorn",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Alpha"
 }

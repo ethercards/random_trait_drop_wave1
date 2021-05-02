@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Extra Limited Trait Slot",
-        "Lucky Reroll"
+        "Forge Protector",
+        "5% Discount",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "discount"
     ],
     "series": "Founder"
 }

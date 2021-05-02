@@ -1,9 +1,9 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Disco Dropper"
     ],
     "trait_types": [
-        "upgrade"
+        "dropper"
     ],
     "series": "Founder"
 }

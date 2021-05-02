@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Swap"
+    ],
+    "trait_types": [
+        "swap"
+    ],
     "series": "Founder"
 }

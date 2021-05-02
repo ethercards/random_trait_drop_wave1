@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Free Ticket",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Glittery"
     ],
     "trait_types": [
         "dropper"

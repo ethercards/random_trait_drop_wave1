@@ -1,8 +1,12 @@
 {
     "traits": [
-        "Free Ticket",
-        "Reroll"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "5% Discount"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "OG"
 }

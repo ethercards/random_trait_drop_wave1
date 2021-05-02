@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Forge Protector",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "dropper"

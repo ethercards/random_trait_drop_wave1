@@ -1,12 +1,17 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge + ",
-        "Disco Dropper"
+        "10% Discount",
+        "Disco Dropper",
+        "Unstable",
+        "True Name",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount",
+        "dropper",
+        "experimental",
+        "redeem"
     ],
     "series": "Alpha"
 }

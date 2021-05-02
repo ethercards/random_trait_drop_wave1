@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Reroll"
+        "Unicorn",
+        "Reforge",
+        "Free Ticket",
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Alpha"
 }

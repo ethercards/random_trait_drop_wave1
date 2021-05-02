@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Lucky Reroll",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

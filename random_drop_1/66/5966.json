@@ -1,12 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Redeemable",
-        "5% Discount"
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

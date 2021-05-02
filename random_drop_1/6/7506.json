@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Forge Protector",
-        "5% Discount"
+        "Art Drop",
+        "10% Discount",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

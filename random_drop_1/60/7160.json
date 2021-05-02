@@ -1,11 +1,11 @@
 {
     "traits": [
+        "Art Drop",
         "Forge Protector",
-        "10% Discount",
-        "Free Ticket"
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

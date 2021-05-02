@@ -1,5 +1,14 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "5% Discount",
+        "Free Ticket",
+        "True Name",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Founder"
 }

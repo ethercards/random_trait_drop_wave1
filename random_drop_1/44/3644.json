@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Reforge"
+        "Forge Protector",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

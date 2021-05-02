@@ -1,9 +1,15 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Free Ticket"
+        "5% Discount",
+        "Synthesis Ritual",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

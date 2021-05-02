@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Unicorn"
+        "Art Drop",
+        "Lucky Reroll",
+        "Golden Goose",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

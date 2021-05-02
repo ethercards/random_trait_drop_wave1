@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Reroll",
-        "Reroll"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "OG"
 }

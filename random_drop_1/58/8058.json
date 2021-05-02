@@ -1,9 +1,10 @@
 {
     "traits": [
-        "10% Discount"
+        "True Name",
+        "1 UP"
     ],
     "trait_types": [
-        "discount"
+        "drop"
     ],
     "series": "Founder"
 }

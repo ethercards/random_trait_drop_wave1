@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Unstable",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

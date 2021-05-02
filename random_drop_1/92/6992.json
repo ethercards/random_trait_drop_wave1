@@ -1,13 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Art Drop",
-        "Alpha Upgrade",
-        "Lucky Reroll"
-    ],
-    "trait_types": [
-        "reforge",
-        "upgrade"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge + ",
         "Forge Protector",
-        "Free Ticket"
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Alpha"
 }

@@ -1,9 +1,15 @@
 {
     "traits": [
-        "10% Discount"
+        "Reforge",
+        "Art Drop",
+        "5% Discount",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "experimental"
     ],
     "series": "Alpha"
 }

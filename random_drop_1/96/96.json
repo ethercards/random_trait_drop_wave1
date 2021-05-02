@@ -1,11 +1,14 @@
 {
     "traits": [
         "Unicorn",
-        "5% Discount",
-        "Free Ticket"
+        "Forge Protector",
+        "25% Discount",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "OG"
 }

@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reroll"
+        "Art Drop",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [],
     "series": "Alpha"

@@ -2,8 +2,9 @@
     "traits": [
         "Reforge",
         "10% Discount",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
         "reforge",

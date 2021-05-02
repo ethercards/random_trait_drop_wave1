@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector",
-        "Free Ticket"
-    ],
-    "trait_types": [
-        "reforge"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

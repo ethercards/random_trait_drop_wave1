@@ -1,12 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "50% Discount"
+        "Unstable"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

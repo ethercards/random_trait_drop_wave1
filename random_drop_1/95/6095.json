@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge"
+        "Reforge",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Reforge"
+        "Alpha Upgrade",
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Gravity"
     ],
     "trait_types": [
-        "reforge"
+        "upgrade",
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

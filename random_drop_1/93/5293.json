@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Free Ticket",
+        "True Name"
+    ],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

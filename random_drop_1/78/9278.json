@@ -1,7 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket"
+        "Art Drop",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

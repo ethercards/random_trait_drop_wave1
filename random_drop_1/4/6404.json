@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "OG Upgrade",
+        "Forge Protector"
+    ],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

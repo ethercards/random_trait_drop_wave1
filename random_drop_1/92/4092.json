@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Disco Dropper"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Founder"

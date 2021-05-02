@@ -1,10 +1,15 @@
 {
     "traits": [
-        "5% Discount",
-        "Reroll"
+        "Free Ticket",
+        "Disco Dropper",
+        "Swap",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "discount"
+        "dropper",
+        "swap",
+        "drop"
     ],
     "series": "OG"
 }

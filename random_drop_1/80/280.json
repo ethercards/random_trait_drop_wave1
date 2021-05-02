@@ -1,9 +1,7 @@
 {
     "traits": [
-        "50% Discount"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Forge Protector"
+        "Reforge",
+        "Alpha Upgrade",
+        "Synthesis Ritual",
+        "Merch"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "upgrade",
+        "redeem"
+    ],
     "series": "Founder"
 }

@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "dropper"
     ],
     "series": "Founder"
 }

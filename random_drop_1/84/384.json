@@ -1,8 +1,16 @@
 {
     "traits": [
+        "Reforge + ",
         "Art Drop",
-        "Forge Protector"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "Alpha"
 }

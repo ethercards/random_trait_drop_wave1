@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Art Drop"
+        "Unicorn",
+        "10% Discount",
+        "Disco Dropper",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper",
+        "experimental"
+    ],
     "series": "Founder"
 }

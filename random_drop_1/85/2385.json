@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Redeemable",
-        "5% Discount"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

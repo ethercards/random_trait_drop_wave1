@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector"
+        "Reforge",
+        "Art Drop",
+        "Fluid"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Reroll"
+        "Forge Protector",
+        "5% Discount",
+        "Rando Dropper",
+        "Gravity",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper",
+        "experimental"
+    ],
     "series": "Alpha"
 }

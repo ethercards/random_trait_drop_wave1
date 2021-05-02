@@ -1,11 +1,17 @@
 {
     "traits": [
-        "Reforge + ",
-        "Rando Dropper"
+        "Reforge",
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

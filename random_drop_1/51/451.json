@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Extra Limited Trait Slot",
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Alpha"
 }

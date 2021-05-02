@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector"
+        "Reforge",
+        "Extra Limited Trait Slot"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Alpha"
 }

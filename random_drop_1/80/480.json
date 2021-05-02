@@ -1,13 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Selective Layer Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

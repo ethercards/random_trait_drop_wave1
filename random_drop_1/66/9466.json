@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Golden Goose"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,15 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "True Name",
+        "Good Company"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "drop"
+    ],
     "series": "Founder"
 }

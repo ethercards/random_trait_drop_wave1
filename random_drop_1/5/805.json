@@ -1,10 +1,16 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector"
+        "Reforge",
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

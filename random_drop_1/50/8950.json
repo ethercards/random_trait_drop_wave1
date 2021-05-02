@@ -1,7 +1,9 @@
 {
     "traits": [
-        "5% Discount",
-        "Free Ticket"
+        "Art Drop",
+        "50% Discount",
+        "Lucky Reroll",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "discount"

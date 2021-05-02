@@ -1,15 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket"
+        "Free Ticket",
+        "Swap",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "swap",
+        "drop"
     ],
     "series": "OG"
 }

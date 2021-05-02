@@ -1,11 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "10% Discount",
-        "Disco Dropper"
+        "Free Ticket",
+        "Disco Dropper",
+        "True Name"
     ],
     "trait_types": [
-        "discount",
         "dropper"
     ],
     "series": "Founder"

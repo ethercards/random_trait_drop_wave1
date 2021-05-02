@@ -1,10 +1,9 @@
 {
     "traits": [
         "Art Drop",
-        "5% Discount"
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Gravity"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

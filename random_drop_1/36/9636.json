@@ -1,9 +1,10 @@
 {
     "traits": [
-        "25% Discount"
+        "Unicorn",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Lucky Reroll"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

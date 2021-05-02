@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Art Drop",
+        "Selective Layer Reroll",
+        "New Commons"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

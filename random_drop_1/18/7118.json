@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Forge Protector"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Free Ticket",
+        "Fluid",
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "experimental",
+        "drop"
+    ],
     "series": "Founder"
 }

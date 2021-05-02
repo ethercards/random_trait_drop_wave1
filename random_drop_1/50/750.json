@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Reroll"
+        "Extra Limited Trait Slot",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Alpha"
 }

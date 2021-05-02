@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Reforge",
+        "Forge Protector",
         "5% Discount",
-        "Disco Dropper"
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
         "discount",
         "dropper"
     ],

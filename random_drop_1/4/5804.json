@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Unicorn",
-        "10% Discount"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

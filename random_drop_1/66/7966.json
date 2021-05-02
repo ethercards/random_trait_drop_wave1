@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Disco Dropper",
+        "Redeem"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "redeem"
+    ],
     "series": "Founder"
 }

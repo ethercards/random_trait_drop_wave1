@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Free Ticket"
+        "Unicorn",
+        "5% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Founder"
 }

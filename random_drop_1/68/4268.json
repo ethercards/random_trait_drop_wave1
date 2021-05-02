@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Forge Protector",
-        "Disco Dropper"
+        "New Commons"
     ],
-    "trait_types": [
-        "upgrade",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

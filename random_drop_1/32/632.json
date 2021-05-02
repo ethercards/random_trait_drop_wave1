@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "Art Drop",
+        "Disco Dropper"
     ],
     "trait_types": [
+        "reforge",
         "dropper"
     ],
     "series": "Alpha"

@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

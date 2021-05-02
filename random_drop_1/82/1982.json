@@ -1,7 +1,10 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount"
+        "Art Drop",
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket"
     ],
     "trait_types": [
         "reforge",

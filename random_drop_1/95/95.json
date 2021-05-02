@@ -1,14 +1,13 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper"
+        "Selective Layer Reroll",
+        "Golden Goose",
+        "New Commons",
+        "Glittery"
     ],
     "trait_types": [
         "reforge",
-        "discount",
         "dropper"
     ],
     "series": "OG"

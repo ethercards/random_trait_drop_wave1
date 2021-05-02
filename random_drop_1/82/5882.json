@@ -1,13 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Art Drop",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
-    ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

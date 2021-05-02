@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "Redeem",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

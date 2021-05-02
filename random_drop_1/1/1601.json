@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Art Drop",
+        "Free Ticket",
+        "Lucky Reroll",
+        "Rando Dropper",
+        "Glittery"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

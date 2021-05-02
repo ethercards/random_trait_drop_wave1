@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Fluid",
+        "True Name"
+    ],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

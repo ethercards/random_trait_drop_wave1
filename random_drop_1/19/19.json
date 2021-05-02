@@ -1,12 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "10% Discount"
+        "Art Drop",
+        "Rando Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "dropper"
     ],
     "series": "OG"
 }

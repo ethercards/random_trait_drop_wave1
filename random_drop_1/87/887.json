@@ -1,7 +1,14 @@
 {
     "traits": [
-        "Art Drop"
+        "Forge Protector",
+        "Rando Dropper",
+        "Unstable",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "experimental",
+        "drop"
+    ],
     "series": "Alpha"
 }

@@ -1,8 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Free Ticket"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

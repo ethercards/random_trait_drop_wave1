@@ -3,11 +3,13 @@
         "Art Drop",
         "Extra Limited Trait Slot",
         "Forge Protector",
+        "25% Discount",
         "Free Ticket",
-        "Disco Dropper"
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "OG"
 }

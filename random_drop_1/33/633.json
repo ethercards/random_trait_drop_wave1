@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Forge Protector",
+        "Synthesis Ritual",
+        "Merch",
+        "New Commons",
+        "1 UP"
     ],
     "trait_types": [
-        "dropper"
+        "redeem",
+        "drop"
     ],
     "series": "Alpha"
 }

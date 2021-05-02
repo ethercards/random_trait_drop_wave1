@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Free Ticket",
+        "Swap",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "swap"
     ],
     "series": "Founder"
 }

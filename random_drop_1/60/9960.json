@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unstable",
+        "1 UP"
+    ],
+    "trait_types": [
+        "experimental",
+        "drop"
+    ],
     "series": "Founder"
 }

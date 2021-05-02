@@ -1,6 +1,9 @@
 {
     "traits": [
-        "Forge Protector"
+        "Redeemable",
+        "Forge Protector",
+        "Free Ticket",
+        "True Name"
     ],
     "trait_types": [],
     "series": "Alpha"

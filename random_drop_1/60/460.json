@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Disco Dropper"
+        "Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

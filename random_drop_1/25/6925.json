@@ -1,9 +1,10 @@
 {
     "traits": [
-        "5% Discount"
+        "Selective Layer Reroll",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

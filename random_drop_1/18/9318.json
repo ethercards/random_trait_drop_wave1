@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "Lucky Reroll"
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "upgrade"
+        "dropper"
     ],
     "series": "Founder"
 }

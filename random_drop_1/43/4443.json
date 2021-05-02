@@ -1,7 +1,8 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Lucky Reroll"
     ],
     "trait_types": [
         "reforge"

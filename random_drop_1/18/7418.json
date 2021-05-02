@@ -1,11 +1,10 @@
 {
     "traits": [
-        "OG Upgrade",
-        "25% Discount"
+        "Free Ticket",
+        "Disco Dropper"
     ],
     "trait_types": [
-        "upgrade",
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

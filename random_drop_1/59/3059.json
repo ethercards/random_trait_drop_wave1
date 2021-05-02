@@ -1,9 +1,16 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Reforge",
+        "Forge Protector",
+        "25% Discount",
+        "Rando Dropper",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
-        "upgrade"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

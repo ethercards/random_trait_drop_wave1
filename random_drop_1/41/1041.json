@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Forge Protector",
+        "New Commons"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

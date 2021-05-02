@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Free Ticket"
+        "Reforge",
+        "Rando Dropper",
+        "Swap"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "swap"
+    ],
     "series": "Alpha"
 }

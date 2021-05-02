@@ -1,5 +1,14 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Free Ticket",
+        "Disco Dropper",
+        "Swap"
+    ],
+    "trait_types": [
+        "reforge",
+        "dropper",
+        "swap"
+    ],
     "series": "Founder"
 }

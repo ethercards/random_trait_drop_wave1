@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "50% Discount",
+        "Swap"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "swap"
+    ],
     "series": "Founder"
 }

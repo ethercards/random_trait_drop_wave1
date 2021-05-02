@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "redeem"
     ],
     "series": "Founder"
 }

@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Rando Dropper"
+        "Reforge",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

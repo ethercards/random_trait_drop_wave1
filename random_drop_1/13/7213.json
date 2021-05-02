@@ -1,7 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Disco Dropper",
+        "Swap"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "swap"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Lucky Reroll",
+        "Disco Dropper"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

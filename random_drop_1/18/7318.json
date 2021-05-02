@@ -1,7 +1,15 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Disco Dropper",
+        "New Commons",
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper",
+        "drop"
+    ],
     "series": "Founder"
 }

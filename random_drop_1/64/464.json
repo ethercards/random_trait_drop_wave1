@@ -1,10 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "5% Discount",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Alpha"
 }

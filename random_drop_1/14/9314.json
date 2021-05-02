@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Unicorn",
+        "Reforge + ",
+        "New Commons"
     ],
     "trait_types": [
         "reforge"

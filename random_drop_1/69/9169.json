@@ -1,7 +1,12 @@
 {
     "traits": [
-        "Forge Protector"
+        "Forge Protector",
+        "5% Discount",
+        "Golden Goose"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "Founder"
 }

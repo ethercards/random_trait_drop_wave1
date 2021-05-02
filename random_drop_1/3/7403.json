@@ -1,9 +1,9 @@
 {
     "traits": [
-        "10% Discount"
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "redeem"
     ],
     "series": "Founder"
 }

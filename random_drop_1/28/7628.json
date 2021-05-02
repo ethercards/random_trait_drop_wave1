@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Reforge",
-        "Lucky Reroll"
+        "Reforge + ",
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper",
+        "drop"
     ],
     "series": "Founder"
 }

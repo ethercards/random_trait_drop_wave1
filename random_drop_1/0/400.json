@@ -1,13 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
         "Forge Protector",
-        "Rando Dropper"
+        "Disco Dropper",
+        "Unstable"
     ],
     "trait_types": [
         "reforge",
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "Alpha"
 }

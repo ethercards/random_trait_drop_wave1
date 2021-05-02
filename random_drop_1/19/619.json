@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Reforge + "
+        "Unicorn",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

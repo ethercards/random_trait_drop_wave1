@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Rando Dropper"
+        "Glittery"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

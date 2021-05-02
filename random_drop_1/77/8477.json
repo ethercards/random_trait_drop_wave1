@@ -1,6 +1,7 @@
 {
     "traits": [
         "Reforge",
+        "Forge Protector",
         "Disco Dropper"
     ],
     "trait_types": [

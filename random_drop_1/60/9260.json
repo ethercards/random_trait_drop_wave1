@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket",
-        "Disco Dropper"
+        "Disco Dropper",
+        "Unstable",
+        "True Name"
     ],
     "trait_types": [
-        "dropper"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

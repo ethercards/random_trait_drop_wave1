@@ -1,8 +1,13 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector"
+        "Unicorn",
+        "Forge Protector",
+        "5% Discount",
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "OG"
 }

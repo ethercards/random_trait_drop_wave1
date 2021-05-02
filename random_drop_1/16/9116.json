@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge + ",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Lucky Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

@@ -1,11 +1,9 @@
 {
     "traits": [
-        "Art Drop",
-        "Free Ticket",
-        "Disco Dropper"
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "redeem"
     ],
     "series": "Alpha"
 }

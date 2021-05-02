@@ -1,9 +1,11 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Forge Protector",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "experimental"
     ],
     "series": "Founder"
 }

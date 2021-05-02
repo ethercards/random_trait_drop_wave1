@@ -1,7 +1,9 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge"

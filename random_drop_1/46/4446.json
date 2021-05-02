@@ -1,5 +1,15 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Forge Protector",
+        "50% Discount",
+        "Free Ticket",
+        "Lucky Reroll",
+        "Disco Dropper",
+        "New Commons"
+    ],
+    "trait_types": [
+        "discount",
+        "dropper"
+    ],
     "series": "Founder"
 }

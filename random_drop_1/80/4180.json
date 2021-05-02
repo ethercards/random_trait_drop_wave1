@@ -1,7 +1,8 @@
 {
     "traits": [
+        "Art Drop",
         "5% Discount",
-        "Lucky Reroll"
+        "New Commons"
     ],
     "trait_types": [
         "discount"

@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Forge Protector",
+        "Lucky Reroll"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

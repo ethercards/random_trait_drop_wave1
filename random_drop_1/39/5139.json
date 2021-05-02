@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Alpha Upgrade",
-        "50% Discount",
-        "Free Ticket"
+        "Forge Protector"
     ],
-    "trait_types": [
-        "upgrade",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

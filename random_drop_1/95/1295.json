@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Alpha Upgrade"
+        "Art Drop",
+        "5% Discount",
+        "Free Ticket",
+        "Lucky Reroll",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "upgrade"
+        "discount"
     ],
     "series": "Founder"
 }

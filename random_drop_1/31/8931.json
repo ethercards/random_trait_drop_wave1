@@ -1,8 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
-        "Forge Protector"
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "reforge"

@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge + ",
+        "Art Drop",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

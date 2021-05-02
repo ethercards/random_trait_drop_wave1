@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Lucky Reroll"
+        "Extra Limited Trait Slot",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

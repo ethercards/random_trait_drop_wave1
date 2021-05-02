@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Forge Protector",
+        "Redeem",
+        "True Name"
     ],
     "trait_types": [
-        "reforge"
+        "redeem"
     ],
     "series": "Alpha"
 }

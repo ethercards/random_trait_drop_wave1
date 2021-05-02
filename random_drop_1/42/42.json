@@ -1,10 +1,15 @@
 {
     "traits": [
         "Reforge",
-        "Reroll"
+        "Art Drop",
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Redeem"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "redeem"
     ],
     "series": "OG"
 }

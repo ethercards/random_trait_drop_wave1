@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Forge Protector"
+        "OG Upgrade",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

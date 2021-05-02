@@ -1,11 +1,13 @@
 {
     "traits": [
-        "Reforge",
-        "10% Discount"
+        "5% Discount",
+        "True Name",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "discount",
+        "redeem"
     ],
     "series": "Alpha"
 }

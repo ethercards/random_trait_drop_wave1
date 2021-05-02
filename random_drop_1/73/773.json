@@ -1,8 +1,7 @@
 {
     "traits": [
-        "Reforge + ",
-        "Forge Protector",
-        "50% Discount"
+        "Reforge",
+        "25% Discount"
     ],
     "trait_types": [
         "reforge",

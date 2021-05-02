@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reforge + "
+        "Unicorn",
+        "Reforge",
+        "Forge Protector"
     ],
     "trait_types": [
         "reforge"

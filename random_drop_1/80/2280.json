@@ -1,9 +1,10 @@
 {
     "traits": [
-        "5% Discount"
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "discount"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

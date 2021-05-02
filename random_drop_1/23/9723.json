@@ -1,9 +1,12 @@
 {
     "traits": [
-        "5% Discount"
+        "Unicorn",
+        "Reforge + ",
+        "Art Drop",
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "Founder"
 }

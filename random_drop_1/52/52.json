@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Reroll",
-        "Reroll"
+        "Reforge",
+        "Art Drop"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "OG"
 }

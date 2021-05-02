@@ -1,9 +1,11 @@
 {
     "traits": [
-        "5% Discount"
+        "Extra Limited Trait Slot",
+        "Rando Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

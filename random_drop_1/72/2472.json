@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Fluid"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

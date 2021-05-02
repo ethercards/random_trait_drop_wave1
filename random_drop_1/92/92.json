@@ -1,12 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount",
-        "Disco Dropper"
+        "Forge Protector",
+        "10% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "discount",
-        "dropper"
+        "discount"
     ],
     "series": "OG"
 }

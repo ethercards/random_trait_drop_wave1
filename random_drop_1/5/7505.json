@@ -1,7 +1,13 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Unicorn",
+        "Reforge + ",
+        "Selective Layer Reroll",
+        "Unstable"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,5 +1,8 @@
 {
-    "traits": [],
+    "traits": [
+        "Unicorn",
+        "Forge Protector"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Redeemable",
+        "Free Ticket",
+        "True Name"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

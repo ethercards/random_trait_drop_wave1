@@ -1,11 +1,10 @@
 {
     "traits": [
-        "5% Discount",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "OG"
 }

@@ -1,9 +1,7 @@
 {
     "traits": [
         "Reforge",
-        "Art Drop",
         "Forge Protector",
-        "Free Ticket",
         "Disco Dropper"
     ],
     "trait_types": [

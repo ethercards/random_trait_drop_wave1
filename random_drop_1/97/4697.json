@@ -1,9 +1,11 @@
 {
     "traits": [
-        "OG Upgrade"
+        "Art Drop",
+        "5% Discount",
+        "New Commons"
     ],
     "trait_types": [
-        "upgrade"
+        "discount"
     ],
     "series": "Founder"
 }

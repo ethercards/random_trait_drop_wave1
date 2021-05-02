@@ -1,12 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "Free Ticket",
-        "Disco Dropper"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

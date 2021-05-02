@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "5% Discount",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

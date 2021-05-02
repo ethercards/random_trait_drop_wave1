@@ -1,13 +1,15 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Forge Protector",
+        "10% Discount",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
-        "dropper"
+        "discount",
+        "experimental"
     ],
     "series": "Founder"
 }

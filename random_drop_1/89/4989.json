@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Unicorn"
+        "Unstable",
+        "True Name"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "experimental"
+    ],
     "series": "Founder"
 }

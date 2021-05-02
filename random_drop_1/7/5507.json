@@ -1,10 +1,14 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector"
+        "Free Ticket",
+        "Rando Dropper",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "dropper"
     ],
     "series": "Founder"
 }

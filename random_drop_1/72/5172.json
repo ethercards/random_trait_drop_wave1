@@ -1,5 +1,11 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll",
+        "1 UP"
+    ],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

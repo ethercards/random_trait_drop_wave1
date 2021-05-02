@@ -1,9 +1,10 @@
 {
     "traits": [
-        "Art Drop",
+        "5% Discount",
         "Disco Dropper"
     ],
     "trait_types": [
+        "discount",
         "dropper"
     ],
     "series": "Founder"

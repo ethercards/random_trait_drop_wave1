@@ -1,12 +1,16 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
         "Extra Limited Trait Slot",
-        "Free Ticket"
+        "5% Discount",
+        "Disco Dropper",
+        "Swap",
+        "Synthesis Ritual",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper",
+        "swap"
     ],
     "series": "OG"
 }

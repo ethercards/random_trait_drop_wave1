@@ -1,9 +1,13 @@
 {
     "traits": [
-        "10% Discount"
+        "Unicorn",
+        "Forge Protector",
+        "Synthesis Ritual",
+        "Merch",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "redeem"
     ],
     "series": "Founder"
 }

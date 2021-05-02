@@ -1,7 +1,9 @@
 {
     "traits": [
-        "Lucky Reroll"
+        "Good Company"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "drop"
+    ],
     "series": "Founder"
 }

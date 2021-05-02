@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Extra Limited Trait Slot"
+        "Forge Protector",
+        "Rando Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

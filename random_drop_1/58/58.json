@@ -1,12 +1,8 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "5% Discount"
+        "New Commons",
+        "Reroll"
     ],
-    "trait_types": [
-        "reforge",
-        "discount"
-    ],
+    "trait_types": [],
     "series": "OG"
 }

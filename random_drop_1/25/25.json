@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Unicorn",
+        "Reforge",
+        "Forge Protector",
+        "5% Discount",
+        "Glittery"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "discount"
+    ],
     "series": "OG"
 }

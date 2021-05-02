@@ -1,9 +1,12 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Merch"
     ],
     "trait_types": [
-        "dropper"
+        "discount",
+        "redeem"
     ],
     "series": "Founder"
 }

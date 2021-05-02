@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Lucky Reroll",
+        "Disco Dropper",
+        "Synthesis Ritual",
+        "New Commons"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

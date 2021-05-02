@@ -1,10 +1,14 @@
 {
     "traits": [
-        "Art Drop",
-        "5% Discount"
+        "Reforge",
+        "Free Ticket",
+        "Rando Dropper",
+        "1 UP"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

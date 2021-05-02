@@ -1,13 +1,15 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "25% Discount",
-        "Free Ticket"
+        "Unicorn",
+        "Reforge + ",
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "Alpha"
 }

@@ -1,14 +1,5 @@
 {
-    "traits": [
-        "Reforge",
-        "Alpha Upgrade",
-        "Forge Protector",
-        "Disco Dropper"
-    ],
-    "trait_types": [
-        "reforge",
-        "upgrade",
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

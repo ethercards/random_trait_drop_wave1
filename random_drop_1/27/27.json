@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Reforge + ",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "redeem"
     ],
     "series": "OG"
 }

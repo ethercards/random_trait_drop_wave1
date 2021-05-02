@@ -1,12 +1,7 @@
 {
     "traits": [
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

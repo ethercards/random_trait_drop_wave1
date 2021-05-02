@@ -1,12 +1,14 @@
 {
     "traits": [
-        "Art Drop",
-        "5% Discount",
-        "Disco Dropper"
+        "25% Discount",
+        "Free Ticket",
+        "Disco Dropper",
+        "Merch"
     ],
     "trait_types": [
         "discount",
-        "dropper"
+        "dropper",
+        "redeem"
     ],
     "series": "Founder"
 }

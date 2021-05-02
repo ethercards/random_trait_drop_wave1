@@ -1,10 +1,7 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "Rando Dropper"
+        "Reroll"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

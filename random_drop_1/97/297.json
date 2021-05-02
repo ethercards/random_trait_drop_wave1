@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reroll"
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
     "trait_types": [],
     "series": "Alpha"

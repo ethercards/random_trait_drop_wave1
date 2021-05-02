@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "Reforge",
+        "Free Ticket",
+        "Warp Rabbit",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "experimental"
     ],
     "series": "Founder"
 }

@@ -1,9 +1,11 @@
 {
     "traits": [
-        "5% Discount"
+        "Forge Protector",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
-        "discount"
+        "dropper"
     ],
     "series": "Founder"
 }

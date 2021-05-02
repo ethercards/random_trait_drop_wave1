@@ -1,13 +1,10 @@
 {
     "traits": [
-        "Reforge + ",
-        "Alpha Upgrade",
-        "Disco Dropper"
+        "Unicorn",
+        "25% Discount"
     ],
     "trait_types": [
-        "reforge",
-        "upgrade",
-        "dropper"
+        "discount"
     ],
     "series": "Founder"
 }

@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Unicorn",
-        "Rando Dropper"
+        "Forge Protector",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

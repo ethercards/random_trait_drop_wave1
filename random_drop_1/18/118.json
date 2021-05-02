@@ -1,14 +1,10 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector",
-        "10% Discount",
-        "Rando Dropper"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "True Name",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge",
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Alpha"
 }

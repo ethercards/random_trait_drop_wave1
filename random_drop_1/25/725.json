@@ -1,14 +1,11 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Art Drop",
-        "10% Discount",
+        "Reforge + ",
+        "Forge Protector",
         "Free Ticket"
     ],
     "trait_types": [
-        "reforge",
-        "discount"
+        "reforge"
     ],
     "series": "Alpha"
 }

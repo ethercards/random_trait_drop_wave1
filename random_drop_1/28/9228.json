@@ -1,9 +1,12 @@
 {
     "traits": [
-        "10% Discount"
+        "Art Drop",
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "Merch"
     ],
     "trait_types": [
-        "discount"
+        "redeem"
     ],
     "series": "Founder"
 }

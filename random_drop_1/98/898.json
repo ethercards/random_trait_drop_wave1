@@ -1,10 +1,14 @@
 {
     "traits": [
+        "Reforge",
+        "Art Drop",
+        "Redeemable",
         "Free Ticket",
-        "Rando Dropper"
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Alpha"
 }

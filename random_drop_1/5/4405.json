@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Extra Limited Trait Slot",
+        "Merch"
+    ],
+    "trait_types": [
+        "redeem"
+    ],
     "series": "Founder"
 }

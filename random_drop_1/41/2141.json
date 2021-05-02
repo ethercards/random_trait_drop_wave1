@@ -1,5 +1,10 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Alpha Upgrade",
+        "Lucky Reroll"
+    ],
+    "trait_types": [
+        "upgrade"
+    ],
     "series": "Founder"
 }

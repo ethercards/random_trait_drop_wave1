@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Forge Protector"
+        "Reforge + ",
+        "True Name",
+        "Merch"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "redeem"
     ],
     "series": "Founder"
 }

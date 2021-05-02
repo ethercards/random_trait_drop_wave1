@@ -1,8 +1,10 @@
 {
     "traits": [
-        "Forge Protector",
-        "Free Ticket"
+        "Reforge",
+        "Selective Layer Reroll"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "Founder"
 }

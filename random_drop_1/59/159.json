@@ -1,8 +1,9 @@
 {
     "traits": [
-        "Unicorn",
         "Reforge",
-        "5% Discount"
+        "10% Discount",
+        "Selective Layer Reroll",
+        "True Name"
     ],
     "trait_types": [
         "reforge",

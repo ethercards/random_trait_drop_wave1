@@ -1,9 +1,14 @@
 {
     "traits": [
-        "Unicorn",
+        "Reforge",
         "Forge Protector",
-        "Free Ticket"
+        "Free Ticket",
+        "Lucky Reroll",
+        "Disco Dropper"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "dropper"
+    ],
     "series": "Founder"
 }

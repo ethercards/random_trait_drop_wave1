@@ -3,14 +3,8 @@
         "Art Drop",
         "Extra Limited Trait Slot",
         "Forge Protector",
-        "5% Discount",
-        "Free Ticket",
-        "Lucky Reroll",
-        "Disco Dropper"
+        "New Commons"
     ],
-    "trait_types": [
-        "discount",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

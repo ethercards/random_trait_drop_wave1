@@ -1,11 +1,13 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "Disco Dropper"
+        "Forge Protector",
+        "Free Ticket",
+        "Selective Layer Reroll"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "OG"
 }

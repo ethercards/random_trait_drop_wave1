@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

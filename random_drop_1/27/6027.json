@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Disco Dropper"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "dropper"
+        "reforge",
+        "discount"
     ],
     "series": "Founder"
 }

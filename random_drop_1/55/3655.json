@@ -1,9 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "True Name"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

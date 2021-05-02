@@ -1,9 +1,14 @@
 {
     "traits": [
+        "Reforge",
         "Art Drop",
-        "Extra Limited Trait Slot",
-        "Free Ticket"
+        "New Commons",
+        "Glittery",
+        "1 UP"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge",
+        "drop"
+    ],
     "series": "Alpha"
 }

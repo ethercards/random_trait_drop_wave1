@@ -1,9 +1,13 @@
 {
     "traits": [
-        "Reforge"
+        "5% Discount",
+        "Golden Goose",
+        "Unstable"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

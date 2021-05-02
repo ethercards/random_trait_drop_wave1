@@ -1,5 +1,13 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "5% Discount",
+        "Disco Dropper",
+        "1 UP"
+    ],
+    "trait_types": [
+        "discount",
+        "dropper",
+        "drop"
+    ],
     "series": "Founder"
 }

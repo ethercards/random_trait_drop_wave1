@@ -1,12 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Art Drop",
-        "25% Discount",
-        "Disco Dropper"
+        "Forge Protector",
+        "5% Discount",
+        "Disco Dropper",
+        "True Name",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge",
         "discount",
         "dropper"
     ],

@@ -1,11 +1,13 @@
 {
     "traits": [
         "Reforge",
-        "5% Discount"
+        "10% Discount",
+        "Disco Dropper"
     ],
     "trait_types": [
         "reforge",
-        "discount"
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

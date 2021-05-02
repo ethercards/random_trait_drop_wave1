@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Reforge"
+        "Unicorn",
+        "Reforge + ",
+        "Art Drop"
     ],
     "trait_types": [
         "reforge"

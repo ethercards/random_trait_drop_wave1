@@ -1,5 +1,12 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Unicorn",
+        "Art Drop",
+        "Rando Dropper",
+        "Synthesis Ritual"
+    ],
+    "trait_types": [
+        "dropper"
+    ],
     "series": "Founder"
 }

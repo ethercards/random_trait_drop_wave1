@@ -1,6 +1,8 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Forge Protector",
+        "Disco Dropper",
+        "Synthesis Ritual"
     ],
     "trait_types": [
         "dropper"

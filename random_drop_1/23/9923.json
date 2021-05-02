@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Extra Limited Trait Slot",
-        "5% Discount"
+        "Reforge",
+        "Alpha Upgrade"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "upgrade"
     ],
     "series": "Founder"
 }

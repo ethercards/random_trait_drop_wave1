@@ -1,14 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Extra Limited Trait Slot",
-        "Free Ticket",
-        "Disco Dropper"
+        "Forge Protector",
+        "New Commons"
     ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "OG"
 }

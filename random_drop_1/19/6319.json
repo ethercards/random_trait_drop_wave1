@@ -1,5 +1,15 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Art Drop",
+        "Forge Protector",
+        "5% Discount",
+        "Gravity"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "experimental"
+    ],
     "series": "Founder"
 }

@@ -1,8 +1,14 @@
 {
     "traits": [
-        "Rando Dropper"
+        "Reforge",
+        "5% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "New Commons"
     ],
     "trait_types": [
+        "reforge",
+        "discount",
         "dropper"
     ],
     "series": "Alpha"

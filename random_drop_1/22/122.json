@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Reroll"
+        "10% Discount",
+        "Synthesis Ritual"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "discount"
+    ],
     "series": "Alpha"
 }

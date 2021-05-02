@@ -1,10 +1,11 @@
 {
     "traits": [
-        "Lucky Reroll",
-        "Disco Dropper"
+        "Reforge",
+        "Art Drop",
+        "Forge Protector"
     ],
     "trait_types": [
-        "dropper"
+        "reforge"
     ],
     "series": "Founder"
 }

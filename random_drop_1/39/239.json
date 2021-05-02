@@ -1,7 +1,10 @@
 {
     "traits": [
-        "Unicorn",
-        "Rando Dropper"
+        "Extra Limited Trait Slot",
+        "Forge Protector",
+        "Free Ticket",
+        "Disco Dropper",
+        "New Commons"
     ],
     "trait_types": [
         "dropper"

@@ -1,5 +1,15 @@
 {
-    "traits": [],
-    "trait_types": [],
+    "traits": [
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Disco Dropper",
+        "Selective Layer Reroll"
+    ],
+    "trait_types": [
+        "reforge",
+        "discount",
+        "dropper"
+    ],
     "series": "Founder"
 }

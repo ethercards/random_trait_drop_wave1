@@ -1,6 +1,8 @@
 {
     "traits": [
-        "5% Discount"
+        "25% Discount",
+        "Free Ticket",
+        "New Commons"
     ],
     "trait_types": [
         "discount"

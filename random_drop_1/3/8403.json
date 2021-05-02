@@ -1,10 +1,9 @@
 {
     "traits": [
-        "Reforge",
-        "Free Ticket"
+        "Art Drop",
+        "Free Ticket",
+        "Synthesis Ritual"
     ],
-    "trait_types": [
-        "reforge"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

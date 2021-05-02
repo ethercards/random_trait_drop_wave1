@@ -1,11 +1,7 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "Disco Dropper"
+        "New Commons"
     ],
-    "trait_types": [
-        "dropper"
-    ],
+    "trait_types": [],
     "series": "Founder"
 }

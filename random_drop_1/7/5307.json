@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Unicorn",
+        "Lucky Reroll",
+        "Synthesis Ritual"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

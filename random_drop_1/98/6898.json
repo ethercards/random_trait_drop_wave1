@@ -1,10 +1,12 @@
 {
     "traits": [
-        "Reforge",
-        "Forge Protector"
+        "Rando Dropper",
+        "Unstable",
+        "Synthesis Ritual"
     ],
     "trait_types": [
-        "reforge"
+        "dropper",
+        "experimental"
     ],
     "series": "Founder"
 }

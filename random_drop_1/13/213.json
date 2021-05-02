@@ -1,12 +1,15 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
         "Art Drop",
-        "Forge Protector"
+        "Extra Limited Trait Slot",
+        "5% Discount",
+        "Disco Dropper",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "dropper",
+        "drop"
     ],
     "series": "Alpha"
 }

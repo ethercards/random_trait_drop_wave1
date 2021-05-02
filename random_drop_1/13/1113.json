@@ -1,9 +1,14 @@
 {
     "traits": [
-        "50% Discount"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "10% Discount",
+        "Rando Dropper"
     ],
     "trait_types": [
-        "discount"
+        "reforge",
+        "discount",
+        "dropper"
     ],
     "series": "Founder"
 }

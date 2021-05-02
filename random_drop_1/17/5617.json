@@ -1,5 +1,9 @@
 {
-    "traits": [],
+    "traits": [
+        "Art Drop",
+        "Extra Limited Trait Slot",
+        "Selective Layer Reroll"
+    ],
     "trait_types": [],
     "series": "Founder"
 }

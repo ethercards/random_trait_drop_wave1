@@ -1,9 +1,11 @@
 {
     "traits": [
-        "Reforge"
+        "10% Discount",
+        "Good Company"
     ],
     "trait_types": [
-        "reforge"
+        "discount",
+        "drop"
     ],
     "series": "Alpha"
 }

@@ -1,11 +1,11 @@
 {
     "traits": [
-        "Art Drop",
-        "Forge Protector",
-        "5% Discount"
+        "Alpha Upgrade",
+        "Unstable"
     ],
     "trait_types": [
-        "discount"
+        "upgrade",
+        "experimental"
     ],
     "series": "Founder"
 }

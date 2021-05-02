@@ -1,7 +1,6 @@
 {
     "traits": [
-        "Art Drop",
-        "Disco Dropper"
+        "Rando Dropper"
     ],
     "trait_types": [
         "dropper"

@@ -1,8 +1,8 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge",
-        "Forge Protector"
+        "Reforge + ",
+        "Art Drop",
+        "Extra Limited Trait Slot"
     ],
     "trait_types": [
         "reforge"

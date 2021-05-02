@@ -1,8 +1,13 @@
 {
     "traits": [
+        "Reforge + ",
+        "Extra Limited Trait Slot",
         "Forge Protector",
-        "Reroll"
+        "Free Ticket",
+        "New Commons"
     ],
-    "trait_types": [],
+    "trait_types": [
+        "reforge"
+    ],
     "series": "OG"
 }

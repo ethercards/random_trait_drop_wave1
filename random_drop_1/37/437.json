@@ -1,10 +1,13 @@
 {
     "traits": [
-        "Unicorn",
-        "Reforge"
+        "Reforge",
+        "10% Discount",
+        "1 UP"
     ],
     "trait_types": [
-        "reforge"
+        "reforge",
+        "discount",
+        "drop"
     ],
     "series": "Alpha"
 }

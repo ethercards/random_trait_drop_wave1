@@ -1,11 +1,12 @@
 {
     "traits": [
-        "Reforge + ",
-        "Free Ticket",
-        "Disco Dropper"
+        "Extra Limited Trait Slot",
+        "Disco Dropper",
+        "Selective Layer Reroll",
+        "True Name",
+        "New Commons"
     ],
     "trait_types": [
-        "reforge",
         "dropper"
     ],
     "series": "Founder"

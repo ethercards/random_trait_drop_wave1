@@ -1,10 +1,11 @@
 {
     "traits": [
-        "10% Discount",
-        "Reroll"
+        "Reforge",
+        "Extra Limited Trait Slot",
+        "Forge Protector"
     ],
     "trait_types": [
-        "discount"
+        "reforge"
     ],
     "series": "OG"
 }

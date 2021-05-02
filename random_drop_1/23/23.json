@@ -1,7 +1,10 @@
 {
     "traits": [
         "Unicorn",
-        "Reroll"
+        "Free Ticket",
+        "Selective Layer Reroll",
+        "True Name",
+        "Glittery"
     ],
     "trait_types": [],
     "series": "OG"

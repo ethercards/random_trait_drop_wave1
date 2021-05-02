@@ -1,12 +1,5 @@
 {
-    "traits": [
-        "Unicorn",
-        "Reforge",
-        "Disco Dropper"
-    ],
-    "trait_types": [
-        "reforge",
-        "dropper"
-    ],
+    "traits": [],
+    "trait_types": [],
     "series": "Founder"
 }

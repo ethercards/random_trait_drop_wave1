@@ -1,9 +1,8 @@
 {
     "traits": [
         "Reforge",
-        "Forge Protector",
-        "5% Discount",
-        "Free Ticket"
+        "25% Discount",
+        "Lucky Reroll"
     ],
     "trait_types": [
         "reforge",
