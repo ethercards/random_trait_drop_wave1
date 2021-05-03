@@ -7,7 +7,7 @@ import csv
 # important variables
 test_new_traits_folder = "random_drop_1"     # this is where the calculated new random traits sit
 results_folder         = "results"           # the new metadata goes here
-traitsi_file           = "random_traits.csv" # document with trait names and descriptions
+traits_file           = "random_traits.csv" # document with trait names and descriptions
 
 rando = ""
 
@@ -23,8 +23,10 @@ def load_traits():
             trait["name"]               = t[0]
             trait["card_type"]          = t[1]
             trait["trait_type"]         = t[2]
-            trait["max_issuance"]       = int(t[3])
-            trait["description"]        = t[4]
+            trait["id"]                 = int(t[3])
+            trait["max_issuance"]       = int(t[4])
+            trait["filename"]           = t[5]
+            trait["description"]        = t[6]
             traits[trait["name"]] = trait
 
     return traits
@@ -72,33 +74,42 @@ def allocate_drop():
     for i in range(10,10000):
         print("card",i)
         print("")
-        # create subfolder if needed
-        subfolder = os.path.join(results_folder,(str(i % 100)))
-        if not os.path.exists(subfolder):
-            os.makedirs(subfolder)
     
         # load existing metadata
         metadata_url = ec.functions.tokenURI(i).call()
         metadata = json.loads(requests.get(metadata_url).text)
-        print("metadata:")
-        print(metadata)
-        print("")
-        
+
+        # add accepted
+        for j in range(len(metadata["traits"])):
+            metadata["traits"][j]["accepted"] = "true"
+
         # load new traits
         print("new traits:")
         nt = load_new_traits(i)
-        print("----------------------")
-        print(nt)
-        print("----------------------")
         new_traits = nt["traits"]
        
         # loop through new traits and find descriptions
         for t in new_traits:
             print("trait name:",t)
-            print(traits[t])
-        # merge
+            n = {}
+            n["name"]        = traits[t]["name"]
+            n["description"] = traits[t]["description"]
+            n["id"]          = traits[t]["id"]
+            n["icon"]        = traits[t]["filename"] + ".png"
+            n["accepted"]    = "false"
+            metadata["traits"].append(n)
     
         # save merged metadata
+        # create subfolder if needed
+        subfolder = os.path.join(results_folder,(str(i % 100)))
+        if not os.path.exists(subfolder):
+            os.makedirs(subfolder)
+       
+        filename = os.path.join(subfolder,(str(i % 100)+".json"))
+        with open(filename, "w") as write_file:
+            json.dump(metadata, write_file, indent=4)
+
+        print("written",filename)
         print("==================================")
         
 allocate_drop()
