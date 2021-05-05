@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7566,
+    "name": "Ether Cards Founder Series, ID:7566",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7566",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/c2/41c20302d5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Lucky Reroll",
+            "description": "This card can use reroll and have the same chances as an OG card to get random traits",
+            "id": 115,
+            "icon": "luckyreroll.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Fluid",
+            "description": "Card is able to reroll layers (and maybe traits) once a month",
+            "id": 118,
+            "icon": "fluid.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Gergo Kovacs",
+        "ORDO",
+        "common",
+        "common",
+        "Dirty Robot"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/c2/41c20302d5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

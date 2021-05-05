@@ -1,0 +1,50 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9183,
+    "name": "Ether Cards Founder Series, ID:9183",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9183",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/01/e101534415.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Free Ticket",
+            "description": "One time free ticket to any participating raffle",
+            "id": 114,
+            "icon": "freeticket.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Vizie",
+        "common",
+        "Eskalexia Baws",
+        "Gergo Kovacs",
+        "Zsuzsanna Tasi"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/01/e101534415.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

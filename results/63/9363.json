@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9363,
+    "name": "Ether Cards Founder Series, ID:9363",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9363",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/01/82/0182056415.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Pixoloid",
+        "common",
+        "David Szabo",
+        "Zsuzsanna Tasi"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/01/82/0182056415.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

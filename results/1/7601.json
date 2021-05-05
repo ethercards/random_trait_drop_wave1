@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7601,
+    "name": "Ether Cards Founder Series, ID:7601",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7601",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/51/03/5103133405.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Selective Layer Reroll",
+            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
+            "id": 119,
+            "icon": "selectivereroll.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Eskalexia Baws",
+        "common",
+        "Zsuzsanna Tasi",
+        "Mihaly Szemeti",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/51/03/5103133405.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

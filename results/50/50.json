@@ -2,24 +2,83 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9950,
-    "name": "Ether Cards Founder Series, ID:9950",
+    "id": 50,
+    "name": "Ether Cards Founder Series, Type: OG, ID:50",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9950",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/05/62/0562b30265.jpg",
+    "external_url": "https://explorer.ether.cards/founder/50",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/5/card/protection.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
             "description": "A Limited Trait Slot for one of the Fundamental Traits",
             "id": 2,
             "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
             "accepted": "true"
         },
         {
@@ -30,21 +89,46 @@
             "accepted": "false"
         },
         {
-            "name": "Forge Protector",
-            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
-            "id": 109,
-            "icon": "forgeprotector.png",
+            "name": "Selective Layer Reroll",
+            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
+            "id": 119,
+            "icon": "selectivereroll.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Golden Goose",
+            "description": "this trait will drop a mystery bag for free every time Ether Cards holds a Mystery Bag event.",
+            "id": 121,
+            "icon": "goose.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Glittery",
+            "description": "glitter layer or animated layer added to the existing ether card - currently we have all static layer so may be a glittery or animated layers can be added as a special trait - during competitions or to the winners in the competitions",
+            "id": 130,
+            "icon": "glittery.png",
             "accepted": "false"
         }
     ],
     "layer_artists": [
-        "common",
+        "Laszlo Ujvarosi",
+        "Vizie",
+        "ORDO",
         "David Szabo",
-        "Edvin Avdagic",
-        "common",
-        "David Szabo"
+        "Vizie"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/05/62/0562b30265.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/21/e2/21e2c364e5.jpg",
+    "artist": "Zsolt Kosa",
+    "title": "Protection",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/5/protection.jpg"
 }

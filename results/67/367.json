@@ -1,0 +1,85 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Alpha"
+        }
+    ],
+    "id": 367,
+    "name": "Ether Cards Founder Series, Type: Alpha, ID:367",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/367",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/14/card/gaspargombos-15-finding-alf.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Layer Drop",
+            "description": "5 extra 5-layer Accidental Collaboration Art",
+            "id": 1,
+            "icon": "alphalayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reroll",
+            "description": "Standard reroll. Applied on OGs and Alphas if it didn't get enough random traits naturally.",
+            "id": 133,
+            "icon": "reroll.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Zsuzsanna Tasi",
+        "Dirty Robot",
+        "David Szabo",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/04/12/0412d36403.jpg",
+    "artist": "Gaspar Gombos",
+    "title": "Finding Alf",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/14/gaspargombos-15-finding-alf.jpg"
+}

@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 9
+        }
+    ],
+    "id": 8188,
+    "name": "Ether Cards Founder Series, ID:8188",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/8188",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/31/22/3122012408.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Free Ticket",
+            "description": "One time free ticket to any participating raffle",
+            "id": 114,
+            "icon": "freeticket.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Mihaly Szemeti",
+        "Laszlo Ujvarosi",
+        "common",
+        "Laszlo Ujvarosi",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/31/22/3122012408.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

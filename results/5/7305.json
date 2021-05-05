@@ -1,0 +1,50 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7305,
+    "name": "Ether Cards Founder Series, ID:7305",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7305",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/02/e102136495.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Vizie",
+        "common",
+        "Zsuzsanna Tasi",
+        "David Szabo",
+        "Zsolt Kosa"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/02/e102136495.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

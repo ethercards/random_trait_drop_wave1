@@ -2,18 +2,14 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9955,
-    "name": "Ether Cards Founder Series, ID:9955",
+    "id": 55,
+    "name": "Ether Cards Founder Series, Type: OG, ID:55",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9955",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/62/e162831435.jpg",
+    "external_url": "https://explorer.ether.cards/founder/55",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/63/card/goodboy-with-the-roach.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
@@ -23,28 +19,110 @@
             "accepted": "true"
         },
         {
-            "name": "Reforge",
-            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
-            "id": 102,
-            "icon": "reforge.png",
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Extra Limited Trait Slot",
+            "description": "Gain an extra limited trait slot on this card",
+            "id": 108,
+            "icon": "extraslot.png",
             "accepted": "false"
         },
         {
-            "name": "Synthesis Ritual",
-            "description": "Uses the grid to create a forgeable layer set. Details later.",
-            "id": 126,
-            "icon": "sythesis.png",
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Free Ticket",
+            "description": "One time free ticket to any participating raffle",
+            "id": 114,
+            "icon": "freeticket.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
             "accepted": "false"
         }
     ],
     "layer_artists": [
-        "Vizie",
-        "David Szabo",
         "Pixoloid",
-        "Zsuzsanna Tasi",
-        "Mihaly Szemeti"
+        "common",
+        "Agnes Szabo",
+        "David Szabo",
+        "Dirty Robot"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/62/e162831435.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/81/02/8102a364d5.jpg",
+    "artist": "Dean Krupka",
+    "title": "GoodBoy with the Roach",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/63/goodboy-with-the-roach.mp4",
+    "animation_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/63/goodboy-with-the-roach.mp4"
 }

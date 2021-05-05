@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7239,
+    "name": "Ether Cards Founder Series, ID:7239",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7239",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/d1/02/d10213e4c5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Synthesis Ritual",
+            "description": "Uses the grid to create a forgeable layer set. Details later.",
+            "id": 126,
+            "icon": "sythesis.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Dirty Robot",
+        "common",
+        "Zsuzsanna Tasi",
+        "Vizie",
+        "ORDO"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/d1/02/d10213e4c5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

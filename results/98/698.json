@@ -1,0 +1,93 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Alpha"
+        }
+    ],
+    "id": 698,
+    "name": "Ether Cards Founder Series, Type: Alpha, ID:698",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/698",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/44/card/anecte-zwei-schatten-apostle-of-the-song.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Layer Drop",
+            "description": "5 extra 5-layer Accidental Collaboration Art",
+            "id": 1,
+            "icon": "alphalayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge + ",
+            "description": "Reforges selected layers & can guarantee a non-common layer",
+            "id": 103,
+            "icon": "reforgeplus.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Rando Dropper",
+            "description": "Drops a random common Trait to the card. Replaces it once a month. Can burn the Rando Trait to keep the Trait.",
+            "id": 116,
+            "icon": "randodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Selective Layer Reroll",
+            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
+            "id": 119,
+            "icon": "selectivereroll.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Synthesis Ritual",
+            "description": "Uses the grid to create a forgeable layer set. Details later.",
+            "id": 126,
+            "icon": "sythesis.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Gergo Kovacs",
+        "Zsuzsanna Tasi",
+        "Zsolt Kosa",
+        "Laszlo Ujvarosi",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/12/4112932402.jpg",
+    "artist": "Eskalexia Bawks",
+    "title": "Anecte Zwei-Schatten, Apostle of the Song",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/44/anecte-zwei-schatten-apostle-of-the-song.mp4",
+    "animation_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/44/anecte-zwei-schatten-apostle-of-the-song.mp4"
+}

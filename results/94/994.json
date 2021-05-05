@@ -1,0 +1,78 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Alpha"
+        }
+    ],
+    "id": 994,
+    "name": "Ether Cards Founder Series, Type: Alpha, ID:994",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/994",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/10/card/girl-of-autumn-twilight.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Layer Drop",
+            "description": "5 extra 5-layer Accidental Collaboration Art",
+            "id": 1,
+            "icon": "alphalayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Extra Limited Trait Slot",
+            "description": "Gain an extra limited trait slot on this card",
+            "id": 108,
+            "icon": "extraslot.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Vizie",
+        "Pixoloid",
+        "Vizie",
+        "Eskalexia Baws"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/01/e2/01e283e455.jpg",
+    "artist": "George Boya",
+    "title": "Girl of Autumn Twilight",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/10/girl-of-autumn-twilight.jpg"
+}

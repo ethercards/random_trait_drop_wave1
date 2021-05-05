@@ -1,0 +1,99 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Alpha"
+        }
+    ],
+    "id": 373,
+    "name": "Ether Cards Founder Series, Type: Alpha, ID:373",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/373",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/5/card/reptile.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Layer Drop",
+            "description": "5 extra 5-layer Accidental Collaboration Art",
+            "id": 1,
+            "icon": "alphalayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Art Drop",
+            "description": "To receive free art drops from artists",
+            "id": 104,
+            "icon": "artdrop.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Extra Limited Trait Slot",
+            "description": "Gain an extra limited trait slot on this card",
+            "id": 108,
+            "icon": "extraslot.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Agnes Szabo",
+        "David Szabo",
+        "Laszlo Ujvarosi",
+        "Dirty Robot",
+        "Vizie"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/a1/62/a16223d4e5.jpg",
+    "artist": "Zsolt Kosa",
+    "title": "Reptile",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/5/reptile.png"
+}

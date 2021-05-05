@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 7
+        }
+    ],
+    "id": 6466,
+    "name": "Ether Cards Founder Series, ID:6466",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/6466",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/61/92/6192038404.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "10% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 112,
+            "icon": "discount10.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "David Szabo",
+        "Zsolt Kosa",
+        "common",
+        "Pixoloid",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/61/92/6192038404.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

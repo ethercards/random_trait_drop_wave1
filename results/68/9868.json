@@ -1,0 +1,64 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9868,
+    "name": "Ether Cards Founder Series, ID:9868",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9868",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/0b/82/0b82a3a485.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Unicorn",
+            "description": "Vanity Trait (for now)",
+            "id": 101,
+            "icon": "unicorn.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Rando Dropper",
+            "description": "Drops a random common Trait to the card. Replaces it once a month. Can burn the Rando Trait to keep the Trait.",
+            "id": 116,
+            "icon": "randodropper.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Pixoloid",
+        "Agnes Szabo",
+        "Agnes Szabo",
+        "Pixoloid"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/0b/82/0b82a3a485.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

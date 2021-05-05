@@ -1,0 +1,72 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Alpha"
+        }
+    ],
+    "id": 884,
+    "name": "Ether Cards Founder Series, Type: Alpha, ID:884",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/884",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/62/card/momentsofclarity-003.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Layer Drop",
+            "description": "5 extra 5-layer Accidental Collaboration Art",
+            "id": 1,
+            "icon": "alphalayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Glittery",
+            "description": "glitter layer or animated layer added to the existing ether card - currently we have all static layer so may be a glittery or animated layers can be added as a special trait - during competitions or to the winners in the competitions",
+            "id": 130,
+            "icon": "glittery.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Zsolt Kosa",
+        "Zsuzsanna Tasi",
+        "common",
+        "Eskalexia Baws",
+        "Eskalexia Baws"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/91/12/9112025455.jpg",
+    "artist": "Daniel Quintana",
+    "title": "Moments Of Clarity 003",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/62/momentsofclarity-003.mp4",
+    "animation_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/62/momentsofclarity-003.mp4"
+}

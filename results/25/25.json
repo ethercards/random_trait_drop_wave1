@@ -2,18 +2,14 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9925,
-    "name": "Ether Cards Founder Series, ID:9925",
+    "id": 25,
+    "name": "Ether Cards Founder Series, Type: OG, ID:25",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9925",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/03/82/0382a31465.jpg",
+    "external_url": "https://explorer.ether.cards/founder/25",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/18/card/eth-cards-jadedpeach.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
@@ -23,28 +19,96 @@
             "accepted": "true"
         },
         {
-            "name": "Selective Layer Reroll",
-            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
-            "id": 119,
-            "icon": "selectivereroll.png",
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
             "accepted": "false"
         },
         {
-            "name": "Synthesis Ritual",
-            "description": "Uses the grid to create a forgeable layer set. Details later.",
-            "id": 126,
-            "icon": "sythesis.png",
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
             "accepted": "false"
         }
     ],
     "layer_artists": [
         "common",
-        "Pixoloid",
-        "Agnes Szabo",
-        "Zsuzsanna Tasi",
-        "David Szabo"
+        "common",
+        "ORDO",
+        "Zsolt Kosa",
+        "common"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/03/82/0382a31465.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/0b/01/0b01c39405.jpg",
+    "artist": "Jakub Spacek",
+    "title": "Jaded Peach",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/18/eth-cards-jadedpeach.mp4",
+    "animation_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/18/eth-cards-jadedpeach.mp4"
 }

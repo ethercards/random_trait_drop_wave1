@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9345,
+    "name": "Ether Cards Founder Series, ID:9345",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9345",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/02/e2/02e2a30165.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Vizie",
+        "Agnes Szabo",
+        "common",
+        "David Szabo"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/02/e2/02e2a30165.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

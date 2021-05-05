@@ -1,0 +1,71 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7034,
+    "name": "Ether Cards Founder Series, ID:7034",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7034",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/08/82/0882834445.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Art Drop",
+            "description": "To receive free art drops from artists",
+            "id": 104,
+            "icon": "artdrop.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Selective Layer Reroll",
+            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
+            "id": 119,
+            "icon": "selectivereroll.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
+            "accepted": "false"
+        },
+        {
+            "name": "1 UP",
+            "description": "once you burn this trait you get an extra Life to use in Royal or Punks battle",
+            "id": 131,
+            "icon": "1up.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Pixoloid",
+        "Pixoloid",
+        "Gergo Kovacs",
+        "Gergo Kovacs"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/08/82/0882834445.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

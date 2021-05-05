@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 7
+        }
+    ],
+    "id": 6296,
+    "name": "Ether Cards Founder Series, ID:6296",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/6296",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/01/d2/01d2d364d5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Free Ticket",
+            "description": "One time free ticket to any participating raffle",
+            "id": 114,
+            "icon": "freeticket.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Unstable",
+            "description": "Each time the card is traded on Open Sea (or changes wallets) a random trait changes to a random trait",
+            "id": 123,
+            "icon": "unstable.png",
+            "accepted": "false"
+        },
+        {
+            "name": "True Name",
+            "description": "Enables the holders of this trait to name their Ether.Cards/Accidental Collabs",
+            "id": 124,
+            "icon": "truename.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Dirty Robot",
+        "Dirty Robot",
+        "David Szabo",
+        "Dirty Robot"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/01/d2/01d2d364d5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

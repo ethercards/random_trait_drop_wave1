@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7936,
+    "name": "Ether Cards Founder Series, ID:7936",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7936",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/02/92/0292935403.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Glittery",
+            "description": "glitter layer or animated layer added to the existing ether card - currently we have all static layer so may be a glittery or animated layers can be added as a special trait - during competitions or to the winners in the competitions",
+            "id": 130,
+            "icon": "glittery.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Zsolt Kosa",
+        "Zsolt Kosa",
+        "Eskalexia Baws",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/02/92/0292935403.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

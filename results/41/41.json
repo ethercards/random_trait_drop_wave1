@@ -2,18 +2,14 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9941,
-    "name": "Ether Cards Founder Series, ID:9941",
+    "id": 41,
+    "name": "Ether Cards Founder Series, Type: OG, ID:41",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9941",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/81/62/8162085415.jpg",
+    "external_url": "https://explorer.ether.cards/founder/41",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/16/card/zsoltszabados-08-illegal-refugees.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
@@ -23,21 +19,116 @@
             "accepted": "true"
         },
         {
-            "name": "5% Discount",
-            "description": "One time discount, max 1 ETH value",
-            "id": 113,
-            "icon": "discount5.png",
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Selective Layer Reroll",
+            "description": "This trait rerolls the selected layers on your card. (Maybe with a higher chance of rerolling into the artist of your unique artwork (if Alpha or OG)). The trait is burned when used.",
+            "id": 119,
+            "icon": "selectivereroll.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Unstable",
+            "description": "Each time the card is traded on Open Sea (or changes wallets) a random trait changes to a random trait",
+            "id": 123,
+            "icon": "unstable.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
             "accepted": "false"
         }
     ],
     "layer_artists": [
-        "Pixoloid",
-        "David Szabo",
+        "Edvin Avdagic",
+        "Zsolt Kosa",
         "common",
-        "Eskalexia Baws",
-        "Zsuzsanna Tasi"
+        "Edvin Avdagic",
+        "common"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/81/62/8162085415.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/b1/92/b19206b408.jpg",
+    "artist": "Zsolt Szabados",
+    "title": "Illegal Refugees",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/16/zsoltszabados-08-illegal-refugees.jpg"
 }

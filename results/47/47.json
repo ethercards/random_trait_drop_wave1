@@ -2,18 +2,14 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9947,
-    "name": "Ether Cards Founder Series, ID:9947",
+    "id": 47,
+    "name": "Ether Cards Founder Series, Type: OG, ID:47",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9947",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/06/92/0692b36445.jpg",
+    "external_url": "https://explorer.ether.cards/founder/47",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/65/card/empress-1-final.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
@@ -23,21 +19,103 @@
             "accepted": "true"
         },
         {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
+            "accepted": "true"
+        },
+        {
             "name": "Forge Protector",
             "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
             "id": 109,
             "icon": "forgeprotector.png",
             "accepted": "false"
+        },
+        {
+            "name": "10% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 112,
+            "icon": "discount10.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Synthesis Ritual",
+            "description": "Uses the grid to create a forgeable layer set. Details later.",
+            "id": 126,
+            "icon": "sythesis.png",
+            "accepted": "false"
         }
     ],
     "layer_artists": [
         "common",
-        "Zsolt Kosa",
-        "Edvin Avdagic",
+        "Pixoloid",
         "David Szabo",
-        "Gergo Kovacs"
+        "David Szabo",
+        "common"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/06/92/0692b36445.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/06/82/0682636406.jpg",
+    "artist": "Nusi Quero",
+    "title": "Empress 1",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/65/empress-1-final.mp4",
+    "animation_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/65/empress-1-final.mp4"
 }

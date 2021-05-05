@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9774,
+    "name": "Ether Cards Founder Series, ID:9774",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9774",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/12/e1120424a5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Unicorn",
+            "description": "Vanity Trait (for now)",
+            "id": 101,
+            "icon": "unicorn.png",
+            "accepted": "false"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Synthesis Ritual",
+            "description": "Uses the grid to create a forgeable layer set. Details later.",
+            "id": 126,
+            "icon": "sythesis.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Vizie",
+        "Zsuzsanna Tasi",
+        "common",
+        "Laszlo Ujvarosi",
+        "Agnes Szabo"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/12/e1120424a5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

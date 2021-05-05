@@ -1,0 +1,50 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 8
+        }
+    ],
+    "id": 7556,
+    "name": "Ether Cards Founder Series, ID:7556",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/7556",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/07/e2/07e2040285.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Synthesis Ritual",
+            "description": "Uses the grid to create a forgeable layer set. Details later.",
+            "id": 126,
+            "icon": "sythesis.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "common",
+        "Vizie",
+        "common",
+        "common",
+        "Pixoloid"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/07/e2/07e2040285.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

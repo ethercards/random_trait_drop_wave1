@@ -2,18 +2,14 @@
     "attributes": [
         {
             "trait_type": "series",
-            "value": "Founder"
-        },
-        {
-            "trait_type": "subseries",
-            "value": 10
+            "value": "OG"
         }
     ],
-    "id": 9991,
-    "name": "Ether Cards Founder Series, ID:9991",
+    "id": 91,
+    "name": "Ether Cards Founder Series, Type: OG, ID:91",
     "description": "Ether Cards Founder Series First Edition Card",
-    "external_url": "https://explorer.ether.cards/founder/9991",
-    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/21/b2/21b20524a5.jpg",
+    "external_url": "https://explorer.ether.cards/founder/91",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/7/card/sunset-patrol-hd-print-logo.jpg",
     "traits": [
         {
             "name": "Limited Trait Slot",
@@ -23,10 +19,80 @@
             "accepted": "true"
         },
         {
-            "name": "Forge Protector",
-            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
-            "id": 109,
-            "icon": "forgeprotector.png",
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Punk Battle Royale Ticket",
+            "description": "An entry ticket for the Punk Battle Royale event",
+            "id": 3,
+            "icon": "punkbattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Royalty Battle Ticket",
+            "description": "An entry ticket for the Royalty Battle event",
+            "id": 4,
+            "icon": "royaltybattle.png",
+            "accepted": "true"
+        },
+        {
+            "name": "OG Layer Drop",
+            "description": "25 extra 5-layer Accidental Collaboration Art",
+            "id": 0,
+            "icon": "oglayers.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge",
+            "description": "One time ability to re-randomize any (or all) selected layers in the main accidental art image of the card",
+            "id": 102,
+            "icon": "reforge.png",
+            "accepted": "false"
+        },
+        {
+            "name": "10% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 112,
+            "icon": "discount10.png",
             "accepted": "false"
         },
         {
@@ -35,23 +101,20 @@
             "id": 114,
             "icon": "freeticket.png",
             "accepted": "false"
-        },
-        {
-            "name": "Disco Dropper",
-            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
-            "id": 117,
-            "icon": "discodropper.png",
-            "accepted": "false"
         }
     ],
     "layer_artists": [
-        "Laszlo Ujvarosi",
-        "Edvin Avdagic",
         "common",
-        "Laszlo Ujvarosi",
-        "Agnes Szabo"
+        "Zsolt Kosa",
+        "common",
+        "common",
+        "common"
     ],
-    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/21/b2/21b20524a5.jpg",
-    "artist": "various",
-    "title": "Accidental Collaboration"
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/0b/92/0b92040108.jpg",
+    "artist": "David Szabo",
+    "title": "Sunset Patrol",
+    "properties": [
+        ""
+    ],
+    "original_art_url": "https://ether-cards.mypinata.cloud/ipfs/QmSSJqd9RBjtCSVgBb1x4kg37aD7jfH4n4A6qUD5JwDWin/7/sunset-patrol-hd-print-logo.jpg"
 }

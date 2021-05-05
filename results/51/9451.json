@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9451,
+    "name": "Ether Cards Founder Series, ID:9451",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9451",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/62/4162060207.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Forge Protector",
+            "description": "One-time protection against the forge. This card will not get destroyed when used in the forge. ",
+            "id": 109,
+            "icon": "forgeprotector.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Glittery",
+            "description": "glitter layer or animated layer added to the existing ether card - currently we have all static layer so may be a glittery or animated layers can be added as a special trait - during competitions or to the winners in the competitions",
+            "id": 130,
+            "icon": "glittery.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Gergo Kovacs",
+        "David Szabo",
+        "common",
+        "common",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/62/4162060207.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

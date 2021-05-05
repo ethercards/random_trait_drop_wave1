@@ -1,0 +1,71 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9548,
+    "name": "Ether Cards Founder Series, ID:9548",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9548",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/11/02/1102b3a4d5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Upgrade",
+            "description": "Replace this card with an Alpha card from Ethercard\u2019s vault (replacement card is chosen by Ethercards)",
+            "id": 106,
+            "icon": "alphaupgrade.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Extra Limited Trait Slot",
+            "description": "Gain an extra limited trait slot on this card",
+            "id": 108,
+            "icon": "extraslot.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "New Commons",
+            "description": "Rerolls only common layers, maybe allowing you to choose of one of two choices for each.",
+            "id": 129,
+            "icon": "newcommons.png",
+            "accepted": "false"
+        },
+        {
+            "name": "1 UP",
+            "description": "once you burn this trait you get an extra Life to use in Royal or Punks battle",
+            "id": 131,
+            "icon": "1up.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Zsuzsanna Tasi",
+        "common",
+        "Edvin Avdagic",
+        "Agnes Szabo",
+        "Dirty Robot"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/11/02/1102b3a4d5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

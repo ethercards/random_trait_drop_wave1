@@ -1,0 +1,50 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 9
+        }
+    ],
+    "id": 8145,
+    "name": "Ether Cards Founder Series, ID:8145",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/8145",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/d1/12/d11206a425.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Reforge + ",
+            "description": "Reforges selected layers & can guarantee a non-common layer",
+            "id": 103,
+            "icon": "reforgeplus.png",
+            "accepted": "false"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Dirty Robot",
+        "Zsuzsanna Tasi",
+        "common",
+        "Agnes Szabo",
+        "Laszlo Ujvarosi"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/d1/12/d11206a425.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

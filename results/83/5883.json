@@ -1,0 +1,50 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 6
+        }
+    ],
+    "id": 5883,
+    "name": "Ether Cards Founder Series, ID:5883",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/5883",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/82/e182930205.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "5% Discount",
+            "description": "One time discount, max 1 ETH value",
+            "id": 113,
+            "icon": "discount5.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Rando Dropper",
+            "description": "Drops a random common Trait to the card. Replaces it once a month. Can burn the Rando Trait to keep the Trait.",
+            "id": 116,
+            "icon": "randodropper.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Vizie",
+        "Pixoloid",
+        "Zsolt Kosa",
+        "common",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/e1/82/e182930205.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

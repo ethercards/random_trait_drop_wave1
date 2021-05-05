@@ -1,0 +1,36 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 9
+        }
+    ],
+    "id": 8551,
+    "name": "Ether Cards Founder Series, ID:8551",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/8551",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/b1/02/b102a31404.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        }
+    ],
+    "layer_artists": [
+        "Edvin Avdagic",
+        "common",
+        "Agnes Szabo",
+        "Zsuzsanna Tasi",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/b1/02/b102a31404.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

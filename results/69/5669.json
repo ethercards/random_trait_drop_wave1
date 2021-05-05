@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 6
+        }
+    ],
+    "id": 5669,
+    "name": "Ether Cards Founder Series, ID:5669",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/5669",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/11/12/1112076403.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Alpha Upgrade",
+            "description": "Replace this card with an Alpha card from Ethercard\u2019s vault (replacement card is chosen by Ethercards)",
+            "id": 106,
+            "icon": "alphaupgrade.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Zsuzsanna Tasi",
+        "Zsuzsanna Tasi",
+        "common",
+        "David Szabo",
+        "common"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/11/12/1112076403.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

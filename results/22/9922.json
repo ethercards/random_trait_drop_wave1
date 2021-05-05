@@ -1,0 +1,57 @@
+{
+    "attributes": [
+        {
+            "trait_type": "series",
+            "value": "Founder"
+        },
+        {
+            "trait_type": "subseries",
+            "value": 10
+        }
+    ],
+    "id": 9922,
+    "name": "Ether Cards Founder Series, ID:9922",
+    "description": "Ether Cards Founder Series First Edition Card",
+    "external_url": "https://explorer.ether.cards/founder/9922",
+    "image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/92/41921364e5.jpg",
+    "traits": [
+        {
+            "name": "Limited Trait Slot",
+            "description": "A Limited Trait Slot for one of the Fundamental Traits",
+            "id": 2,
+            "icon": "slots.png",
+            "accepted": "true"
+        },
+        {
+            "name": "Free Ticket",
+            "description": "One time free ticket to any participating raffle",
+            "id": 114,
+            "icon": "freeticket.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Disco Dropper",
+            "description": "Drops a random common Discount to the card. Replaces it once a month. Can burn the Disco Dropper Trait to keep the Trait.",
+            "id": 117,
+            "icon": "discodropper.png",
+            "accepted": "false"
+        },
+        {
+            "name": "Glittery",
+            "description": "glitter layer or animated layer added to the existing ether card - currently we have all static layer so may be a glittery or animated layers can be added as a special trait - during competitions or to the winners in the competitions",
+            "id": 130,
+            "icon": "glittery.png",
+            "accepted": "false"
+        }
+    ],
+    "layer_artists": [
+        "Gergo Kovacs",
+        "Zsolt Kosa",
+        "Zsuzsanna Tasi",
+        "David Szabo",
+        "Vizie"
+    ],
+    "layer_image": "https://ether-cards.mypinata.cloud/ipfs/QmbkGSyXgthdE7bXA8RUzFxXnR13qQCsk4sBJm4KAFDhwC/41/92/41921364e5.jpg",
+    "artist": "various",
+    "title": "Accidental Collaboration"
+}

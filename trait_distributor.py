@@ -38,6 +38,7 @@ def load_new_traits(i):
     new_traits = json.loads(requests.get(new_traits_url).text)
     return(new_traits)
 
+
 def allocate_drop():
     global rando
 
@@ -105,7 +106,7 @@ def allocate_drop():
         if not os.path.exists(subfolder):
             os.makedirs(subfolder)
        
-        filename = os.path.join(subfolder,(str(i % 100)+".json"))
+        filename = os.path.join(subfolder,(str(i)+".json"))
         with open(filename, "w") as write_file:
             json.dump(metadata, write_file, indent=4)
 
